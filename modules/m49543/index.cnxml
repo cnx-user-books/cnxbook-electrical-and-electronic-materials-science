@@ -1,0 +1,224 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chapter 3. Special Classification of Semiconductors.Sec3.1.Compund Semiconductors</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49543</md:content-id>
+  <md:title>Chapter 3. Special Classification of Semiconductors.Sec3.1.Compund Semiconductors</md:title>
+  <md:abstract>Chapter 3 covers the special classification of Semiconductors. The first classification is Compound Semiconductors . Section 3.1 is devoted to Compound Semiconductors.</md:abstract>
+  <md:uuid>4cc74d2c-84ef-44db-ad17-faccb9403403</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1171154972676">
+      <emphasis effect="bold">Chapter 3. Special Classification of Semiconductors.</emphasis>
+    </para>
+    <para id="import-auto-id1171154971361">
+      <emphasis effect="bold">Section 3.1. Compound - Semiconductors.</emphasis>
+    </para>
+    <para id="import-auto-id1171154976944">Compound Semiconductors are the basis of a whole new branch of Science and Technology known as Photonics. Light Sources and Light Detectors belong to this discipline. III-V elements give rise to Compound Semiconductors which are suitable for Light Generation or Light detection. These III-V elements form alloys across the whole range of concentration at their growth temperature. This wide miscibility range allows alloys to be grown with band structures adjusted  for specific applications. This leads to Band structure manipulation according to our specific needs. This is known as Band-gap Engineering. The common Alloys used in Photonics are as given below:</para>
+    <list id="import-auto-id1171154965358" list-type="enumerated" number-style="lower-roman">
+      <item>GaP(2.3eV, a = 5.42A°)____GaAs<sub>x</sub>P<sub>(1-x)</sub>___________GaAs(1.42eV, 5.65A°): here x is the stoichometric coefficient and by adjusting ‘x’ , band-gap can be tailored from 1.42eV to 2eV.</item>
+      <item>InP(1.3eV,5.85A°)__________InGaP_________________GaP(2.3eV, 5.42A°).</item>
+      <item>GaAs(1.42eV, 5.65A°)____________GaAlAs__________________AlAs(2.2eV, 5.65A°).</item>
+      <item>GaAs(1.42eV, 5.65A°)________GaAsSb__________GaSb(0.65eV, 6.1A°).</item>
+      <item>GaAs(1.42eV, 5.65A°)_____GaInAs_________InAs(0.35eV, 6.05A°).</item>
+      <item>InP(1.3eV,5.85A°)_______InPAs__________InAs(0.35eV,6.05A°).</item>
+      <item>GaSb(0.7eV,6.1A°)______GaInSb_________InSb(0.15eV,6.5A°).</item>
+    </list>
+    <para id="import-auto-id1171154969798">The three element alloys are TERNARY ALLOYS. Two from Group III  and two from Group IV combine to form QUATERNARY ALLOYS.</para>
+    <para id="import-auto-id1171154976439">Wide miscibility shown above has been translated into a topological diagram Figure 3.1 where Band-Gap versus Lattice Constant is plotted for the seven major Compound Semiconductors namely GaP, GaAs, GaSb, InAs, InSb , InP , AlAs, and AlSb and their derived Ternary Alloys.</para>
+    <para id="import-auto-id1171142599203">As seen from Figure 3.1, none of the pure compounds listed have a direct band-gap more than 1.65μm for producing Visible Spectra Radiation. GaAs, InP, GaSb,  InAs and InSb have direct band-gap but less than 1.65eV.</para>
+    <para id="import-auto-id1171154975470">AlP, GaP, AlAs and AlSb all have Band-gap larger than 1.65eV but all are in-direct band-gap hence not suitable for optical generation. Hence for Optical LEDs we go for alloys of GaP and GaAs known as ternary alloy GaAs<sub>(1-x)</sub>P<sub>x</sub>. In Figure 3.2, the white light spectrum and the corresponding Band-gaps are shown.</para>
+    <para id="import-auto-id1171154971848">Figure<figure id="import-auto-id1171154977531"><media id="import-auto-id1171154969878" alt=""><image mime-type="image/png" src="../../media/Picture 4-2563.png" height="550" width="623"/></media></figure></para>
+    <para id="import-auto-id1171154977532">
+      <emphasis effect="bold">Figure 3.1.Topoloigical diagram for Compound Semiconductors and their Ternary Compounds. The Solid lines indicate Direct Band Gap materials and dashed lines show In-direct Band Gap materials.</emphasis>
+    </para>
+    <figure id="import-auto-id1171154967993">
+      <media id="import-auto-id1171154971740" alt="">
+        <image mime-type="image/png" src="../../media/Picture 5-290a.png" height="452" width="623"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1171154971300">
+      <emphasis effect="bold">Figure 3.2. The plot of Band-Gap and the corresponding Wavelength versus Lattice Constant.</emphasis>
+    </para>
+    <figure id="import-auto-id1171142290867">
+      <media id="import-auto-id1171142195372" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-e3ab.png" height="361" width="623"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1171142424814">
+      <emphasis effect="bold">Figure 3.3. External Quantun Efficiency vs stoichiometric corefficient of Phosphorous in ternary alloy GaAs</emphasis>
+      <emphasis effect="bold">(1-x)</emphasis>
+      <emphasis effect="bold">P</emphasis>
+      <emphasis effect="bold">x</emphasis>
+      <emphasis effect="bold">.</emphasis>
+    </para>
+    <para id="import-auto-id1171142238794">For the manufacture  of coloured LEDS we have to use GaAs<sub>(1-x)</sub>P<sub>x</sub> ternary alloy. This has a problem. Below x = 0.45 it is a direct band-gap material but at higher proportion of Phosphorous it becomes in-direct and its performance becomes very poor as shown in Figure 3.3. By doping with Nitrogen it can be restored to Direct Band-gap material and utilized for LED manufacturing. Table 3.1 tabulates the different ternary alloys used for manufacturing the spectrum coloured LEDs.</para>
+    <para id="import-auto-id1171143587226"><emphasis effect="bold">Table 3.1.The Ternary Alloys (GaAs</emphasis>
+      <emphasis effect="bold">(1-x)</emphasis>
+      <emphasis effect="bold">P</emphasis>
+      <emphasis effect="bold">x</emphasis>
+      <emphasis effect="bold"> ) used in the manufacture of the whole range of spectrum coloured LED. Here E</emphasis>
+      <emphasis effect="bold">g</emphasis>
+      <emphasis effect="bold">=1.424+1.15x+0.176x</emphasis>
+      <emphasis effect="bold">2</emphasis>
+      <emphasis effect="bold">.</emphasis>
+    </para><table id="import-auto-id1171142258119" summary="">
+      <tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <thead>
+          <row>
+            <entry>Colour</entry>
+            <entry>Wavelength(μm)</entry>
+            <entry>Energy Band-gap(eV)</entry>
+            <entry>‘x’</entry>
+            <entry>Substrate</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Red</entry>
+            <entry>0.64</entry>
+            <entry>1.9</entry>
+            <entry>0.4</entry>
+            <entry>GaAs</entry>
+          </row>
+          <row>
+            <entry>Orange</entry>
+            <entry>0.62</entry>
+            <entry>2</entry>
+            <entry>0.5</entry>
+            <entry>GaP</entry>
+          </row>
+          <row>
+            <entry>Yellow</entry>
+            <entry>0.58</entry>
+            <entry>2.15</entry>
+            <entry>0.58</entry>
+            <entry>GaP</entry>
+          </row>
+          <row>
+            <entry>Green</entry>
+            <entry>0.55</entry>
+            <entry>2.25</entry>
+            <entry>0.656</entry>
+            <entry>GaP</entry>
+          </row>
+          <row>
+            <entry>Blue</entry>
+            <entry>0.475</entry>
+            <entry>2.60</entry>
+            <entry>0.9</entry>
+            <entry>SiC</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id1171143387382">
+      <emphasis effect="bold">3.1.1. The Crystal Structure of Compound Semiconductors and its Dopent.</emphasis>
+    </para>
+    <para id="import-auto-id1171148103538">GaP, GaAs, GaSb, InAs, InSb , InP , AlAs, and AlSb have the the same crystalline structure as Diamond but now it is called Zinc-Blende. It is two interpenetrating FCC sublattices with one sublattice made of Group III element and the other FCC sublattice made of Group V element and one sub-lattice is displaced with respect to the other along the diagonal of the cube by a quarter of the diagonal length i.e. by a√3/4. The net result is that every Group III has FOUR Group V atoms as neighbours and  similarly Group V has for Group III atoms as neighbours. This completes the co-valent bond requirement.</para>
+    <para id="import-auto-id1171142252109">Table 3.2 tabulates the dopents of III-V Compound semiconductors.</para>
+    <para id="import-auto-id1171141914773">
+      <emphasis effect="bold">Table 3.2. P and N type dopents for III-V Compunds.</emphasis>
+    </para>
+    <table id="import-auto-id1171142229143" summary="">
+      <tgroup cols="6">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <thead>
+          <row>
+            <entry>Group</entry>
+            <entry>II</entry>
+            <entry>III</entry>
+            <entry>IV</entry>
+            <entry>V</entry>
+            <entry>VI</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry/>
+            <entry>Zn</entry>
+            <entry>Ga</entry>
+            <entry>Si</entry>
+            <entry>As</entry>
+            <entry>S</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry>In</entry>
+            <entry>Ge</entry>
+            <entry>P</entry>
+            <entry>Se</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry>N</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry/>
+            <entry>Acceptor</entry>
+            <entry/>
+            <entry>Amphoteric Dopents</entry>
+            <entry/>
+            <entry>Donors</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id1171142264231">Silicon and Germanium can either be Donor or Acceptor depending upon what they substitute. If Group III is substitute then they  become DONOR and if they substitute Group V then they become acceptor. But since Si is smaller in size hence energetically it is favourable to replace Ga hence Si is Donor in GaAs and bigger Ge substitutes the bigger As atoms hence Ge is acceptor.</para>
+    <para id="import-auto-id1171142292542">
+      <emphasis effect="bold">3.1.2. Band-gap Engineering.</emphasis>
+    </para>
+    <para id="import-auto-id1171144543778">The manipulation of Band Structure required for different kinds of applications is Band-gap Engineering. There are three techniques of Band-gap Enginering:</para>
+    <list id="import-auto-id1171142018118" list-type="enumerated" number-style="lower-roman">
+      <item>Alloying;</item>
+      <item>Use of Heterojunctions and</item>
+      <item>Built-in strain via mismatched epitaxy.</item>
+    </list>
+    <para id="import-auto-id1171142259690">The Aim of Band-gap Engineering is to tailor/customize the band-gap according to the wavelength at which we want to operate.</para>
+    <para id="import-auto-id1171142270963">The second objective is to tailor the lattice constant according to our matching or our mis-matching requirements.</para>
+    <para id="import-auto-id1171142262039">The wide miscibility range allows alloys to be grown with Band structures adjusted and finally tuned for specific applications.</para>
+    <para id="import-auto-id1171145909385">
+      <emphasis effect="bold">3.1.3. Properties of Alloys.</emphasis>
+    </para>
+    <para id="import-auto-id1171142248851">In Alloys we have Lattice Parameter (a)Law called Vegard’s Law. If we have two solid mixture A<sub>X</sub>B<sub>(1-X)</sub> then the Alloy’s Lattice Parameter is given as follows:</para>
+    <figure id="import-auto-id1171150425696">
+      <media id="import-auto-id1171141894368" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-b845.png" height="23" width="324"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1171142271570">Alloys are not perfect crystals even if they have perfect lattice structure. This because in solid mixture  atoms donot have periodic placement.</para>
+    <para id="import-auto-id1171143141561">By virtual crystal approximation:</para>
+    <figure id="import-auto-id1171142251393">
+      <media id="import-auto-id1171142292682" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-bc6c.png" height="27" width="306"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1171141886214">We have quadratic approximation also:</para>
+    <figure id="import-auto-id1171143172437">
+      <media id="import-auto-id1171142839768" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-614c.png" height="27" width="311"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1171142280126">Equation 3.3 is the same as the Equation given in Table 3.1. </para>
+    <para id="import-auto-id8269046">Alloying induced dis-order causes a BOWING Parameter in compound semiconductor Wafer. Equations 3.2 and 3.3 are valid only if the alloy is a good mixture i.e. perfectly random mixing. </para>
+    <para id="import-auto-id1171143512532">In an alloy A<sub>X</sub>B<sub>(1-X)</sub> a good mixing results into the fact that the probability that A is surrounded by B is (1-X) and B is surrounded by A is X. If proportion is different from the stichiometric corfficient  then it is clustered or phase repeated.</para>
+    <para id="import-auto-id1171140098108">Test of Eq (3.2):</para>
+    <para id="import-auto-id1171142274321">AlAs has E<sub>g</sub> = 2.75eV and GaAs has E<sub>g</sub> = 1.43eV  therefore in Al<sub>0.3</sub>Ga<sub>0.7</sub>As has </para>
+    <para id="import-auto-id1171143927635">E<sub>g</sub> = 0.3×2.75+ 0.7×1.43 = 1.826eV.</para>
+  </content>
+</document>

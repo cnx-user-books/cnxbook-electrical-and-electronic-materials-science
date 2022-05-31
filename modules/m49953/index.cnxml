@@ -1,0 +1,334 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chapter 7. Magnetic Materials.</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49953</md:content-id>
+  <md:title>Chapter 7. Magnetic Materials.</md:title>
+  <md:abstract>Chapter 7, Section 7.1 to Section 7.6 describe Ferro, Ferri, Anti-ferro,Para and Dia-magnetic materials.</md:abstract>
+  <md:uuid>4e6cc7c5-d0fc-4b50-9c63-ec193ccf4794</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1165243204101">
+      <emphasis effect="bold">Chapter 7. Magnetic Materials. </emphasis>
+    </para>
+    <para id="import-auto-id1165240893488">
+      <emphasis effect="bold">[All the FIGURES are at the end of the Chapter]</emphasis>
+    </para>
+    <para id="import-auto-id1165242742284">HISTORY: The most popular legend accounting for the discovery of magnets is that of an elderly Cretan shepherd named Magnes. Legend has it that Magnes was herding his sheep in an area of Northern Greece called Magnesia, about 4,000 years ago. Suddenly both, the nails in his shoes and the metal tip of his staff became firmly stuck to the large, black rock on which he was standing. To find the source of attraction he dug up the Earth to find lodestones (load = lead or attract). Lodestones contain magnetite, a natural magnetic material Fe3O4. This type of rock was subsequently named magnetite, after either Magnesia or Magnes himself. </para>
+    <para id="import-auto-id1165243161458">Earliest discovery: The earliest discovery of the properties of lodestone was either by the Greeks or Chinese. Stories of magnetism date back to the first century B.C in the writings of Lucretius and Pliny the Elder (23-79 AD Roman). Pliny wrote of a hill near the river Indus that was made entirely of a stone that attracted iron. He mentioned the magical powers of magnetite in his writings. For many years following its discovery, magnetite was surrounded in superstition and was considered to possess magical powers, such as the ability to heal the sick, frighten away evil spirits and attract and dissolve ships made of iron!</para>
+    <para id="import-auto-id1165242749577">The first paper on Magnetism: Peregrinus &amp; Gilbert Peter Peregrinus is credited with the first attempt to separate fact from superstition in 1269. Peregrinus wrote a letter describing everything that was known, at that time, about magnetite. It is said that he did this while standing guard outside the walls of Lucera which was under siege. While people were starving to death inside the walls, Peter Peregrinus was outside writing one of the first 'scientific' reports and one that was to have a vast impact on the world. </para>
+    <para id="import-auto-id1165243005306">Earth is a huge Magnet: However, significant progress was made only with the experiments of William Gilbert in 1600 in the understanding of magnetism. It was Gilbert who first realized that the Earth was a giant magnet and that magnets could be made by beating wrought iron. He also discovered that heating resulted in the loss of induced magnetism. </para>
+    <para id="import-auto-id1165242837300">Interrelationship between Electricity and Magnetism: In 1820 Hans Christian Oersted (1777-1851 Danish) demonstrated that magnetism was related to electricity by bringing a wire carrying an electric current close to a magnetic compass which caused a deflection of the compass needle. It is now known that whenever current flows there will be an associated magnetic field in the surrounding space, or more generally that the movement of any charged particle will produce a magnetic field.</para>
+    <para id="import-auto-id1165243743482">Birth of Electromagnetic Field: Eventually it was James Clerk Maxwell (1831-1879 Scottish) who established beyond doubt the inter-relationships between electricity and magnetism and promulgated a series of deceptively simple equations that are the basis of electromagnetic theory today. What is more remarkable is that Maxwell developed his ideas in 1862 more than thirty years before J. Thomson discovered the electron in 1897, the particle that is so fundamental to the current understanding of both electricity and magnetism. </para>
+    <para id="import-auto-id1165244718689">The term magnetism was thus coined to explain the phenomenon whereby lodestones attracted iron. Today, after hundreds of years of research we not only know the attractive and repulsive nature of magnets, but also understand MIR scans in the field of medicine, computers chips, television and telephones in electronics and even that certain birds, butterflies and other insects have a magnetic sense of direction. </para>
+    <para id="import-auto-id1165242981392">
+      <emphasis effect="bold">7.1. Magnetic Circuit – an analog of Electric Circuit.</emphasis>
+    </para>
+    <para id="import-auto-id1165247684763">Just as in an electric circuit , voltage (V) drives current (A) through the electrical circuit resistance R where R is:</para>
+    <figure id="import-auto-id1165242783581">
+      <media id="import-auto-id1165243878910" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-ecae.png" height="94" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165245436421">In an analogous fashion, transformer’s core is a magnetic circuit where Magneto-Motive Force in Amp-Turns(AT) drives magnetic flux in Weber overcoming the reluctance of the magnetic core where Reluctance is defined as follows:</para>
+    <figure id="import-auto-id1165245910037">
+      <media id="import-auto-id1165242529555" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-27ae.png" height="114" width="633"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165244865915">
+      <media id="import-auto-id1165257056252" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-144d.png" height="55" width="588"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165244066264">
+      <emphasis effect="bold">7.2. Ampere’s circuital Law:</emphasis>
+    </para>
+    <para id="import-auto-id1165241034297">Andre Maria Ampere (1775-1836) gave the Ampere Circuital Law.</para>
+    <para id="import-auto-id1165254665582">In the simplest form it is stated as:</para>
+    <figure id="import-auto-id1165246052399">
+      <media id="import-auto-id1165245908950" alt="">
+        <image mime-type="image/png" src="../../media/graphics4-950a.png" height="37" width="589"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165242774655">James Clerk Maxwell (1831-1879) stated it as follows:</para>
+    <figure id="import-auto-id1165243802067">
+      <media id="import-auto-id1165241008097" alt="">
+        <image mime-type="image/png" src="../../media/graphics5-9326.png" height="55" width="581"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165243276940">(7.4) is Differential Form. In Integral form it is as follows:</para>
+    <para id="import-auto-id1165244815075">
+      <figure id="import-auto-id1165242919871">
+        <media id="import-auto-id1165246051899" alt="">
+          <image mime-type="image/png" src="../../media/graphics6-9043.png" height="38" width="564"/>
+        </media>
+      </figure>
+      <figure id="import-auto-id1165241894140">
+        <media id="import-auto-id1165244387151" alt="">
+          <image mime-type="image/png" src="../../media/graphics7-103f.png" height="47" width="613"/>
+        </media>
+      </figure>
+    </para>
+    <para id="import-auto-id1165247997224">
+      <emphasis effect="bold">7.3. Faraday’s Law of electro-magnetic induction.</emphasis>
+    </para>
+    <para id="import-auto-id1165241048593">Whenever the magnetic flux linked with a closed conducting coil changes, an e.m.f.  is induced which causes a eddy current to flow through the coil. The direction of eddy current is such as to create a magnetic polarity which opposes the cause of electro-magnetic induction.</para>
+    <para id="import-auto-id1165244758693">If a North Pole approaches the closed coil then eddy current will make the near face of the coli North Pole so that the approaching Pole is opposed and if North Pole is receding then near face  will act as South Pole so as to attract the receding Pole.</para>
+    <para id="import-auto-id1165254761700">Mathematically it is:</para>
+    <figure id="import-auto-id1165243748907">
+      <media id="import-auto-id1165246963539" alt="">
+        <image mime-type="image/png" src="../../media/graphics8-dad5.png" height="74" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165242968289">Maxwell stated it as follows:</para>
+    <figure id="import-auto-id1165242572825">
+      <media id="import-auto-id1165241067084" alt="">
+        <image mime-type="image/png" src="../../media/graphics9-714c.png" height="55" width="537"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165242960364">(7.7) in integral form is as follows:</para>
+    <figure id="import-auto-id1165246488757">
+      <media id="import-auto-id1165242957706" alt="">
+        <image mime-type="image/png" src="../../media/graphics10-0ee8.png" height="57" width="533"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165245495756">
+      <emphasis effect="bold">7.4. Lorentz Force and Left Hand Rule.</emphasis>
+    </para>
+    <para id="import-auto-id1165245327868">A current in the magnetic field , held transverse to the  magnetic field, will experience a mechanical force in the third perpendicular direction. This mechanical force is known as Lorentz Force.</para>
+    <para id="import-auto-id1165246922125">Complete statement of Lorentz Force is as follows:</para>
+    <figure id="import-auto-id1165242970275">
+      <media id="import-auto-id1165246062036" alt="">
+        <image mime-type="image/png" src="../../media/graphics11-92c1.png" height="37" width="512"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165244679030">The first part on R.H.S. is the electro-static force and second is the magneto-static force on a moving electron. J.J. Thomson used this equation to determine q/m of an electron in Cathode Ray Experiment. He balanced the electric force and magnetic force and obtained zero deflection of the electron beam on the CRO screen.</para>
+    <para id="import-auto-id1165246490298">A line of current I Amperes of length L(m) is held in Magnetic Field of B Tesla where I and B are transverse to each other then there is a force f (newtons) acting on the line of current along the third perpendicular direction. If Current is in the direction of M[i]ddle finger and Magnetic Field is in the direction of index [f]inger  then the Lorentz force is in the direction of the Thu[m]b as shown in Figure 7.2.</para>
+    <para id="import-auto-id1165243305389">This force F(Newtons)= B.I.L  It is this force which causes an armature of a motor to rotate.</para>
+    <para id="import-auto-id1165243921080">Two parallel lines carrying I amperes each will experience a magneto-static force of attraction if the current flows are in the same direction and experience a magneto-static repulsion force if they are in opposite direction. </para>
+    <figure id="import-auto-id1165246490136">
+      <media id="import-auto-id1165245270580" alt="">
+        <image mime-type="image/png" src="../../media/graphics12-9eb0.png" height="37" width="7"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165243162938">
+      <emphasis effect="bold">7.5. Right Hand Palm Rule.</emphasis>
+    </para>
+    <para id="import-auto-id1165246457966">This rule lets us determine the polarity of a solenoid or a coil of current. If the  fingers of right hand clasping the solenoid is in the direction of the current flow as shown in Figure 7.3. then magnetic flux line will be in the direction of the thumb. </para>
+    <para id="import-auto-id1165243689036">North Pole of the Solenoid is the end from where magnetic flux lines come out. The end where they enter the solenoid is defined as South Pole.</para>
+    <para id="import-auto-id1165246688176">
+      <emphasis effect="bold">7.6. Magnetic Materials.</emphasis>
+    </para>
+    <para id="import-auto-id1165247405099">The materials which are spontaneously magnetized or have a susceptibility to magnetization are referred to as magnetic materials. They are classified as:</para>
+    <para id="import-auto-id1165246732349">i.Ferromagnetic- spontaneously magnetized and have strong, positive susceptibility to magnetization. Ferromagnetic material has been demonstrated in Figure 7.4. Up to a temperature known as Curie Temperature, in this case 1000K, spontaneous magnetization is maintained as shown in the upper part of the Figure but this self alignment of the dipoles gets disrupted due to thermal fluctuations above 1000K. </para>
+    <para id="import-auto-id1165241120698">ii. Paramagnetic materials: these have no spontaneous magnetization and have weak, positive susceptibility to magnetization. As shown in Figure 7.5., there is no spontaneous magnetization but application of Magnetic Field does cause a weak magnetization.</para>
+    <para id="import-auto-id1165246705644">iii.Diamagnetic materials: these have no spontaneous magnetization and they move away from a region of magnetic field and have a negative, weak susceptibility to magnetization. Diamagnetism is the property of an object which causes it to create a <link url="http://www.wikipedia.org/wiki/Magnetic_field">magnetic field</link> in opposition to an externally applied magnetic field, thus causing a repulsive effect. Specifically, an external magnetic field causes eddy currents in such a way that according to <link url="http://www.wikipedia.org/wiki/Lenz%27s_law">Lenz's law</link>, this opposes the external field. Diamagnets are materials with a <link url="http://www.wikipedia.org/wiki/Magnetic_permeability">magnetic relative permeability</link> less than 1.</para>
+    <para id="import-auto-id1165246760202">Consequently, diamagnetism is a form of <link url="http://www.wikipedia.org/wiki/Magnetism">magnetism</link> that is only exhibited by a substance in the presence of an externally applied magnetic field. It is generally quite a weak effect in most materials, although <link url="http://www.wikipedia.org/wiki/Superconductor">superconductors</link> exhibit a strong effect.</para>
+    <para id="import-auto-id1165242730363">Diamagnetic materials cause lines of <link url="http://www.wikipedia.org/wiki/Magnetic_flux">magnetic flux</link> to curve away from the material, and superconductors can exclude them completely (except for a very thin layer at the surface).</para>
+    <para id="import-auto-id1165240900486">In Figure 7.6. a comparative study of diamagnetic and  paramagnetic material has been made. In  paramagnetic there are atomic magnetic dipoles but randomly arranged and application of magnetic field can align them to result in a weak magnetization. But in diamagnetic materials there are no atomic magnetic dipoles. These get induced by the application of external magnetic field but opposed to the external magnetic field in accordance with Lenz’s Law.</para>
+    <para id="import-auto-id1165247401788">In Figure 7.7. we show the magnetization curve with respect externally magnetic field.</para>
+    <para id="import-auto-id1165243727321">In Figure 7.8, we show the temperature sensitivity of Ferromagnetic and paramagnetic materials.</para>
+    <figure id="import-auto-id1165242978713">
+      <media id="import-auto-id1165242819735" alt="">
+        <image mime-type="image/png" src="../../media/graphics13-72e3.png" height="37" width="464"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165245535052">Therefore</para>
+    <figure id="import-auto-id1165243195895">
+      <media id="import-auto-id1165248967776" alt="">
+        <image mime-type="image/png" src="../../media/graphics14-ff6e.png" height="55" width="591"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165254764518">By rearranging the terms we get:</para>
+    <figure id="import-auto-id1165244358384">
+      <media id="import-auto-id1165244823521" alt="">
+        <image mime-type="image/png" src="../../media/graphics15-b269.png" height="37" width="537"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165243108936">In Table 7.1. the magnetic susceptibilities of paramagnetic and diamagnetic materials are given.</para>
+    <para id="import-auto-id1165245872218">From Figure 7.8 it is evident Ferromagnets have high positive susceptibility right up to Curie Temperature. Only after Curie Temperature susceptibility drastically falls. Where as Paramagnetic material has a graded response. At very low temperatures susceptibility is  high and it gradually falls with rise in temperature.</para>
+    <para id="import-auto-id1165247169857">
+      <emphasis effect="bold">Section 7.6.1. Classifications of Ferromagnets.</emphasis>
+    </para>
+    <para id="import-auto-id1165243885429">Feromagnets have further sub-classes namely Ferrimagnetic Materials and Anti-ferromagnetic Materials.</para>
+    <para id="import-auto-id1165247401853">In Figure 7.9 Chromium BCC crystal’s Unit Cell is shown. The Body central left directed dipole moment is negated by the right directed dipole moment of 8 corner atoms. This negation results into zero Magnetic Moment because  each of the 8 corner atoms make 1/8 contribution to the Unit Cell.</para>
+    <para id="import-auto-id1165242653280">Manganese Oxide is anti-ferromagnetic below Neel Temperature and above Neel Temperature it is Paramagnetic. In Figure 7.10, it is shown below Neel Temperature.</para>
+    <para id="import-auto-id1165242576850">In 1986, high temperature Lanthanite Barium Copper Oxide [La(2-x)Ba(x)CuO4] were found to exhibit superconductivity at 30K shown in Figure 7.11. Yittrium Barium Copper Oxide(YBa2Cu3O6) Superconductors were discovered which exhibited superconductivity at 90K warmer than liquid Nitrogen Temperature. In all these layered compounds it was found that CuO2 planes had anti-ferromagnetic order. This led to a flurry of activities in CuO2 based Ceramics for developing Room Temperature Superconductors. A detailed account of the quest for Room Temperature Superconductor is given in Chapter 8.</para>
+    <para id="import-auto-id1165241760596">In Figure 7.12 the dipole alignments in Ferro, Ferri and Antiferro-magnetic materials are shown. Here T<sub>C</sub> refers to Curie Temperature and T<sub>N</sub> refers to Neel Temperature.</para>
+    <para id="import-auto-id1165247617230">Curie Temperature refers to Ferromagnetic Materials only. Above Curie Temperature, Ferromagnetic Materials loses its spontaneous magnetization.</para>
+    <para id="import-auto-id1165243726739">In Ferrimagnetic and Anti-Ferromagnetic materials below Neel Temperature, the materials retain their Ferrimagnetism or Antiferromagnetism as the case may be. But above Neel Temperature they become paramagnetic. Thermal fluctuations disturbs the order.</para>
+    <para id="import-auto-id1165242731734">Table 7.2. gives the Neel Temperature and Curie Temperature for some important magnetic materials.</para>
+    <para id="import-auto-id1165244032187">
+      <emphasis effect="bold">Table 7.2.Neel Temperature for some important Ferri and Anti-Ferromagnetic Materials and Curie Temperatures for Ferromagnetic Materials.</emphasis>
+    </para>
+    <para id="import-auto-id1165245525944">
+      
+      <table id="import-auto-id1165242940365" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <thead>
+            <row>
+              <entry>FERRI &amp; ANTI-FERRO</entry>
+              <entry>NEEL TEMP.</entry>
+              <entry>FERRO</entry>
+              <entry>CURIE TEMP.</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>MnO</entry>
+              <entry>116K</entry>
+              <entry>Fe</entry>
+              <entry>1043K</entry>
+            </row>
+            <row>
+              <entry>Cr</entry>
+              <entry>308K</entry>
+              <entry>Co</entry>
+              <entry>1400K</entry>
+            </row>
+            <row>
+              <entry>MnTe</entry>
+              <entry>307K</entry>
+              <entry>Ni</entry>
+              <entry>631</entry>
+            </row>
+            <row>
+              <entry>CoO</entry>
+              <entry>291K</entry>
+              <entry>Gadolenium</entry>
+              <entry>292</entry>
+            </row>
+            <row>
+              <entry>NiO</entry>
+              <entry>525K</entry>
+              <entry>MnBi</entry>
+              <entry>630</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>Fe2O3</entry>
+              <entry>948</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>FeOFe2O3</entry>
+              <entry>858</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </para>
+    <para id="import-auto-id1165243051174">As is evident from the Table 7.14 , Fe, Co and Ni which are the transition elements and which have uncompensated spin electrons are strongly Ferromagnetic Materials</para>
+    <para id="import-auto-id1165244437586">
+      <emphasis effect="bold">Section 7.6.2. Domains and Hysteresis.</emphasis>
+    </para>
+    <para id="import-auto-id1165243041573">Like Polycrystals or like Ferrielectric materials, in ferromagnetic and ferrimagnetic materials also there are domains of magnetization. Each domain has its own alignment direction and all dipoles in each domain are aligned but the direction of alignment changes from domain to domain as shown in Figure 7.15.</para>
+    <para id="import-auto-id1165246135667">As we  move from one domain to another, orientation of the dipoles only gradually change. Thus there is no abrupt changes across the domain walls as shown in Figure 7.16.</para>
+    <para id="import-auto-id1165243892563">When external magnetic field is applied, favourable domains grow at the expense of unfavourable domains as shown in Figure 7.17. Finally at high fields a domain aligned with external field remains. This is an exact analog of the electric poling of Ferro-electric material.</para>
+    <para id="import-auto-id1165240969051">Figure 7.18 gives B-H curve of a ferro-magnet. Red is the Hysteresis Loop. Blue is the initial magnetization. B<sub>r</sub>  is the remnance Magnetic Flux Density at H=0. H<sub>C</sub> is the coercive magnetic field required to completely demagnetize the material.</para>
+    <para id="import-auto-id1165244853481">As is evident from figure 7.19 induced magnetization is perfectly linear in paramagnetic and in diamagnetic materials but is non-linear in ferro/ferromagnetic materials. Hence latter has a hysteresis loop.</para>
+    <figure id="import-auto-id1165248407786">
+      <media id="import-auto-id1165243252003" alt="">
+        <image mime-type="image/png" src="../../media/Picture 4-cfc5.png" height="500" width="555"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165249700480">
+      <media id="import-auto-id1165243232249" alt="">
+        <image mime-type="image/png" src="../../media/Picture 5-62fa.png" height="508" width="617"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165243035637">
+      <media id="import-auto-id1165248354044" alt="">
+        <image mime-type="image/png" src="../../media/Picture 6-4dd4.png" height="349" width="619"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165243688932">
+      <media id="import-auto-id1165242989826" alt="">
+        <image mime-type="image/png" src="../../media/Picture 7-e1cb.png" height="684" width="624"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165246003813">
+      <media id="import-auto-id1165244776997" alt="">
+        <image mime-type="image/png" src="../../media/graphics16-9e95.png" height="463" width="623"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165248090572">
+      <media id="import-auto-id1165246471788" alt="">
+        <image mime-type="image/png" src="../../media/Picture 9-e232.png" height="359" width="627"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165243752700">
+      <media id="import-auto-id1165247155079" alt="">
+        <image mime-type="image/png" src="../../media/Picture 10-291b.png" height="318" width="624"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165241929916">
+      <media id="import-auto-id1165242591481" alt="">
+        <image mime-type="image/png" src="../../media/Picture 11-2570.png" height="504" width="624"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165243088502">
+      <media id="import-auto-id1165243318808" alt="">
+        <image mime-type="image/png" src="../../media/Picture 12-663c.png" height="583" width="477"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165247164498">
+      <media id="import-auto-id1165243726321" alt="">
+        <image mime-type="image/png" src="../../media/Picture 13-f9e8.png" height="613" width="434"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165241770105">
+      <figure id="import-auto-id1165243697242">
+        <media id="import-auto-id1165243764662" alt="">
+          <image mime-type="image/png" src="../../media/Picture 14-7ddb.png" height="610" width="624"/>
+        </media>
+      </figure>
+    </para>
+    <figure id="import-auto-id1165244814366">
+      <media id="import-auto-id1165246757278" alt="">
+        <image mime-type="image/png" src="../../media/Picture 15.png" height="602" width="612"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165244899935">
+      <figure id="import-auto-id1165249850215">
+        <media id="import-auto-id1165244362187" alt="">
+          <image mime-type="image/png" src="../../media/Picture 16.png" height="377" width="624"/>
+        </media>
+      </figure>
+    </para>
+    <figure id="import-auto-id1165245899739">
+      <media id="import-auto-id1165246487957" alt="">
+        <image mime-type="image/png" src="../../media/Picture 17.png" height="646" width="538"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165248418294">
+      <media id="import-auto-id1165246182464" alt="">
+        <image mime-type="image/png" src="../../media/Picture 18.png" height="564" width="533"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165243189724">
+      <figure id="import-auto-id1165245951108">
+        <media id="import-auto-id1165243234226" alt="">
+          <image mime-type="image/png" src="../../media/Picture 19.png" height="521" width="624"/>
+        </media>
+      </figure>
+      <figure id="import-auto-id1165243761553">
+        <media id="import-auto-id1165246215717" alt="">
+          <image mime-type="image/png" src="../../media/Picture 20.png" height="581" width="624"/>
+        </media>
+      </figure>
+    </para>
+    <figure id="import-auto-id1165243200407">
+      <media id="import-auto-id1165247722194" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-e5fe.png" height="590" width="624"/>
+      </media>
+    </figure>
+  </content>
+</document>

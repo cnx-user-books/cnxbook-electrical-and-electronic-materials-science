@@ -1,0 +1,163 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Section 4.2. Dielectric and its Physics.</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49723</md:content-id>
+  <md:title>Section 4.2. Dielectric and its Physics.</md:title>
+  <md:abstract>Section 4.2 gives the physical basis of chromatic dispersion of light by a prism.</md:abstract>
+  <md:uuid>c716baeb-ddb6-433d-8d1e-9d6d923295d9</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1172267116196">
+      <emphasis effect="bold">Section 4.2. Dielectric and its Physics.</emphasis>
+    </para>
+    <para id="import-auto-id1172272951268">Non-conducting materials are defined as dielectric. The surrounding sea of air is dielectric. Lenses, prisms and films are dielectric. Once light enters a dielectric we must consider μ =μ<sub>0</sub> × μ<sub>r</sub>  and ε = ε<sub>0</sub> × ε<sub>r .</sub> That is relative permeability and relative permittivity must be accounted which in vacuum are unity.</para>
+    <para id="import-auto-id1172272687623">Dielectric which are transparent in visible range are non-magnetic. Hence by the definition of Refractive Index n = c/v = √ε<sub>r </sub>. This is Equation 1a in Section 4.1.</para>
+    <para id="import-auto-id1172277481292">What does TRANSPARENCY mean in materials science ? Light can pass through a transparent material without absorption. This means light does not interact with transparent material. In scientific language it means that light does not interact with the medium it is passing through. If it interacts then the medium is not transparent.</para>
+    <para id="import-auto-id1172265568164">Rewriting Eq 1a we get:</para>
+    <figure id="import-auto-id1172266190247">
+      <media id="import-auto-id1172265457654" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-863f.png" height="27" width="521"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1172278387658">In Equation 5, Refractive Index ‘n’ is measured using visible light and the argument of the square root is Static Dielectric Constant which is quite different from High Frequency Dielectric Constant because of the basic physics which causes relative permittivity.  Let us examine Water. The Refractive Index of Water is 1.333 but static dielectric constant of water is 80. So it is evident that refractive index is frequency dependent. This was evident some 300 years ago when Newton managed to disperse the Sun-light into seven colours of a Rain-bow. The fact that we can disperse light means that Refractive Index is frequency dependent.</para>
+    <para id="import-auto-id1172265833748">
+      <emphasis effect="bold">4.2.1. Why is Refractive Index Frequency Dependent ?</emphasis>
+    </para>
+    <para id="import-auto-id1172268525492">In vacuum:  </para>
+    <figure id="import-auto-id1172277488947">
+      <media id="import-auto-id8935158" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-369e.png" height="22" width="530"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1172266836477">In a dielectric material:</para>
+    <figure id="import-auto-id1172266711604">
+      <media id="import-auto-id1172264808626" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-e5c3.png" height="22" width="524"/>
+      </media>
+    </figure>
+    <para id="import-auto-id3499366">In (7) and (8), D are the same and relative permittivity of Dielectric is greater than Unity hence the same Electric Flux creates a lower Electric Field in the medium as compared to that in the vacuum. So how is the remaining flux density accounted for. The remaining Flux density is causing Polarization and the scenario is the following:</para>
+    <para id="import-auto-id1172276864000">
+      <figure id="import-auto-id8814733">
+        <media id="import-auto-id8936227" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-ddea.png" height="22" width="567"/>
+        </media>
+      </figure>
+    </para>
+    <para id="import-auto-id1172277649747">The Application of an Electric Flux Density D in a dielectric medium causes an Electric Field as well as it induces Polarization.</para>
+    <para id="import-auto-id1172266000729">In polar medium such as water, the dipoles get aligned along the line of Electric Field. This is defined as Orientational Polarization = P<sub>orientational</sub>.</para>
+    <para id="import-auto-id8500078">In non-polar medium, applied flux density distorts the electron cloud with respect to the nucleus of the atom  as a result center of electron gets displaced with respect to the center of nucleus and a dipole is created temporarily. This is called Electronic Polarization = P<sub>electronic</sub>.</para>
+    <para id="import-auto-id1172265762882">In ionic crystals such as NaCl, the application of Electric Flux displaces positive and negative ions inducing dipole moments and  producing Atomic Polarization or Ionic Polarization = P<sub>atomic</sub>.</para>
+    <para id="import-auto-id1172272464630">In Table 4.2. we give some examples of polar and non polar dielectric gases. </para>
+    <para id="import-auto-id1172276911880">
+      <emphasis effect="bold">Table 4.2. Assorted Molecules and their dipole moments.</emphasis>
+    </para>
+    <table id="import-auto-id1172266787114" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <thead>
+          <row>
+            <entry>Molecules</entry>
+            <entry>Configuration</entry>
+            <entry>Net dipole moment</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>CO<sub>2</sub></entry>
+            <entry>+ve and –ve charge centers coincident</entry>
+            <entry>Zero</entry>
+          </row>
+          <row>
+            <entry>H<sub>2</sub>O</entry>
+            <entry>+ve and –ve charge  displaced</entry>
+            <entry>6.2×10<sup>-30 </sup>C-m</entry>
+          </row>
+          <row>
+            <entry>HCl</entry>
+            <entry>+ve and –ve charge  slight displaced</entry>
+            <entry>0.40×10<sup>-30 </sup>C-m</entry>
+          </row>
+          <row>
+            <entry>CO</entry>
+            <entry>+ve and –ve charge  displaced</entry>
+            <entry>3.43×10<sup>-30 </sup>C-m</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id1172265725160"> At low frequency or under DC condition:</para>
+    <figure id="import-auto-id1172265446602">
+      <media id="import-auto-id1172265695873" alt="">
+        <image mime-type="image/png" src="../../media/graphics5-fb49.png" height="22" width="477"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1172268223864">Due to the contribution of all these factors to polarization depending upon the situation,  Static Dielectric Constant is very high. In water it is as high as 80.</para>
+    <para id="import-auto-id1172266217061">But as the sinusoidally varying field’s frequency is increased because of appreciable moments of  inertia, polar molecules are unable to keep up with the alternating field and their effective contribution to the net polarization decreases. In Water dielectric constant is 80 up to 10<sup>10</sup>Hz but it rapidly falls off beyond that frequency. At Peta Hz(in visible part of spectrum) it falls of to 1.78.</para>
+    <para id="import-auto-id1172264986724">In electronic polarization, electron cloud has no problem in following the dictates of the harmonically varying electric field. Hence electronic polarization makes its contribution right up to the Peta Hz.</para>
+    <para id="import-auto-id1172265704194">But electronic polarization gives rise to a resonance absorption phenomena.</para>
+    <para id="import-auto-id1172267205662">An atom can be treated as an harmonic oscillator with a central restoring force F = -kx where k = spring constant or restoring force constant and x is the incremental dispklcament from its equilibrium position. The harmonic oscillator appears as shown in Figure 4.2..</para>
+    <figure id="import-auto-id1172264788681">
+      <media id="import-auto-id1172265474284" alt="">
+        <image mime-type="image/png" src="../../media/graphics6-b9b7.png" height="564" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1172266822665">The equation of motion of this atom with a spherically symmetric electron cloud surrounding the nucleus is as follows:</para>
+    <figure id="import-auto-id1172264794130">
+      <media id="import-auto-id1172265514368" alt="">
+        <image mime-type="image/png" src="../../media/graphics7-2c57.png" height="22" width="584"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1172265473219">The equatiojn of motion of this harmonic oscillator is:</para>
+    <figure id="import-auto-id1172264978966">
+      <media id="import-auto-id1172266143984" alt="">
+        <image mime-type="image/png" src="../../media/graphics8-b593.png" height="41" width="445"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1172264815045">The first term on L.H.S. is the electric perturbing force. The second term is the restoring force where k is the spring constant. R.H.S. D’Alembert’s force due to acceleration of perturbation of electron. (11) is a second order linear differential equation with a Complementary Function + Particular Integral as its total solution.</para>
+    <para id="import-auto-id1172266741938">Under forcing function its harmonic oscillation is as follows:</para>
+    <figure id="import-auto-id1172266197328">
+      <media id="import-auto-id1172265508871" alt="">
+        <image mime-type="image/png" src="../../media/graphics9-0131.png" height="62" width="601"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1172265676696">(12) implies that whenever the incident light has a frequency equal the natural frequency ω<sub>0</sub> resonance occurs and the incident light is completely absorbed by the medium as dissipative absorption.</para>
+    <para id="import-auto-id1172265488472"> From (9):</para>
+    <figure id="import-auto-id1172267114002">
+      <media id="import-auto-id1172268525589" alt="">
+        <image mime-type="image/png" src="../../media/graphics10-d424.png" height="60" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1172266788430">Substituing (12) in (13) we obtain:</para>
+    <figure id="import-auto-id1172268168263">
+      <media id="import-auto-id1172275137179" alt="">
+        <image mime-type="image/png" src="../../media/graphics11-eae4.png" height="56" width="598"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1172267944090">But we know from (1a) that refractive n<sup>2</sup>= ε/ε<sub>0</sub>. Therefore Dispersion Relation where Refractive Index is expressed as a function of frequency is as follows:</para>
+    <figure id="import-auto-id1172267348998">
+      <media id="import-auto-id8568385" alt="">
+        <image mime-type="image/png" src="../../media/graphics12-3fdf.png" height="46" width="598"/>
+      </media>
+    </figure>
+    <para id="import-auto-id8786734">
+      <emphasis effect="bold">4.2.2. Two cases of Refractive Index – below and above Resonance Frequency (ω</emphasis>
+      <emphasis effect="bold">0</emphasis>
+      <emphasis effect="bold">).</emphasis>
+    </para>
+    <para id="import-auto-id1172265685865">Case 1: ω &lt; ω<sub>0</sub> , P and applied E are in phase and n(ω) &gt; 1. This kind of behaviour is generally observed in the real World around.</para>
+    <para id="import-auto-id1172265633907">Case 2: ω &gt; ω<sub>0</sub> , P and applied E are 180°</para>
+    <para id="import-auto-id1172265832290"> out of phase and n(ω) &lt; 1.</para>
+    <para id="import-auto-id1172265039137">The plot of Equation 15 is given in Figure 4.3.</para>
+    <figure id="import-auto-id1172265802870">
+      <media id="import-auto-id1172264993504" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-c34c.png" height="272" width="623"/>
+      </media>
+    </figure>
+    <para id="eip-719">If the incident photon (h*frequency)is not strong enough to excite the crystalline atom then the incident photon is scattered or redirected. This is called Ground State non-resonant scattering.</para><para id="eip-764">If the incident photon is equal to excitation energy then the atom will be excited from ground state to one of the permissible higher energy states.Subsequently atom will relax to the ground state and release its excess energy as thermal energy. This is known as dissipative absorption. </para><para id="eip-346">If incident photon is less than the excitation energy quanta but matches the natural frequency of the electron cloud system around each atomic nucleus then the alternating Electric Field of the incident photon will set the electron clouds in to oscillation. The crystalline atom continues to be in Ground State but electron cloud in each atom is set into a weak oscillation. This oscillatory vibration has two consequences: </para><para id="eip-580">1. Displacement of the center of the electron cloud with respect to the center of the nucleus giving rise to dipole moment qd where q = electronic charge and d = displacement of the center of the negative charge with respect to the center of the positive charge. </para><para id="eip-499">2. Due to alternating electric field the dipole moment is also oscillatory.</para><para id="eip-670">Oscillatory dipole is accompanied with dipole elecrto-magnetic radiation in accordance with the classical electro-magnetic Maxwell Laws. The frequency of the secondary radiation is the same as the frequency of the incident radiation. Since electron cloud plus the nucleus form a perfectly elastic system hence coefficient of restitution is Unity. Just as a perfectly elastic steel ball will continue to bounce up to eternity  because it is a perfectly conservative system. In exactly the same way the incident photon sets the oscillatory dipole in motion and this oscillatory dipole re-radiates the same energy at the same frequency but with an altered direction.If the incident light is unpolarized then reradiation takes place in random direction.This is known as elastic scattering.    </para><para id="eip-106">During irradiation, the setting up of dipole oscillators and secondary re-radiation is rapid. If the emission life-time is of the order of 10^-8 sec then dipole oscillator will re-radiate 10^8 photons per second. </para><para id="eip-912">If incident frequency is equal to the natural frequency of the electron cloud system then amplitude of displacement is large leading to a strong dipole moment and causing a large cross-section of absorption. At a modest value of 10^2W/m^2 incidence 100million photons will be re-radiated. </para><para id="eip-479">When a material with no resonance in visible spectrum is bathed in White Light, non-resonant scattering takes place and this gives each participating atom the appearance of being a tiny source of spherical wavelets. As the incident frequency becomes closer to the resonance frequency of the electron cloud system the more strongly will the incident photon interact with the dielectric material. In dense medium the strong interaction will lead to dissipative absorption.</para><para id="eip-726">It is the selective absorption at resonance frequencies that creates the visual appearance of the multi-colour surrounding- colour of our hair, skin, clothes, colour of leaves, apples and paint.</para><para id="import-auto-id1172266720478">In real life there are three absorption bands for various dielectric and lie across a broad band of spectrum extending from Infra-red to Visible to Ultra-violet to X-Ray. Below IR these absorption bands can lie in RF band of spectrum also.</para>
+    <para id="import-auto-id1172265863303">Below the absorption band lies the Normal Dispersion Band of frequencies. In this band of Spectrum there is a positive slope of the refractive Index curve as shown in Figure 4.3. Higher frequencies have higher Refractive Index. Therefore in chromatic dispersion of white light by a glass prism, Red Light bends the least and Violet bends the most.Here there is elastic scattering of light. Light is absorbed and re-radiated without any dissipation. Hence the term Elastic Scattering. </para><para id="import-auto-id1172267030044">In the absorption band, energy of the incident light is absorbed and dissipated in form of heat. This is called Dissipative Absorption. In absorption band the refractive  index has a negative slope as shown in Figure 4.3. </para><para id="import-auto-id1172276882818">After the absorption band , n &lt; 1 (as seen in Figure 4.3) meaning by light has a phase velocity greater than light. But the group velocity, the velocity at which energy travels, remains below velocity of light. </para>
+    <para id="import-auto-id1172266123025">It is evident from the discussion that over the visible region of the spectrum, electronic polarization is the operative mechanism determining the refractive index dependence on frequency. When the incident frequency is lower than the resonance frequency/characteristic frequency/natural frequency then oscillations amplitude is very small and incident light is elastically scattered. There is no dissipation. At resonance the amplitude is increased and dissipative absorption sets in. The material becomes opaque in dissipative absorption bands though it remains transparent at other frequencies.</para>
+  </content>
+</document>

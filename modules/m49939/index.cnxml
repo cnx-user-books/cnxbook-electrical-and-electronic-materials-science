@@ -1,0 +1,72 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chapter 5. Section 5.6. Metamaterials.</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49939</md:content-id>
+  <md:title>Chapter 5. Section 5.6. Metamaterials.</md:title>
+  <md:abstract>Chapter 5, Section 5.6 gives introduces Meta-materials and gives the latest developments in the field of meta materials.</md:abstract>
+  <md:uuid>5ea7d929-d0f1-4540-8ba0-4f6b284925d2</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1169118829347">
+      <emphasis effect="bold">Chapter 5. Section 5.6. Metamaterials.</emphasis>
+    </para>
+    <para id="import-auto-id1169111792371">Meta material science is a multidiscipline enterprise which includes applied physics, engineering, material science and nano technology. It aims at designing materials with physical properties beyond those available in nature. In metamaterials we want go beyond the natural materials and fabricate metamaterials with undreamt of properties e.g. invisible cloak.</para>
+    <para id="import-auto-id1169118805322">Metamaterial Science  challenges and overcomes the currently held limitations offered by the classical physics. Careful engineering and mixing of meta-atoms has led to completely unconventional standards and yardsticks of classifying the materials.</para>
+    <para id="import-auto-id1169118807194">Metamaterials derive their properties from the structure rather than their constituent components hence they are called super lattices.</para>
+    <para id="import-auto-id1169110521041">For example Photonic Crystals derive their anomalous properties from higher order spatial modes whereas meta materials work with dominant propagation mode and with sub-wavelength spacing between neighboring elements. Macroscopic desired and tailor made properties can be obtained by applying several mixing rates and homogenization principles. </para>
+    <para id="import-auto-id1169112255207">
+      <emphasis effect="bold">Section 5.6.1. Diffraction Limit of Abbe and its conquest by Xu et.al.  Metamaterial Superlens</emphasis>
+      <emphasis effect="bold">1</emphasis>
+    </para>
+    <para id="import-auto-id1169110521638">[1. Xu, T.; Agarwal.A.; Abashin, M; Chau, K.J.; Lezec, H.J. “All-angle negative refraction and active flat lensing of Ultra-Violet Light”, <emphasis effect="italics">Nature,</emphasis><emphasis effect="bold"> 497,</emphasis> #7450, pp. 470-474 (2013)]</para>
+    <para id="import-auto-id1169111064492">Ernest Abbe(1840-1905) a top Physicist and the CEO of Carl Zeiss Lns Company, had set the resolution  of a microscope as follows:</para>
+    <figure id="import-auto-id1169110652047">
+      <media id="import-auto-id1169118832336" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-2a88.png" height="82" width="653"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1169110864562">According to this Formula, the wavelength of the light and Numerical Aperture = nSinα set the resolution limit.</para>
+    <para id="import-auto-id1169110963228">Finer feature sizes can be resolved if wavelength is shorter and n(refractive index) is higher. </para>
+    <para id="import-auto-id1169109704056">Present generation of ICs with 40nm node are using Deep Ultra Violet Light with wavelength 193nm and pure water immersion system to achieve the node size of 40nm.</para>
+    <para id="import-auto-id1169111891654">Future Generation IC Lithography is going to use Extreme UV of λ= 100nm with immersion technique.</para>
+    <para id="import-auto-id1169108663916">In 2000 J. B. Pendry made a proposal of synthesizing Negative Refraction Index Meta material which could be used as super lens for perfect lensing to any feature size.[“Negative Refractive Makes a Perfect Lens”, <emphasis effect="italics">Physical Review Letter , </emphasis><emphasis effect="bold">85, </emphasis>#18, 39<sup>th</sup> October 2000].</para>
+    <para id="import-auto-id1169110867896">They suggested that electron cloud in a dielectric behaves like a plasma and it has the following dielectric theoretical formulation:</para>
+    <figure id="import-auto-id1169109775734">
+      <media id="import-auto-id1169108707961" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-686a.png" height="42" width="590"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1169108272596">When ω &lt; ω<sub>ep</sub> the we have ε is negative.</para>
+    <para id="import-auto-id1169110520364">Similarly we can have loops of conducting wire mimicking magnetic plasma. It wll have the following formulation:</para>
+    <figure id="import-auto-id2687420">
+      <media id="import-auto-id1169118804976" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-63e1.png" height="42" width="596"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1169118803088">When ω &lt; ω<sub>mp</sub> the we have μ is negative.</para>
+    <para id="import-auto-id1169110735205">Xu et al using Ag and TiO<sub>2</sub> layers on glass substrate synthesized negative refraction lens.</para>
+    <para id="import-auto-id1169118833894">Here both ε = -1 and μ= -1.</para>
+    <para id="import-auto-id1169110867032">This results in n= ±√(με) . When ε = -1 and μ= -1 then n = -√(με)</para>
+    <para id="import-auto-id1169111163625">Here the characteristic impedance Z = √(μ/ε) = Z<sub>0</sub> = free space characteristic impedance.</para>
+    <para id="import-auto-id1169110067689">Therefore at the interface of the lens there is no reflection and transmission is 100%.</para>
+    <para id="import-auto-id1169109661822">Also it is taken flat with a thickness ‘d’.</para>
+    <para id="import-auto-id1169108709101">The negative refraction index restores the phase of the propagating waves and also the amplitude of the evanescent waves. The device focuses light tuned to the surface plasma frequency of silver and is limited only by the resistive losses. Here both propagation wave and evanescent waves contribute to the perfect resolution of any feature size dimension. Therefore there is no physical obstacle to perfect reconstruction of the image beyond practical limitations of aperture and the lens surface. </para>
+    <para id="import-auto-id1169110525856">The field of meta materials which is emerging  shows us how to engineer the refraction of light through metallic composites with nano scale structure so that we get perfect lensing with no diffraction limit as given by (5.6.1).</para>
+    <para id="import-auto-id1169110328544">
+      <emphasis effect="bold">Section 5.6.2. The diverse field of Metamaterials.</emphasis>
+    </para>
+    <para id="import-auto-id1169110808375">In their short history, metamaterials have been applied to the most diverse areas, including invisibility cloaks, artificial optical black holes, cosmology, high-temperature</para>
+    <para id="import-auto-id1169109200652">superconductors, just to name a few particularly fascinating examples.</para>
+    <para id="import-auto-id1169118832163">It has been used to fabricate Super lens described above.</para>
+    <para id="import-auto-id1169118802867">It has been used in Automotive Industry.</para>
+    <para id="import-auto-id1169109640092">It has been used in THz Time Domain  applications.</para>
+    <para id="import-auto-id1169108662577">It has been used in Specrometers.</para>
+    <para id="import-auto-id1169109756065">It has been used invisibilty Cloaks.</para>
+    <para id="import-auto-id1169109634878">In 2002, Lucent Technologies has developed Resonant Antennas.</para>
+    <para id="import-auto-id1169109785298">In 2003, MIT urilized photonic crystals for making metamaterials.</para>
+    <para id="import-auto-id1169108756706">Boeing Company has developed the method for  fabricating electromagnetic materials.</para>
+    <para id="import-auto-id1169109716587">In 2004, Lucent Technologies has fabricated Miniature antennae based on negative pewrmittivities.</para>
+    <para id="import-auto-id1169108566128">Boeing Company has developed Metamaterial scanning lens antenna system and methods.</para>
+  </content>
+</document>

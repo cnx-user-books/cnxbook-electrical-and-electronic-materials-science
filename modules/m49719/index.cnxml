@@ -1,0 +1,267 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Section 5.4. Nano-Size Effect on various opto-electronic-magnetic properties of nano materials.</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49719</md:content-id>
+  <md:title>Section 5.4. Nano-Size Effect on various opto-electronic-magnetic properties of nano materials.</md:title>
+  <md:abstract>Section 5.4 describes the nano-size effect on the band-gap, specific heat, melting point, colour of the light emitted from Quantum Dot, on the charging of a nano particle and the effect of confinement on density of states.</md:abstract>
+  <md:uuid>6211316e-c886-4b76-a877-c6444c66395e</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1168585793424">
+      <emphasis effect="bold">Section 5.4. Nano-Size Effect on various opto-electronic-magnetic properties of nano materials.</emphasis>
+    </para>
+    <para id="import-auto-id1168583578071">A nano-particle or a Quantum Dot Semi-conductor ‘Si’ is a cluster of large number of atoms arranged in the minimum energy configuration. If the there are N atoms there are about N electrons or a few times more in this cluster. Most of these electrons are tightly bound to their host atoms. But there are few carriers electrons and holes which behave like particles in an infinite potential well. The scenario is depicted in Figure 5.12a. These behave just as electrons behave in isolated Hydrogen Atoms. Hence Quantum Dots are Artificial Atoms.</para>
+    <figure id="import-auto-id1168588431505">
+      <media id="import-auto-id1168587377097" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-4db2.png" height="446" width="583"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168585228986">The Schrodinger equation of a particle in an infinite potential well is:</para>
+    <figure id="import-auto-id1168586315391">
+      <media id="import-auto-id8941848" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-89cd.png" height="22" width="342"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168585230121">In Quantum Mechanics we have canonical variables: x and p or t and E.</para>
+    <para id="import-auto-id1168588786282">Linear Momentum ‘p’ is equivalent to an operator:</para>
+    <figure id="import-auto-id1168583865326">
+      <media id="import-auto-id1168583705747" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-e9d7.png" height="39" width="201"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168585774401">Therefore Schrodinger Equation for a particle in an infinite potential well is:</para>
+    <figure id="import-auto-id1168583958985">
+      <media id="import-auto-id1168588519049" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-6ca9.png" height="46" width="568"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168587508605">Hamiltonian Operator operates on Matter Wave ψ to yield the eigen value of energy E. (5.4.1) simplifies to Second Order Ordinary Linear Differential Equation with two arbitrary constants determined by the two boundary conditions namely:</para>
+    <figure id="import-auto-id1168586541011">
+      <media id="import-auto-id1168585340498" alt="">
+        <image mime-type="image/png" src="../../media/graphics4-6347.png" height="22" width="125"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168587523059">The simplified Schrodinger Equation is:</para>
+    <para id="import-auto-id1168588636920">
+      <figure id="import-auto-id1168583858698">
+        <media id="import-auto-id1168586571769" alt="">
+          <image mime-type="image/png" src="../../media/graphics5-b329.png" height="32" width="361"/>
+        </media>
+      </figure>
+    </para>
+    <para id="import-auto-id1168583531522">The Solution is Complementary Function:</para>
+    <figure id="import-auto-id1168583602966">
+      <media id="import-auto-id8930664" alt="">
+        <image mime-type="image/png" src="../../media/graphics6-ef1f.png" height="60" width="567"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168586588569">With the given two boundary condition (5.4.3) simplifies to:</para>
+    <figure id="import-auto-id1168585925148">
+      <media id="import-auto-id1168583897081" alt="">
+        <image mime-type="image/png" src="../../media/graphics7-a263.png" height="22" width="531"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168588561313">To satisfy the given boundary condition:</para>
+    <figure id="import-auto-id1168583922345">
+      <media id="import-auto-id1168591109120" alt="">
+        <image mime-type="image/png" src="../../media/graphics8-cb20.png" height="60" width="582"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168585304682"> If V = 0 then the discrete energy states occupied by a carrier in an infinite 1-D Potential Well are:</para>
+    <figure id="import-auto-id1168583944352">
+      <media id="import-auto-id1168583520225" alt="">
+        <image mime-type="image/png" src="../../media/graphics9-69e2.png" height="44" width="563"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168585511992">The energy separation between two adjacent energy states is:</para>
+    <figure id="import-auto-id1168583757168">
+      <media id="import-auto-id1168583623036" alt="">
+        <image mime-type="image/png" src="../../media/graphics10-5897.png" height="44" width="473"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168586353779">The actual energy states in a semiconductor are:</para>
+    <figure id="import-auto-id1168583601016">
+      <media id="import-auto-id1168594477582" alt="">
+        <image mime-type="image/png" src="../../media/graphics11-ba41.png" height="44" width="449"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168585919855">In Equation 5.4.8., L is the Radius of the Quantum Dot. By adjusting the size (i.e. R) of the Quantum Dot, it is continuously tunable through all the seven colours of a Rainbow.</para><para id="import-auto-id1168583769094">The delocalization of electrons and structural changes in nano materials causes band-gap energy change in semi-conductor nano materials as well as changes in the following properties:</para>
+    <para id="import-auto-id1168583923482">i.Optical properties,</para>
+    <para id="import-auto-id1168583919256">ii.Melting Point,</para>
+    <para id="import-auto-id1168585925506">iii.Specific heat,</para>
+    <para id="import-auto-id1168583615891">iv.Surface reactivity,</para>
+    <para id="import-auto-id1168585520666">v. Magnetic Properties,</para>
+    <para id="import-auto-id1168590305559">vi.Electrical conduction.</para>
+    <para id="import-auto-id1168583784250">Table 5.2. gives the Specific Heat of Palladium, Copper and Rubidium in bulk-size and in nano-size.</para>
+    <para id="import-auto-id1168585774700">
+      <emphasis effect="bold">Table 5.2. Specific Heat of Pd,Cu and Ru in bulk and in nano-size.</emphasis>
+    </para>
+    <table id="import-auto-id1168586383669" summary="">
+      <tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <thead>
+          <row>
+            <entry>Elements</entry>
+            <entry>Bulk(J/(mol.K))</entry>
+            <entry>Nano(J/(mol.K))</entry>
+            <entry>Nano-size</entry>
+            <entry>%increase</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Pd</entry>
+            <entry>25</entry>
+            <entry>37</entry>
+            <entry>6nm</entry>
+            <entry>48</entry>
+          </row>
+          <row>
+            <entry>Cu</entry>
+            <entry>24</entry>
+            <entry>26</entry>
+            <entry>8nm</entry>
+            <entry>8.3</entry>
+          </row>
+          <row>
+            <entry>Ru</entry>
+            <entry>23</entry>
+            <entry>28</entry>
+            <entry>6nm</entry>
+            <entry>22</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id1168584008615">As the bulk-size moves to nano-size, the Melting Point reduces as given below:</para>
+    <figure id="import-auto-id1168583484033">
+      <media id="import-auto-id1168591661177" alt="">
+        <image mime-type="image/png" src="../../media/graphics12-f806.png" height="64" width="624"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1168583564805">
+      <media id="import-auto-id1168592111761" alt="">
+        <image mime-type="image/png" src="../../media/graphics13-301b.png" height="22" width="618"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1168583421251">
+      <media id="import-auto-id1168589970961" alt="">
+        <image mime-type="image/png" src="../../media/graphics14-8b30.png" height="43" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168585804039">In Figure 5.13 it is shown that M.P. of gold particles decreases dramatically as the particle size gets below 5nm.</para>
+    <figure id="import-auto-id1168584186554">
+      <media id="import-auto-id1168583757123" alt="">
+        <image mime-type="image/png" src="../../media/Picture 2-9271.png" height="415" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-id7520990">
+      <emphasis effect="bold">Figure 5.13.M.P. of Gold Particles vs Particle Size.</emphasis>
+    </para>
+    <figure id="import-auto-id1168584018026">
+      <media id="import-auto-id1168583699997" alt="">
+        <image mime-type="image/png" src="../../media/Picture 3-ab55.png" height="294" width="626"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168586493267">
+      <emphasis effect="bold">Figure 5.14. Quantum Dots of smaller size emit shorter wavelengths.</emphasis>
+    </para>
+    <para id="import-auto-id1168583690156">QD comprises of million atoms and equivalent valence electrons. But QD does have a few free electrons. These electrons behave like particle in an Infinite Potential Well. The Schrodinger  Equation has been solved in m33488. That solution tells us electron occupies discrete energy states given by the following equation:</para>
+    <figure id="import-auto-id1168585817302">
+      <media id="import-auto-id1168591450633" alt="">
+        <image mime-type="image/png" src="../../media/graphics15-6e51.png" height="41" width="557"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1168589573280">
+      <media id="import-auto-id1168583901197" alt="">
+        <image mime-type="image/png" src="../../media/graphics16-7fda.png" height="41" width="513"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168584443858">From (2) it is clear that smaller the dot size larger, larger will be the energy packet absorbed during excitation or larger will be the energy packet radiated when Dot settles to ground state. This is the reason why in Figure 5.14 as the dot size decreases it is seen to emit shorter wavelengths  This emission can be LASER type coherent emission or LED type incoherent emission.</para>
+    <para id="import-auto-id1168583820431">Confining a carrier in atleast one spatial dimension at the scale of the order of  de Broglie Wavelength leads to Quantum Size Effect.<emphasis effect="bold"/></para>
+    <para id="import-auto-id1168583981976">In Bulk <emphasis effect="bold"> - </emphasis>3 degrees of freedoms with 0 degreeof Quantum Confinement. So we get bands of permissible energy.</para>
+    <para id="import-auto-id1168583731493">In Quantum Well <emphasis effect="bold">– </emphasis>2 degrees of freedom with 1 degree of Quantum Confinement. .</para>
+    <para id="import-auto-id1168586261918">In Quantum Wire<emphasis effect="bold"> -  </emphasis>1 degree of feedom and 2 degrees  Quantum Confinement.<emphasis effect="bold"/></para>
+    <para id="import-auto-id1168588717578">In Quantum Dot<emphasis effect="bold"> –</emphasis> 0 degree of freedom with 3 degrees of Quantum Confinement.</para>
+    <para id="import-auto-id1168591686125"> Hence in a Quantum Dot, electron behaves as an electron in infinite 1-D Quantum Well. Hence electron behaves as it behaves in a Hydrogen Atom and carriers have discrete energy states. Therefore QD is referred to as an artificial atom.</para>
+    <para id="import-auto-id1168592125966">QD are extremely small semiconductor structures ranging from 2nm to 10nm. At these small dimensions, materials behave differently giving QD unprecedented tunability and enabling never before seen applications in Science &amp; Technology.</para>
+    <para id="import-auto-id1168583635633">The Band-gap of nano-structure:</para>
+    <figure id="import-auto-id1168589536793">
+      <media id="import-auto-id1168583911767" alt="">
+        <image mime-type="image/png" src="../../media/graphics17-adc2.png" height="44" width="516"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168583743154">QD LEDs can produce any colour including white light, it is extremely energy efficient giving the highest Lumens per Watt (uses only few watts) whereas CFL uses more than 10W. Its lifetime is 25 times that of incandescent lamp. But these are expensive . As its price falls due high demand and  mass-production, these will become affordable.</para>
+    <para id="import-auto-id1168584011449">
+      <emphasis effect="bold">Section 5.4.1. Electrical Conduction.</emphasis>
+    </para>
+    <para id="import-auto-id1168588046814"><emphasis effect="bold"/>In bulk metal, current flow is according to Ohm’s Law:</para>
+    <figure id="import-auto-id1168583594703">
+      <media id="import-auto-id7455774" alt="">
+        <image mime-type="image/png" src="../../media/graphics18-b8b3.png" height="128" width="624"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1168583795046">
+      <media id="import-auto-id1168583412132" alt="">
+        <image mime-type="image/png" src="../../media/graphics19-942a.png" height="39" width="148"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168588335489">In nano-material, band theory does not hold good so Ohm’s Laws is no longer applicable and special transport equations have to be formulated for accounting for the tunnel currents from nano-particle to nano-particle.</para>
+    <para id="import-auto-id1168592737811">
+      <emphasis effect="bold">Section 5.5. Electric and Magnetic Properties of matter.</emphasis>
+    </para>
+    <para id="import-auto-id1168583474870">Electron is responsible for two distinct properties:</para>
+    <para id="import-auto-id1168583986274">1- Charge -&gt; It gives all electrical properties of mater. </para>
+    <para id="import-auto-id1168583673723">Conductivity, Paraelectric, ferroelectric, antiferroelectric, diaelectric etc.</para>
+    <para id="import-auto-id1168583623948">2- Spin- &gt; It gives magnetic properties.</para>
+    <para id="import-auto-id1168586011575">Paramagnetic, Ferromagnetic, Antiferromagnetic, Diamagnetic, superparamagnetic, Ferrimagnetic, Canting magnetism, Superferromagnetism. </para>
+    <para id="import-auto-id1168583852858">
+      <emphasis effect="bold">5.5.1.Charging Energy of nano-particle.</emphasis>
+    </para>
+    <para id="import-auto-id1168583831896">Capacitance of a Sphere is:</para>
+    <figure id="import-auto-id1168583674354">
+      <media id="import-auto-id1168583657911" alt="">
+        <image mime-type="image/png" src="../../media/graphics20-cab9.png" height="22" width="516"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168590315410">Therefore charging energy U for nanoparticle of radius a is:</para>
+    <figure id="import-auto-id1168588040024">
+      <media id="import-auto-id1168583911728" alt="">
+        <image mime-type="image/png" src="../../media/graphics21-0591.png" height="44" width="580"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168592111886">This is 10 times larger than thermal energy at Room Temperature of 300K which is 25meV.</para>
+    <para id="import-auto-id1168583479458">25meV corresponds to the charging energy of a nano-particle of radius 14.4nm.</para>
+    <para id="import-auto-id1168591509438">So we conclude there is considerable charging energy for nano particle.</para>
+    <para id="import-auto-id1168586652221">
+      <emphasis effect="bold">5.5.2. Density of States.</emphasis>
+    </para>
+    <para id="import-auto-id1168589818530">It can be shown that Density of permissible Energy States is as follows:</para>
+    <figure id="import-auto-id1168585512922">
+      <media id="import-auto-id1168585708382" alt="">
+        <image mime-type="image/png" src="../../media/graphics22-fcda.png" height="39" width="492"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1168583555734">
+      <media id="import-auto-id1168586510718" alt="">
+        <image mime-type="image/png" src="../../media/graphics23-aca4.png" height="39" width="494"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id5666888">
+      <media id="import-auto-id1168584011338" alt="">
+        <image mime-type="image/png" src="../../media/graphics24-4a54.png" height="42" width="501"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168592892265">Pictorially it is shown in Figure 5.16</para>
+    <figure id="import-auto-id1168583473988">
+      <media id="import-auto-id1168583954859" alt="">
+        <image mime-type="image/png" src="../../media/Picture 5-a0ff.png" height="350" width="615"/>
+      </media>
+    </figure>
+  </content>
+</document>

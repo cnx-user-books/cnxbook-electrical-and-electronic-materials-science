@@ -1,0 +1,228 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Tutorial on Chapter 1-Crystal and Crystal Growth.</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m48918</md:content-id>
+  <md:title>Tutorial on Chapter 1-Crystal and Crystal Growth.</md:title>
+  <md:abstract>Tutorial on Chapter 1 gives the typical numerical problems in Crystal Growth-Bulk and Epitaxial.</md:abstract>
+  <md:uuid>646f51fc-311c-4254-a655-7989817afd2a</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id6595234">Tutorial on Chapter 1-Crystal and Crystal Growth.</para>
+    <list id="import-auto-id6521075" list-type="enumerated" number-style="arabic">
+      <item>Give the percentage packing of Face-Centered-Cube ? [Ans.74%]</item>
+    </list>
+    <para id="import-auto-id1808840">Method:</para>
+    <para id="import-auto-id6507709">FCC crystal has 8 atoms at the 8 corners of the cube and 6 atoms on the 6 faces (4 on side faces+2 on the upper and lower faces].</para>
+    <para id="import-auto-id6512814">Therefore N = the coordination Number = the number of atoms per unit cell = (8×1/8+6×1/2)= 4 atoms per unit cell. </para>
+    <para id="import-auto-id6505275">The atoms are solid spheres and are closely packed so that the atom at the center of the face are touching the 4 atoms on the four corners of the face as shown in the Figure I.</para>
+    <para id="import-auto-id6447619">
+      <figure id="import-auto-id6634878">
+        <media id="import-auto-id6603426" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-b5c8.png" height="483" width="574"/>
+        </media>
+      </figure>
+    </para>
+    <para id="import-auto-id6627737">Inspecting the Figure we find that:</para>
+    <para id="import-auto-id6646292">4R=diagonal of the face=a√2.</para>
+    <para id="import-auto-id6640908">Therefore R/a = √2/4=1/(2√2)</para>
+    <figure id="import-auto-id6405826">
+      <media id="import-auto-id6502814" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-0452.png" height="38" width="551"/>
+      </media>
+    </figure>
+    <para id="import-auto-id5449495">Therefore packing percentage in FCC crystals is 74%.</para>
+    <list id="import-auto-id5535634" list-type="enumerated" number-style="arabic">
+      <item>Give the percentage packing of Body-Centered-Cube ? [Ans.68%]</item>
+    </list>
+    <para id="import-auto-id5773364">Method:</para>
+    <para id="import-auto-id6353401">BCC crystal has 8 atoms at the 8 corners of the cube and 1 atom at the center of the Cube. Therefore N = the coordination Number = the number of atoms per unit cell = (8×1/8+1)= 2 atoms per unit cell. </para>
+    <para id="import-auto-id5916831">The atoms are solid spheres and are closely packed so that the atom at the center of the Cube  is touching the 2 atoms on the two corners of the cross diagonal of the cube as shown in the Figure 2.</para>
+    <figure id="import-auto-id5784852">
+      <media id="import-auto-id2043780" alt="">
+        <image mime-type="image/png" src="../../media/Picture 2-8403.png" height="477" width="589"/>
+      </media>
+    </figure>
+    <para id="import-auto-id3359267">Inspecting the Figure we find that:</para>
+    <para id="import-auto-id4964124">4R= cross diagonal of the Cube =a√3.</para>
+    <para id="import-auto-id3377105">Therefore R/a = √3/4;</para>
+    <figure id="import-auto-id5136026">
+      <media id="import-auto-id3938486" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-bfb3.png" height="39" width="585"/>
+      </media>
+    </figure>
+    <para id="import-auto-id3337996">Therefore packing percentage in FCC crystals is 68%.</para>
+    <list id="import-auto-id3912360" list-type="enumerated" number-style="arabic">
+      <item>Determine the conducting electrons density in FCC Cu where the lattice parameter is 3.6 Angstrom ? [Ans. 8.5734×10<sup>28</sup>/m<sup>3</sup>]</item>
+    </list>
+    <para id="import-auto-id5845198">Copper is univalent crystal hence each atom contributes one electron. Therefore atomic  density gives the conducting electron density.</para>
+    <para id="import-auto-id2441091">Coordination Number of Cu = N = 4 atoms per unit cell.</para>
+    <para id="import-auto-id1629196">Unit cell volume is a<sup>3</sup> .</para>
+    <para id="import-auto-id5980137">Therefore atomic density = conducting electron density = 4 / (a<sup>3</sup>) = 8.5734×10<sup>28</sup>/m<sup>3 </sup>= 8.5734×10<sup>22</sup>/cc.</para>
+    <list id="import-auto-id5811716" list-type="enumerated" number-style="arabic">
+      <item>Si, Ge and GaAs are all diamond crystal structure. Diamond structure is two interpenetrating FCC crystals with one sub-lattice displaced w.r.t. the other along the cross diagonal of the cube by a quarter of the cross diagonal length. In case of Ga As it is ZincBlende cubic structure which has one sub-lattice of Ga and the other sub-lattice of As. </item>
+    </list>
+    <para id="import-auto-id2734089">Find the weight density of Si,Ge and GaAs. Given Avogadro Number = N<sub>Avo</sub> =6.02×10<sup>23</sup>atoms/gm-mole, Si, Ge and GaAs have atomic weight of 28.1, 72.6 and 144.63(mean=72.315 respectively and the lattice parameters are 5.43A°, 5.646A° and 5.6533A° respectively.</para>
+    <para id="import-auto-id5333748">[Ans. 2.33gm/cc, 5.37gm/cc and 5.32gm/cc respectively]</para>
+    <para id="import-auto-id5654254">Method:</para>
+    <para id="import-auto-id5209198">Coordination Number =N= 8 corner atoms + 6 face center atoms + 4 body center atoms= (1/8×8 + 1/2×6+ 4)= 8 atoms per unit cell.</para>
+    <para id="import-auto-id3843413">Therefore Number density = N<sup>*</sup> = 8/a<sup>3</sup>= 4.9967×10<sup>22</sup>  atoms/cc, 4.445 ×10<sup>22</sup>  atoms/cc, 4.4277 ×10<sup>22</sup>  atoms/cc,of Si, Ge and GaAs  respectively.</para>
+    <para id="import-auto-id5849846">Weight of one atom= (AW gm/mole)÷ (N<sub>Avo</sub> atoms/mole)= 4.66×10<sup>-23</sup> gm/atom. 1.157×10<sup>-22</sup> gm/atom. 1.244×10<sup>-22</sup> gm/atom of Si, Ge, GaAs  respectively.</para>
+    <para id="import-auto-id3297165">Therefore weight density = Wt of one atom× N<sup>*</sup> = Weight Density = ρ</para>
+    <para id="import-auto-id3929016">Therefore density of Si=4.9967×10<sup>22</sup>  atoms/cc×4.6677×10<sup>-23</sup> gm/atom=2.33gm/cc.</para>
+    <para id="import-auto-id3953904">Therefore density of Ge=4.4495×10<sup>22</sup>  atoms/cc×1.206×10<sup>-22</sup> gm/atom=5.366gm/cc.</para>
+    <para id="import-auto-id1607624">Therefore density of GaAs=4.42776×10<sup>22</sup>  atoms/cc×1.2012×10<sup>-22</sup> gm/atom=5.318gm/cc gm/cc.</para>
+    <list id="import-auto-id5436361" list-type="enumerated" number-style="arabic">
+      <item>A Silicon Ingot should have a P-Type doping of 10<sup>16</sup>Boron Atoms/cc. In a Czocharlaski Crystal Growth set-up what amount of Boron element by weight should be added to a Si melt of 60Kg. Given:Atomic Weight of Boron =10.8, Segregation Coefficient= 0.8.</item>
+    </list>
+    <para id="import-auto-id5729301">[Answer; About 6 milli gm]</para>
+    <para id="import-auto-id6300266">Method:</para>
+    <para id="import-auto-id3791384">Let Solid Phase concentration of Boron = C<sub>S</sub> ;</para>
+    <para id="import-auto-id3297770">Let Liquid Phase concentration of Boron = C<sub>L</sub> ;</para>
+    <para id="import-auto-id2607802">By Definition, segregation coefficient = C<sub>S </sub>/ C<sub>L</sub> = 0.8.</para>
+    <para id="import-auto-id2002122">Therefore C<sub>L</sub> = (10<sup>16</sup>/cc)/0.8= 1.25×10<sup>16</sup>atoms/cc.</para>
+    <para id="import-auto-id3245670">Volume of the Melt = V<sub>0</sub> = (Weight of the Si-Melt)/ρ<sub>Si</sub> = (60×10<sup>3</sup> gm)/(2.33gm/cc).</para>
+    <para id="import-auto-id1607285">Therefore V<sub>0</sub> = 25.75×10<sup>3</sup> cc.</para>
+    <para id="import-auto-id5327230">No. of Boron atoms to be added= V<sub>0</sub>× C<sub>L</sub> = 25.75×10<sup>3</sup> cc ×1.25×10<sup>16</sup>atoms/cc=N<sub>0</sub>.</para>
+    <para id="import-auto-id3731765">Therefore N<sub>0</sub> =  32.2×10<sup>19</sup> Boron<sup/>atoms to be added to the whole melt.</para>
+    <para id="import-auto-id2945036">Number of gm-moles of Boron required = N<sub>0</sub> /N<sub>Avogadro</sub></para>
+    <para id="import-auto-id6264624"> = 32.2×10<sup>19</sup> Boron Atoms/6.02×10<sup>23</sup> Boron Atoms/gm-mole = 5.349×10<sup>-4</sup> gm-mole.</para>
+    <para id="import-auto-id5950014">Weight of Boron required= </para>
+    <para id="import-auto-id3278520">gm-mole×Atomic Weight =5.349×10<sup>-4</sup> gm-mole×10.8gm/gm-mole= 5.78 milligm.</para>
+    <list id="import-auto-id3820066" list-type="enumerated" number-style="arabic">
+      <item>A layer of 10μm thick epitaxial film is to be deposited on a Si Substrate by CVD method. For how long should the substrate stay in the CVD oven at 1270°C if the gas mixture of gases is in the following concentrations in atoms/cc: H<sub>2</sub> is 2.94×10<sup>19</sup> and SiCl<sub>4</sub> is 6×10<sup>17</sup>.</item>
+    </list>
+    <para id="import-auto-id2723077">Given:</para>
+    <figure id="import-auto-id1589480">
+      <media id="import-auto-id5951574" alt="">
+        <image mime-type="image/png" src="../../media/Picture 6-526c.png" height="417" width="599"/>
+      </media>
+    </figure>
+    <para id="import-auto-id5852821">The above figure gives Growth Rate(microns/min) vs the Mole Fraction(y) of SiCl<sub>4</sub>. At higher concentrations of HCl i.e. at mole fraction &gt; 0.275 in-situ etching occurs.</para>
+    <para id="import-auto-id2219287">From the Figure the following Table is generated:</para>
+    <table id="import-auto-id3907433" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <thead>
+          <row>
+            <entry>Mole Fraction</entry>
+            <entry>Growth Rate(microns/min)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>0.025</entry>
+            <entry>1.6</entry>
+          </row>
+          <row>
+            <entry>0.050</entry>
+            <entry>3.8</entry>
+          </row>
+          <row>
+            <entry>0.075</entry>
+            <entry>4.6</entry>
+          </row>
+          <row>
+            <entry>0.100</entry>
+            <entry>5.0</entry>
+          </row>
+          <row>
+            <entry>0.125</entry>
+            <entry>4.5</entry>
+          </row>
+          <row>
+            <entry>0.150</entry>
+            <entry>3.6</entry>
+          </row>
+          <row>
+            <entry>0.175</entry>
+            <entry>2.9</entry>
+          </row>
+          <row>
+            <entry>0.200</entry>
+            <entry>2.1</entry>
+          </row>
+          <row>
+            <entry>0.225</entry>
+            <entry>1.3</entry>
+          </row>
+          <row>
+            <entry>0.250</entry>
+            <entry>0.6</entry>
+          </row>
+          <row>
+            <entry>0.275</entry>
+            <entry>0</entry>
+          </row>
+          <row>
+            <entry>0.300</entry>
+            <entry>-0.8</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id5190108">In the above table the growth rate is the net result of two competing reactions:</para>
+    <para id="import-auto-id3322881">Forward reaction where SiCl<sub>4</sub> is decomposing at 1270°C and aiding the Si epitaxial growth and Backward reaction where HCl vapour is etching the Si surface in-situ.</para>
+    <para id="import-auto-id6337607">From low mole fraction to 0.275, forward reaction dominates. At 0.275 the two competing reactions are balanced. Above mole fraction 0.275 backward reaction prevails resulting into etching of the Si surface of the substrate.</para>
+    <para id="import-auto-id6246699">In our problem the Mole Fraction is :</para>
+    <figure id="import-auto-id3263636">
+      <media id="import-auto-id1627584" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-2a7d.png" height="43" width="371"/>
+      </media>
+    </figure>
+    <para id="import-auto-id3350148">From the Graph, corresponding to  y= 0.02, the growth rate is 1.5microns per minute.</para>
+    <para id="import-auto-id6360420">Therefore 10 microns will require 6.7 minutes of exposure in CVD Furnace.</para>
+    <list id="import-auto-id5671691" list-type="enumerated" number-style="arabic">
+      <item>In a Molecular Beam Epitaxy System, find the time required to form a monolayer of O<sub>2</sub> at pressure 1 Torr, 10<sup>-6</sup>Torr and 10<sup>-10</sup>Torr. Given Oxygen Molecular Weight = M=32 and Oxygen Molecular Diameter = 3.45A°. Assume that the mono-layer is a close pack structure.</item>
+    </list>
+    <para id="import-auto-id3963899">[Answer: 2.43×10<sup>-6</sup> sec, 2.43 sec, 6 hours]</para>
+    <para id="import-auto-id5254340">Method:</para>
+    <para id="import-auto-id6632165">Surface Concentration of the closely packed monolayer of Oxygen Molecules= N<sub>S</sub> .</para>
+    <figure id="import-auto-id2768429">
+      <media id="import-auto-id5261968" alt="">
+        <image mime-type="image/png" src="../../media/graphics4-35db.png" height="53" width="375"/>
+      </media>
+    </figure>
+    <para id="import-auto-id5837964">Let the time required for monolayer of Oxygen formation be t<sub>0</sub> where t<sub>0</sub>=N<sub>S</sub>/Φ</para>
+    <para id="import-auto-id3612977">Where Φ=Impingement Rate of Oxygen molecules on Substrate Surface in MBE Bell Jar.</para>
+    <figure id="import-auto-id3792105">
+      <media id="import-auto-id3314800" alt="">
+        <image mime-type="image/png" src="../../media/graphics5-f636.png" height="49" width="427"/>
+      </media>
+    </figure>
+    <para id="import-auto-id3856195">Here M=32 and T =300K and P is the corresponding pressure in Torr at which the time for monolayer growth is to be calculated.</para>
+    <table id="import-auto-id2353215" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <thead>
+          <row>
+            <entry>P(Torr)</entry>
+            <entry>Φ(impingement rate)</entry>
+            <entry>t<sub>0</sub> (units of time)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>1</entry>
+            <entry>3.58×10<sup>20</sup></entry>
+            <entry>2.8μs</entry>
+          </row>
+          <row>
+            <entry>1×10<sup>-6</sup></entry>
+            <entry>3.58×10<sup>14</sup></entry>
+            <entry>2.8sec</entry>
+          </row>
+          <row>
+            <entry>1×10<sup>-10</sup></entry>
+            <entry>3.58×10<sup>10</sup></entry>
+            <entry>27914s=7.75hours</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id3727971">This problem clarifies why MBE requires a super Vacuum to fabricate stable and reproducible devices. This is precisely why using Compound Semiconductors is prohibitively costly and we are looking for alternatives to Compound Semiconductors. </para>
+  </content>
+</document>

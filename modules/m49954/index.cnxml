@@ -1,0 +1,216 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chapter 7. Section 7.6.3. Hysteresis Loops of Hard Iron and Soft Iron.</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49954</md:content-id>
+  <md:title>Chapter 7. Section 7.6.3. Hysteresis Loops of Hard Iron and Soft Iron.</md:title>
+  <md:abstract>Chapter 7, Section 7.6.3 to 7.10, give the theoretical basis of spontaneous magnetization in Ferromagnetic Materials, describes Magneto Crystalline Anisotropy,describes magneto-striction and describes Giant Magnet Resistance used as  hard disc memories in Computers.</md:abstract>
+  <md:uuid>57fb8d0a-b4be-4b89-beb5-e1ce01520de9</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1165246675914">
+      <emphasis effect="bold">Chapter 7. Section 7.6.3. Hysteresis Loops of Hard Iron and Soft Iron.</emphasis>
+    </para>
+    <para id="eip-19">Figures are at the end of the module</para><para id="import-auto-id1165246689098">In Figure 7.18. given in the previous module, the magnetization curves of Ferromagnetic materials, Paramagnetic Materials and Diamagnetic Materials are given. Para or Diamagnetic materials have linear magnetization curve hence there are no hysteresis loops and Ferromagnetic Materials have non-linear curves hence they have hysteresis loops. Hysteresis loop implies hysteresis loss.</para>
+    <para id="import-auto-id1165243980327">This means in magnetizing or demagnetizing a ferromagnetic material, some energy is expended. The energy expended will depend on the ease with which we can magnetize a ferromagnetic material.</para>
+    <para id="import-auto-id1165242826323">Soft irons are used in electro-mechanical relay switches as shown in Figure 7.19.  An actuating current easily magnetizes the soft iron core and attracts the spring-loaded switch. In this process the electro-mechanical relay is closed. As the current is turned off the switch is immediately opened by spring action. The hysteresis loop of Soft Iron along side the hysteresis loop Hard Iron is shown in Figure 7.20.</para>
+    <para id="import-auto-id1165243770066">As seen in Figure 7.20, soft iron has a much higher saturation Magnetization (B<sub>S2</sub>)  but  hard iron has a much higher remnant Magnetization (B<sub>r</sub>) as well as a much higher Coercive Magnetic Field(H<sub>C</sub>).</para>
+    <para id="import-auto-id1165245404836">Soft iron gives rise to temporary magnet whereas hard iron gives a permanent magnet.  Because of high remnant Magnetization as well as a much higher Coercive Magnetic Field that hard iron becomes a permanent magnet.</para>
+    <para id="import-auto-id1165241917788">
+      <emphasis effect="bold">Section 7.7. Theoretical basis of spontaneous Magnetization in Ferromagnets.</emphasis>
+    </para>
+    <para id="import-auto-id1165247779223">The theoretical basis of  magnetism is the Orbital Angular Momentum of the orbital electrons in an atom and the Spin Angular Momentum of the spinning electron circulating around the nucleus of the atom. </para>
+    <para id="import-auto-id1165244534415">Just as our Earth has orbital period of 365.25 days around the Sun but it has a spin period of 24 hours around it spin axis. In a similar fashion orbital electrons have orbital angular momentum J<sub>L</sub> as well as it has J<sub>S</sub> spin angular momentum.</para>
+    <para id="import-auto-id1165248607033">Both these angular momentums give rise to dipole moments. Their parallel alignment can give rise to strong spontaneous magnetization as we find in magnetic materials such as FERRO-MAGNETIC Materials.</para>
+    <para id="import-auto-id1165247065002">Their random alignment can give rise to weak spontaneous magnetization as we find in PARAMAGNETIC materials. Diamagnetic materials have no magnetization.</para>
+    <para id="import-auto-id1165243751515">In 1915, Albert Einstein in team with W.J. de Hass (the son-in-law of the great Dutch physicist H.A.Lorentz) demonstrated that magnetism was a result of the alignments of electron’s orbital magnetic moment and spin magnetic moment. As shown in Figure 7.21. they attached a soft iron cylinder from a friction less pivot. The soft iron was surrounded by solenoid. Whenever a impulsive current was passed through the solenoid, the soft iron got magnetized and experienced a rotary motion so as to keep the overall Angular momentum equal to zero. </para>
+    <para id="import-auto-id1165243244170">This amply demonstrated that ferromagnetism is a result of the alignment of magnetic dipole moments due to orbital angular momentum and due to spin angular momentum.</para>
+    <para id="import-auto-id1165245489222">But as we will see shortly that the spontaneous magnetization is primarily due to the spin angular momentum.  </para>
+    <para id="import-auto-id1165247559623">
+      <emphasis effect="bold">Section 7.7.1. Electron’s orbital magnetic moment and spin magnetic moment.  </emphasis>
+    </para>
+    <para id="import-auto-id1165246985323">By definition, a loop of orbiting electron has a dipole moment:</para>
+    <figure id="import-auto-id1165241052482">
+      <media id="import-auto-id1165252912660" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-fb11.png" height="22" width="580"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165243671176">
+      <media id="import-auto-id1165242833245" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-d6a5.png" height="36" width="588"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165246135372">
+      <media id="import-auto-id1165246297481" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-39af.png" height="22" width="604"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165241021447">Therefore</para>
+    <figure id="import-auto-id1165242650185">
+      <media id="import-auto-id1165242626713" alt="">
+        <image mime-type="image/png" src="../../media/graphics4-91a3.png" height="36" width="599"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165244821576">Substituting (7.2)  and (7.3) into (7.1)</para>
+    <figure id="import-auto-id1165243790486">
+      <media id="import-auto-id1165244492752" alt="">
+        <image mime-type="image/png" src="../../media/graphics5-15b9.png" height="39" width="600"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165243121494">Magnetic Moment(μ) of Orbiting Electron is anti-parallel to Orbital Angular Momentum (L) as shown in Figure 7.22..</para>
+    <para id="import-auto-id1165244676276">Similarly:</para>
+    <figure id="import-auto-id1165242822515">
+      <media id="import-auto-id1165243256048" alt="">
+        <image mime-type="image/png" src="../../media/graphics6-56b1.png" height="39" width="603"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165252902376">In a preferred direction say Z-direction we have the projection of L and S on Z-axis.</para>
+    <para id="import-auto-id1165247336402">We have seen in Quantum Mechanics that :</para>
+    <figure id="import-auto-id1165242749577">
+      <media id="import-auto-id1165244574970" alt="">
+        <image mime-type="image/png" src="../../media/graphics7-4b4c.png" height="43" width="622"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165247945773">
+      <media id="import-auto-id1165241884521" alt="">
+        <image mime-type="image/png" src="../../media/graphics8-f57f.png" height="43" width="574"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165243827286">Here:</para>
+    <figure id="import-auto-id1165241040542">
+      <media id="import-auto-id1165242709061" alt="">
+        <image mime-type="image/png" src="../../media/graphics9-da93.png" height="43" width="543"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165243223325">Both spin and orbital  angular momentum have a role to play as shown in Figure 7.23. </para>
+    <para id="import-auto-id1165246492069">After detailed investigation it was found that in ferro-magnetic materials, spin angular momentum rather than orbital is the main contributor to  Ferro-magnetism. The orbital angular momentum have a role to play but when there are uncompensated spins as in the case of transition elements the orbitals have negligible role to play. </para>
+    <para id="import-auto-id1165248879181">Ferromagnetism occurs because of coupling of uncompensated spins in parallel direction. This coupling occurs directly and is called DIRECT EXCHANGE COUPLING or through intermediate anions usually Oxygen molecule through SUPER EXCHANGE.</para>
+    <para id="import-auto-id1165243746295">In crystals this results in a net magnetic moments even at 300K. This is purely a Pauli-Exclusion Phenomena and Coulombic Interaction phenomena.  </para>
+    <para id="import-auto-id1165251958734">As shown in Figure 7.24., uncompensated spins of two atoms in an overlapping electron clouds have preference for parallel alignment (which contributes to net magnetic moment)  rather than anti-parallel alignment (which is zero magnetic moment). Parallel alignment corresponds to lower energy level E<sub>2</sub> because of less columbic repulsion and anti-parallel alignment corresponds to higher energy level  E<sub>1  </sub>because of stronger columbic repulsion due to closer spatial proximity. So obviously the lower energy state is preferred hence there is spontaneous magnetization in elements with uncompensated spin electrons. This is the case for Transition Elements hence Fe,Co and Ni are the strongest ferromagnetic materials.</para>
+    <figure id="import-auto-id1165257106033">
+      <media id="import-auto-id1165248268962" alt="">
+        <image mime-type="image/png" src="../../media/graphics10-c516.png" height="22" width="544"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165243735418">At room temperature:</para>
+    <figure id="import-auto-id1165242841782">
+      <media id="import-auto-id1165246917796" alt="">
+        <image mime-type="image/png" src="../../media/graphics11-6fa0.png" height="22" width="103"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165242955728">Hence spontaneous magnetization is high up to Curie Temperature. At Curie Temperature exchange coupling is disrupted by thermal fluctuations and material becomes paramagnetic.</para>
+    <para id="import-auto-id5139090">In Table  7.7.1. the Curie Temperatures of important Ferro-magnets are listed.</para>
+    <para id="import-auto-id1165256124435">
+      <emphasis effect="bold">Table 7.7.1. Curie Temperatures of typical Ferromagnetic materials.</emphasis>
+    </para>
+    <table id="import-auto-id1165259902681" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <thead>
+          <row>
+            <entry>Materials </entry>
+            <entry>Curie Temperature (K)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Fe</entry>
+            <entry>1043</entry>
+          </row>
+          <row>
+            <entry>Co</entry>
+            <entry>1388</entry>
+          </row>
+          <row>
+            <entry>Ni</entry>
+            <entry>627</entry>
+          </row>
+          <row>
+            <entry>Gd</entry>
+            <entry>293</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id1165242583755">
+      <emphasis effect="bold">Section 7.8. Magneto-crystalline Anisotropy.</emphasis>
+    </para>
+    <para id="import-auto-id1165248079836">In Figure 7.25. M-H curve for a single iron crystal is given. M-H depends on the crystal direction. As seen from the Figure 7.25, it is the easiest along [100] direction and hardest along [111] direction.</para>
+    <para id="import-auto-id1165247736676">
+      <emphasis effect="bold">Section 7.9. Magnetostriction.</emphasis>
+    </para>
+    <para id="import-auto-id1165244645465">In Figure 7.26. magnetostriction is defined. The Iron crystal elongates along the easy X-direction but contracts along the Y-direction.</para>
+    <para id="import-auto-id1165242642811">
+      <emphasis effect="bold">Section 7.10. Giant Magneto-Resistance used in hard discs of Computers.</emphasis>
+    </para>
+    <para id="import-auto-id1165243901266">Giant Magneto-Resistance(GMR) is widely used in hard disc memories of computers. It made its mass market debut when IBM commercialized its record breaking 16.8GB hard disc in computer market. IBM called it SPIN VALVE based on electronic spin.</para>
+    <para id="import-auto-id1165244847995">In 1980, Peter Gruenberg of KFA Research Institute in Julich, Germany, and Albert Fert of the University of Paris-Sud saw large resistance change of 6% and 50% in Spin Valves.</para>
+    <para id="import-auto-id1165242585490">In IBM, using sputtering,.scientists built trilayer GMR as shown in Figure 7.27. and demonstrated a large resistance change. </para>
+    <para id="import-auto-id1165248651750">As shown in the Figure 7.27 there are two Ferromagnetic Layers of Co separated by non-magnetic Cu layer.</para>
+    <para id="import-auto-id1165243286811">A current flow through GMR experiences a Spin Valve effect. </para>
+    <para id="import-auto-id1165246901050">What does this mean?</para>
+    <para id="import-auto-id1165245519655">The tri-layer can have its ferromagnetic layer anti-parallel or parallel.</para>
+    <para id="import-auto-id1165246053878">Anti-parallel FM layers behaves like a open valve offering large resistance and parallel FM layers behave like a close valve offering small resistance.</para>
+    <para id="import-auto-id1165241761716">This is better clarified by the Figure 7.28.</para>
+    <para id="import-auto-id1165245770964">The scattering of electron depends on the spin of the conducting electron. There are two cases:</para>
+    <para id="import-auto-id1165243948039">Case 1: conducting electron spin is the same as the spin of the FM layer. This will undergo very weak scattering. Hence low resistance.</para>
+    <para id="import-auto-id1165248518202">Case 2: conducting electron spin is opposite the spin of the FM layer. This will undergo very strong scattering  Hence high resistance.</para>
+    <para id="import-auto-id1165246012046">Now you examine the Figure 7.28.</para>
+    <para id="import-auto-id1165242950348">We have two cases: Left Hand is parallel FM and right is anti-parallel FM. Its equivalent electrical circuit, considering all permutation of spins, are given below.</para>
+    <para id="import-auto-id1165246030748">It is evident that Parallel FM has a much lower resistance and antiparallel FM offers a very high resistance path. We study GMR in the case when the current flows in the direction perpendicular to the layers. The GMR effect is exploited in magnetic field sensors and its applications range from automotive to information storage technology.</para>
+    <para id="import-auto-id1165246054925">In Figure 7.29. the principle of longitudinal recording is illustrated.</para>
+    <figure id="import-auto-id1165256114169">
+      <media id="import-auto-id1165244895657" alt="">
+        <image mime-type="image/png" src="../../media/Picture 2-e2dc.png" height="412" width="541"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165251349716">
+      <media id="import-auto-id1165242626928" alt="">
+        <image mime-type="image/png" src="../../media/Picture 3-606a.png" height="343" width="624"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165242594007">
+      <media id="import-auto-id1165245369311" alt="">
+        <image mime-type="image/png" src="../../media/Picture 4-a587.png" height="442" width="551"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165256386457">
+      <media id="import-auto-id1165242674583" alt="">
+        <image mime-type="image/png" src="../../media/Picture 5-2f7b.png" height="234" width="623"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165248692871">
+      <media id="import-auto-id1165245422379" alt="">
+        <image mime-type="image/png" src="../../media/Picture 7-608d.png" height="404" width="624"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165247381625">
+      <media id="import-auto-id1165242664030" alt="">
+        <image mime-type="image/png" src="../../media/Picture 8-53c6.png" height="546" width="544"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165242971040">
+      <media id="import-auto-id1165243044110" alt="">
+        <image mime-type="image/png" src="../../media/Picture 9-9115.png" height="386" width="624"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165246941600">
+      <media id="import-auto-id7329487" alt="">
+        <image mime-type="image/png" src="../../media/Picture 10-9b5f.png" height="443" width="624"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1165243027565">
+      <media id="import-auto-id1165242908244" alt="">
+        <image mime-type="image/png" src="../../media/Picture 11-1489.png" height="334" width="477"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1165243672003">
+      <figure id="import-auto-id1165241963528">
+        <media id="import-auto-id1165243714695" alt="">
+          <image mime-type="image/png" src="../../media/Picture 12-4e45.png" height="318" width="624"/>
+        </media>
+      </figure>
+    </para>
+  </content>
+</document>

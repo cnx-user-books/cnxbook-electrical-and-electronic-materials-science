@@ -1,0 +1,220 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Tutorial on Chapter 2: Insulator, Semi-conductor and Metal.</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49555</md:content-id>
+  <md:title>Tutorial on Chapter 2: Insulator, Semi-conductor and Metal.</md:title>
+  <md:abstract>This module gives a set of problems on Band Theory of Solids.</md:abstract>
+  <md:uuid>4a4ea9dd-d42d-4f84-8123-e3423295d94a</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1166530421148">
+      <emphasis effect="bold">Tutorial on Chapter 2: Insulator, Semi-conductor and Metal.</emphasis>
+    </para>
+    <list id="import-auto-id1166545274114" list-type="enumerated" number-style="arabic"><item>Q.1. Fermi-level in Metal :</item>
+    </list><figure id="import-auto-id1166534063831">
+      <media id="import-auto-id1166546989493" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-20db.png" height="66" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166535487383">Determine the Fermi-level of Sodium and Copper where n = 2.5×10<sup>22</sup>electrons/cc and n = 8.5×10<sup>22</sup>electrons/cc.</para>
+    <table id="import-auto-id1166533810416" summary="">
+      <tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <thead>
+          <row>
+            <entry>Metals</entry>
+            <entry>E<sub>F</sub>(eV)</entry>
+            <entry>n(#/cc)</entry>
+            <entry>W<sub>F</sub> (eV)</entry>
+            <entry>Light absorbed and re-emitted</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Li</entry>
+            <entry>4.72</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Na</entry>
+            <entry>3.12</entry>
+            <entry>2.5×10<sup>22</sup></entry>
+            <entry>2.3</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>K</entry>
+            <entry>2.14</entry>
+            <entry>-</entry>
+            <entry>2.2</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Rb</entry>
+            <entry>1.82</entry>
+            <entry/>
+            <entry>-</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Cs</entry>
+            <entry>1.53</entry>
+            <entry/>
+            <entry>1.8</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Cu</entry>
+            <entry>7.04</entry>
+            <entry>8.5×10<sup>22</sup></entry>
+            <entry>2</entry>
+            <entry>Orange</entry>
+          </row>
+          <row>
+            <entry>Ag</entry>
+            <entry>5.51</entry>
+            <entry/>
+            <entry>4</entry>
+            <entry>Appears White because reflects the visible spectrum</entry>
+          </row>
+          <row>
+            <entry>Au</entry>
+            <entry>11.7</entry>
+            <entry/>
+            <entry>2.3</entry>
+            <entry>Yellow</entry>
+          </row>
+          <row>
+            <entry>Ca</entry>
+            <entry/>
+            <entry/>
+            <entry>3.2</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Ba</entry>
+            <entry/>
+            <entry/>
+            <entry>2.5</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Pt</entry>
+            <entry/>
+            <entry/>
+            <entry>5.3</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Ta</entry>
+            <entry/>
+            <entry/>
+            <entry>4.2</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>W</entry>
+            <entry/>
+            <entry/>
+            <entry>4.5</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>StBaCuO</entry>
+            <entry/>
+            <entry/>
+            <entry>1</entry>
+            <entry>Most suitable as Cathode material in Thermoionic Tubes.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <list id="import-auto-id1166549259796" list-type="enumerated" number-style="arabic"><item>Q.2.Density of States [N(E)] is defined as number of permissible states per unit volume per unit energy level:</item>
+    </list><figure id="import-auto-id1166556749330">
+      <media id="import-auto-id1166534592820" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-949e.png" height="60" width="149"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166547937786">Show that mean energy of electron in conduction band is (3/5)E<sub>F</sub> .</para>
+    <list id="import-auto-id1166548117928" list-type="enumerated" number-style="arabic"><item>Q.3. Determine P(E<sub>F</sub> + kT) in Fermi-Dirac Statistics. Determine Temperature T at which P(E<sub>F</sub> + 0.5eV) = 1%.[Answers: 0.27, 1262Kel]</item>
+      <item>Q.4. Determine the density  of occupied states at (E<sub>F</sub> + kT) at T=300K. Find the energy E below (E<sub>F</sub> ) which will yield the same density of occupied states.  [Answer 0.92eV]</item>
+    </list><figure id="import-auto-id1166559093227">
+      <media id="import-auto-id1166538072001" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-fa0c.png" height="270" width="624"/>
+      </media>
+    </figure>
+    <list id="import-auto-id1166561866504" list-type="enumerated" number-style="arabic"><item>Q.5.Determine the Fermi Velocity of conduction electron in Metal Copper and Thermal Velocity of conduction electron or hole in Semi-conductor.</item>
+    </list><para id="import-auto-id1166548409315">[Hint: </para>
+    <para id="import-auto-id1166561841146"><figure id="import-auto-id1166535597346"><media id="import-auto-id1166546885644" alt=""><image mime-type="image/png" src="../../media/graphics3-bd7e.png" height="30" width="493"/></media></figure>]</para>
+    <para id="import-auto-id1166546864837">{Answer : Fermi Velocity in Metal Copper is 2.7256×10<sup>6</sup>m/s and in semi-conductor Thermal Velocity is 1.17×10<sup>5</sup>m/s]</para>
+    <list id="import-auto-id1166536035870" list-type="enumerated" number-style="arabic"><item>Q.6.In Copper, ρ(resisitivity)=1.67×10<sup>-8</sup>Ω-m and σ(conductivity)= 6×10<sup>7</sup>S/m = qμn. Where n=8.5×10<sup>28</sup>electrons/m<sup>3</sup>. Determine conduction electron mobility. [ 40cm<sup>2</sup>/(V-s)]</item>
+      <item> Q.7. 3 m long Copper wire of R= 0.03Ω and the current I through the wire is 15A.</item>
+    </list><list id="import-auto-id1166531115732" list-type="enumerated" number-style="lower-alpha">
+      <item>Determine Voltage Drop across the Wire.[0.45V]</item>
+      <item>Determine the Electric Field within the Wire.[0.15V/m]</item>
+      <item>Determine the drift velocity of electron within the wire.[0.6×10<sup>-3</sup>m/s]</item>
+      <item>Determine the Fermi Velocity.[2.7256×10<sup>6</sup>m/s]</item>
+      <item>Determine the Mean Free Time or Relaxation Time.[2.27×10<sup>-14</sup>s]</item>
+      <item>Determine the Mean Free Path and compare with the lattice parameter of Copper.[618A°]</item>
+    </list>
+    <list id="import-auto-id1166541096571" list-type="enumerated" number-style="arabic"><item>Q.8. Typical Resistivity of N-Type Silicon is 1 Ω-cm and typical current density is 100A/cm<sup>2</sup>. Calculate the applied Electric Field in Silicon Sample and calculate the drift velocity. Assume mobility of electron to be 1400cm<sup>2</sup>/(V-s) [Answer:100V/cm and 140×10<sup>3</sup>cm/s]</item>
+      <item> Q.9. Calculate the intrinsic resistivity of Ge, Si and GaAs. [107Ω-cm; 3.4×10<sup>5</sup>Ω-cm; 7×10<sup>8</sup>Ω-cm].</item>
+      <item>Q.10. In all the calculations above we have assumed that the effective mass of electron or hole within the solid is the same whereas it is not true. The effective mass in Metals are generally higher than the free space mass and in semiconductors it is lighter as seen from the Table below.</item>
+    </list><table id="import-auto-id1166542272638" summary="">
+      <tgroup cols="6">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <thead>
+          <row>
+            <entry>Material</entry>
+            <entry>Si</entry>
+            <entry>Ge</entry>
+            <entry>GaAs</entry>
+            <entry>InAs</entry>
+            <entry>AlAs</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>m<sup>*</sup><sub>e</sub>/m<sub>e</sub></entry>
+            <entry>0.26</entry>
+            <entry>0.12</entry>
+            <entry>0.068</entry>
+            <entry>0.023</entry>
+            <entry>0.88</entry>
+          </row>
+          <row>
+            <entry>m<sup>*</sup><sub>hole</sub>/m<sub>e</sub></entry>
+            <entry>0.39</entry>
+            <entry>0.3</entry>
+            <entry>0.5</entry>
+            <entry>0.3</entry>
+            <entry>0.3</entry>
+          </row>
+          <row>
+            <entry>E<sub>g</sub>(eV)</entry>
+            <entry>1.12</entry>
+            <entry>0.67</entry>
+            <entry>1.42</entry>
+            <entry>0.35</entry>
+            <entry>2.2</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id1166537923840">Electrons and holes in a crystal interact with the periodic potential field in the crystal. They surf over the periodic potential variation of the crystal developing roller coaster effect which leads to drastic reduction in effective mass. If effective mass is considered the thermal velocity comes to be much higher.</para>
+    <para id="import-auto-id1166558761945">For electron with effective mass of 0.26m<sub>e</sub> the thermal velocity is 2.3×10<sup>5</sup>m/s.</para><para id="import-auto-id1166548274036">For hole with effective mass of 0.39m<sub>e</sub> the thermal velocity is 2.2×10<sup>5</sup>m/s.</para>
+    <list id="import-auto-id1166548145466" list-type="enumerated" number-style="arabic"><item>Q.11.Find the drift velocity, mean free time and mean free path in a P-Type Sample with hole mobility = 470cm<sup>2</sup>/(V-s) and applied Electric Field E= 10<sup>3</sup>V/cm. All calculations will have to be carried out in Rationalized MKS units that is mobility will be taken as 0.047m<sup>2</sup>/(V-s). Thermal Velocity at Room Temperature is approximately 10<sup>5</sup>m/s.[ 4.7×10<sup>5</sup>cm/s, τ =0.1ps, MFP = 100A°]</item>
+    </list></content>
+</document>

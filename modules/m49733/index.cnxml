@@ -1,0 +1,406 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>EVEN SEMESTER2014-MidSemester Examination Answers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49733</md:content-id>
+  <md:title>EVEN SEMESTER2014-MidSemester Examination Answers</md:title>
+  <md:abstract>This gives the model answers of Mid Semester Examination conducted for 2014 EVEN SEMESTER. Electrical Electronic Materials.</md:abstract>
+  <md:uuid>cf2395d8-3d54-4584-9867-57a60e259605</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1172146411479">
+      <emphasis effect="bold">Even Semester Mid-Semester Test</emphasis>
+    </para>
+    <para id="import-auto-id1172146347828">
+      <emphasis effect="bold">Electronic &amp; Electrical Materials_EC1419A</emphasis>
+    </para>
+    <para id="import-auto-id1172146420528">
+      <emphasis effect="bold">Total Marks:30  Duration:2hrs</emphasis>
+    </para>
+    <para id="import-auto-id1172146402178">Question 1 is compulsory and answer any two out of the remaining three.</para>
+    <para id="import-auto-id1172146475612">Question 1.[15 points]</para>
+    <list id="import-auto-id1172146419173" list-type="enumerated" number-style="lower-roman">
+      <item>I.What are the MKS units of mass, velocity (v), acceleration (a), force, momentum (p), energy ?<emphasis effect="bold"> Answer: Kg, m/s, m/s</emphasis><emphasis effect="bold">2</emphasis><emphasis effect="bold">, Newton, Kg-m-s</emphasis><emphasis effect="bold">-1</emphasis><emphasis effect="bold">, Joules.[1/12+1/12+1/12+1/12+1/12+1/12=1/2Point]</emphasis></item>
+    </list>
+    <list id="import-auto-id1172146420273" list-type="enumerated" number-style="lower-roman">
+      <item>II.E = E<sub>0</sub>exp[j(ωt – kz)]_ This is an equation of a forward travelling wave. Define ω, t, k and z. What is the velocity of propagation ?<emphasis effect="bold"> Answer: ω=radians/s, t=second,k=1/m, z = direction of propagation. Velocity of propagation= ω/k (m/s).[1/10+1/10+1/10+1/10+1/10=1/2Point]</emphasis></item>
+    </list>
+    <list id="import-auto-id1172146451753" list-type="enumerated" number-style="lower-roman">
+      <item>III.ψ = ψ<sub>0</sub>exp[j(ωt-kz)]_This is also a travelling wave. What is ψ<sub>0 </sub>and what is │ψ*ψ│?<emphasis effect="bold"> Answer: ψ</emphasis><emphasis effect="bold">0 </emphasis><emphasis effect="bold">is Probability Amplitude, │ψ*ψ│is Probability Density.[1/4+1/4=1/2Point]</emphasis></item>
+    </list>
+    <list id="import-auto-id1172146445010" list-type="enumerated" number-style="lower-roman">
+      <item>IV. J = Iω = n[h/(2π)]. This is Bohr’s Law of electrons orbiting the nucleus. Define all the terms.<emphasis effect="bold"> Answer:J→angular momentum, I→moment of inertia, ω→orbital angular velocity, n→principal quantum number, h→ Planck’s Constant.[1/10+1/10+1/10+1/10+1/10=1/2Point]</emphasis></item>
+    </list>
+    <list id="import-auto-id1172146350104" list-type="enumerated" number-style="lower-roman">
+      <item>V. Define the four Quantum Numbers n , L, m, s ?<emphasis effect="bold"> Answer: n →Principal Quantum Number, L→Azimuthial Quantum Number, m→magnetic Quantum Number, s→Spin Quantum Number.[1/8+1/8+1/8+1/8=1/2Point]</emphasis></item>
+    </list>
+    <list id="import-auto-id1172146453894" list-type="enumerated" number-style="lower-roman">
+      <item>VI. What is COORDINATION NUMBER=N. Si, Ge have DIAMOND Crystal Structure and GaAs is ZINC-BLENDE Crystal Structure. In both crystal structures N = 8. Justify this statement ?<emphasis effect="bold"> Answer: N→number of atoms belonging to each Unit Cell of the crystal structure. In Diamond structure there are (8corner atoms)×(1/8)+(6 face centered atoms)×(1/2)+(4 body centered atoms)= 8 atoms per unit cell.[1/8+3/8=1/2Point]</emphasis></item>
+    </list>
+    <list id="import-auto-id1172146457186" list-type="enumerated" number-style="lower-roman">
+      <item>VII. Number density = N<sup>*</sup> = 8/a<sup>3</sup>. What is ‘a’ ?<emphasis effect="bold"> Answer : ‘a’ is the Lattice Parameter.[1/2Point]</emphasis></item>
+    </list>
+    <list id="import-auto-id1172146484844" list-type="enumerated" number-style="lower-roman">
+      <item>VIII. For Si,Ge and GaAs  ‘a’ = 5.43A°, 5.646A° and 5.6533A° respectively. What is A° ?<emphasis effect="bold"> Answer: A° is Angstrom =10</emphasis><emphasis effect="bold">-10</emphasis><emphasis effect="bold">m = 10</emphasis><emphasis effect="bold">-8</emphasis><emphasis effect="bold">cm .[1/2 Point]</emphasis></item>
+    </list>
+    <list id="import-auto-id1172146419701" list-type="enumerated" number-style="lower-roman">
+      <item>VIV. Weight of one ------------_= (AW gm/mole)÷ (N<sub>Avo</sub> atoms/mole). Fill up the BLANK .<emphasis effect="bold"> Answer: ATOM [1/2 Point]</emphasis></item>
+    </list>
+    <list id="import-auto-id1172146475507" list-type="enumerated" number-style="lower-roman">
+      <item>X. Wt of one atom× N<sup>*</sup> =  ρ . Define the terms ?<emphasis effect="bold"> Answer: N*→number density, ρ→weight density.[1/4+1/4=1/2Point]</emphasis></item>
+    </list>
+    <list id="import-auto-id1172146399343" list-type="enumerated" number-style="lower-roman">
+      <item>XI. In HYDROGEN ATOM, electron occupies discrete energy states given by E= -13.6/n<sup>2</sup>. What is the unit of energy and what is ‘n’ ?<emphasis effect="bold"> Answer: Unit of energy is eV and n→Principal Quantum Number.[1/4+1/4=1/2Point]</emphasis></item>
+    </list>
+    <list id="import-auto-id1172146434537" list-type="enumerated" number-style="lower-roman">
+      <item>XII. Hydrogen Atoms produce Lyman Series[2→1,3→1,4→1,5→1,6→1], Balmer Series[3→2,4→2,5→2,6→2,7→2] and Paschen Series [4→3,5→3,6→3,7 →3,8 →3] of Spectral lines. What do the square bracket terms mean?<emphasis effect="bold"> Answer : Square Bracket terms imply transition from Excited States to Ground States.[1/2Point]</emphasis></item>
+    </list>
+    <list id="import-auto-id1172146419916" list-type="enumerated" number-style="lower-roman">
+      <item>XIII. FCC has 74% parameter and BCC 68% parameter. What is this parameter and what is the full form of FCC and BCC?<emphasis effect="bold"> Answer: FCC is Face-Centered-Cube and its packing density is 74% and BCC is Body-Centered-Cube and its packing density is 68%.[1/6+1/6+1/6=1/2Point]</emphasis></item>
+    </list>
+    <table id="import-auto-id1172146434404" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <thead>
+          <row>
+            <entry>α</entry>
+            <entry>Type</entry>
+            <entry>Orientation</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>45°</entry>
+            <entry>N</entry>
+            <entry>&lt;111&gt;</entry>
+          </row>
+          <row>
+            <entry>90°</entry>
+            <entry>P</entry>
+            <entry>&lt;100&gt;</entry>
+          </row>
+          <row>
+            <entry>180°</entry>
+            <entry>N</entry>
+            <entry>&lt;100&gt;</entry>
+          </row>
+          <row>
+            <entry>0°</entry>
+            <entry>P</entry>
+            <entry>&lt;111&gt;</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <list id="import-auto-id1172146463617" list-type="enumerated" number-style="lower-roman">
+      <item>XIV. What does the above Table refer to ? Describe the meaning of the terms entered in the boxes ?<emphasis effect="bold"> Answer: The angle between the Primary Flat of the Si Wafer and the Secondary Flat of the Si Wafer is ‘α’. Type tells if Si-Wafer is N-Type or P-Type. Orientation gives the cleavage plane Orientation in Miller Indices.[1/6+1/6+1/6=1/2Point]</emphasis></item>
+    </list>
+    <figure id="import-auto-id1172146475488">
+      <media id="import-auto-id1172146475489" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-2abf.png" height="42" width="266"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1172146419834">XV. What do the different terms refer to in the above Integral Equation?<emphasis effect="bold">Answer: N(E)=density of states per unit volume per unit energy, P(E) →Fermi-Dirac Statistics or the probability of occupancy at energy E by Fermions. dE → elemental energy, m*→effective mass of electron in the conduction band.X</emphasis><emphasis effect="bold">0</emphasis><emphasis effect="bold">→Fermi Level in Metal  with respect to the bottom edge of the Conduction Band i.e.X</emphasis><emphasis effect="bold">0</emphasis><emphasis effect="bold">=E</emphasis><emphasis effect="bold">F</emphasis><emphasis effect="bold">- E</emphasis><emphasis effect="bold">C</emphasis><emphasis effect="bold">.[1/10+1/10+1/10+1/10+1/10=1/2 Points]</emphasis></para>
+    <para id="import-auto-id1172146399364">XVI. <figure id="import-auto-id1172146399368"><media id="import-auto-id1172146399369" alt=""><image mime-type="image/png" src="../../media/graphics2-c259.png" height="37" width="104"/></media></figure>  In the adjacent equation and in Question XV, X<sub>0</sub> is the same parameter. What is this parameter.<emphasis effect="bold">Answer: X</emphasis><emphasis effect="bold">0</emphasis><emphasis effect="bold">=E</emphasis><emphasis effect="bold">F</emphasis><emphasis effect="bold">- E</emphasis><emphasis effect="bold">C</emphasis><emphasis effect="bold">.[1/2 Point] </emphasis></para>
+    <para id="import-auto-id1172146399366">XVII. <figure id="import-auto-id1172146399385"><media id="import-auto-id1172146399386" alt=""><image mime-type="image/png" src="../../media/graphics3-049e.png" height="30" width="89"/></media></figure> What are the different parameters and what are their units ?<emphasis effect="bold">Answer: E</emphasis><emphasis effect="bold">g</emphasis><emphasis effect="bold"> is Band-Gap in eV and λ is the wavelength of the photon emitted accompanying the radiative transition from Conduction Band to the Valence Band.[1/4+1/4=1/2] </emphasis></para>
+    <para id="import-auto-id1172146399421">XVIII.  Define the parameters and give the units ?</para>
+    <table id="import-auto-id1172146399423" summary="">
+      <tgroup cols="8">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <thead>
+          <row>
+            <entry>Semiconductor</entry>
+            <entry>E<sub>g</sub></entry>
+            <entry>n<sub>i</sub></entry>
+            <entry>ε<sub>r</sub>(DC)</entry>
+            <entry>?</entry>
+            <entry>ρ<sub>i</sub>(300K)</entry>
+            <entry>N<sub>C</sub></entry>
+            <entry>N<sub>V</sub></entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Si</entry>
+            <entry>1.12</entry>
+            <entry>1×10<sup>10</sup></entry>
+            <entry>11.7</entry>
+            <entry>5×10<sup>22</sup>/cc</entry>
+            <entry>3.2×10<sup>5</sup></entry>
+            <entry>3.2×10<sup>19</sup>/cc</entry>
+            <entry>1.8×10<sup>19</sup>/cc</entry>
+          </row>
+          <row>
+            <entry>Ge</entry>
+            <entry>0.67</entry>
+            <entry>2×10<sup>13</sup></entry>
+            <entry>16.2</entry>
+            <entry>4.4×10<sup>22</sup>/cc</entry>
+            <entry>48</entry>
+            <entry>1×10<sup>19</sup>/cc</entry>
+            <entry>5×10<sup>18</sup>/cc</entry>
+          </row>
+          <row>
+            <entry>GaAs</entry>
+            <entry>1.424</entry>
+            <entry>2.1×10<sup>6</sup></entry>
+            <entry>12.9</entry>
+            <entry>4.42×10<sup>22</sup>/cc</entry>
+            <entry>3.3×10<sup>8</sup></entry>
+            <entry>4.7×10<sup>17</sup>/cc</entry>
+            <entry>7×10<sup>18</sup>/cc</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id1172146434462"><emphasis effect="bold">Answers:</emphasis> E<sub>g</sub><emphasis effect="bold">(eV) ,</emphasis> n<sub>i</sub><emphasis effect="bold">(#/cc),</emphasis> ε<sub>r</sub>(DC)<emphasis effect="bold">rel.permittivity</emphasis><emphasis effect="bold">(Dimensionless</emphasis>),<emphasis effect="bold"> #density of atoms in the crystal ,</emphasis> ρ<sub>i</sub>(300K)<emphasis effect="bold">Intrinsic Resistivity in Ω-cm, </emphasis>N<sub>C</sub>_<emphasis effect="bold">Effective Density of States at E</emphasis><emphasis effect="bold">C,</emphasis><emphasis effect="bold"/>N<sub>V</sub>_<emphasis effect="bold"> Effective Density of States at E</emphasis><emphasis effect="bold">V</emphasis><emphasis effect="bold">  [1/14+1/14+1/14+1/14+1/14+1/14+1/14=1/7]</emphasis></para>
+    <para id="import-auto-id1172146475162">XIX.  <figure id="import-auto-id1172146475163"><media id="import-auto-id1172146475164" alt=""><image mime-type="image/png" src="../../media/graphics4-c27f.png" height="30" width="212"/></media></figure>  Define the terms and give the units. v = 10<sup>7</sup>cm/s. What is this velocity.<emphasis effect="bold">Answers: v</emphasis><emphasis effect="bold">drift</emphasis><emphasis effect="bold"> = electric drift velocity(m/s), μ(mobility) (cm</emphasis><emphasis effect="bold">2</emphasis><emphasis effect="bold">/(V-s)), q=electric charge(Coulombs), τ</emphasis><emphasis effect="bold">scattering</emphasis><emphasis effect="bold">(Mean Free Path or Relaxation Time)(sec),m*</emphasis><emphasis effect="bold">e</emphasis><emphasis effect="bold">=effective mass of electron(Kg)[1/28,1/28,1/28,1/28,1/28,1/28,1/28, 1/28,1/28,1/28,1/28,1/28,1/28,1/28,=1/2]</emphasis></para>
+    <para id="import-auto-id1172146434435">XX. <figure id="import-auto-id1172146474795"><media id="import-auto-id1172146474796" alt=""><image mime-type="image/png" src="../../media/graphics5-4911.png" height="31" width="153"/></media></figure> This rule is called Matthiessen’s Rule. Define the parameter and give the units of the parameter.<emphasis effect="bold">Answers:μ</emphasis><emphasis effect="bold">effective</emphasis><emphasis effect="bold">,→ effective mobility, μ</emphasis><emphasis effect="bold">imp</emphasis><emphasis effect="bold">,→mobility due to impurity scattering, μ</emphasis><emphasis effect="bold">lattice</emphasis><emphasis effect="bold">,→mobility due to lattice scattering, cm</emphasis><emphasis effect="bold">2</emphasis><emphasis effect="bold">/(V-s), [1/8+1/8+1/8+1/8=1/2]  </emphasis></para>
+    <para id="import-auto-id1172146474794">XXI. <figure id="import-auto-id1172146400096"><media id="import-auto-id1172146400097" alt=""><image mime-type="image/png" src="../../media/graphics6-5e38.png" height="33" width="235"/></media></figure>What are these power laws.<emphasis effect="bold">Answers: lattice scattering inverse 3/2 power law , impurity scattering 3/2 power law [1/4+1/4=1/2 points]</emphasis></para>
+    <para id="import-auto-id1172146400118">XXII. σ = qμn  Define the terms and give the units.<emphasis effect="bold">Answers: σ →conductivity(Siemens/cm), q→electronic charge(Coulomb),μ→mobility(cm</emphasis><emphasis effect="bold">2</emphasis><emphasis effect="bold">/(V-s),n→conducting electron number density[1/16+1/16+1/16+1/16+1/16+1/16+1/16+1/16=1/2 Points]</emphasis></para>
+    <para id="import-auto-id1172146399536">XXIII.  What special information is given by this Table.</para>
+    <table id="import-auto-id1172146399539" summary="">
+      <tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <thead>
+          <row>
+            <entry>Metal</entry>
+            <entry>Au</entry>
+            <entry>Cu</entry>
+            <entry>Ni</entry>
+            <entry>Pt</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Effective Mass/Free Mass of electron</entry>
+            <entry>1.1</entry>
+            <entry>1.01</entry>
+            <entry>28</entry>
+            <entry>13</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id1172146399581">
+      <emphasis effect="bold">Answers: Ni and Pt are heavy Fermionic Metals [1/4+1/4=1/2]</emphasis>
+    </para>
+    <para id="import-auto-id1172146399590">XXIV. What is the basic difference about electron transport reflected by the  Table below ?</para>
+    <table id="import-auto-id1172146399582" summary="">
+      <tgroup cols="6">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <thead>
+          <row>
+            <entry>Element</entry>
+            <entry>E<sub>F</sub></entry>
+            <entry>τ(femtosec)</entry>
+            <entry>L(Angstrom)</entry>
+            <entry>W<sub>F</sub></entry>
+            <entry>v<sub>e</sub><sup>1</sup>(×10<sup>5</sup> m/s)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Li</entry>
+            <entry>4.7</entry>
+            <entry>9</entry>
+            <entry>90</entry>
+            <entry/>
+            <entry>9.96</entry>
+          </row>
+          <row>
+            <entry>Na</entry>
+            <entry>3.1</entry>
+            <entry>31</entry>
+            <entry>250</entry>
+            <entry>2.3</entry>
+            <entry>8.08</entry>
+          </row>
+          <row>
+            <entry>K</entry>
+            <entry>2.1</entry>
+            <entry>44</entry>
+            <entry>293</entry>
+            <entry>2.2</entry>
+            <entry>6.55</entry>
+          </row>
+          <row>
+            <entry>Cu</entry>
+            <entry>7.0</entry>
+            <entry>27</entry>
+            <entry>328</entry>
+            <entry/>
+            <entry>12.15</entry>
+          </row>
+          <row>
+            <entry>Ag</entry>
+            <entry>5.5</entry>
+            <entry>41</entry>
+            <entry>441.6</entry>
+            <entry/>
+            <entry>10.77</entry>
+          </row>
+          <row>
+            <entry>Ge</entry>
+            <entry>E<sub>V</sub>+E<sub>G</sub>/2</entry>
+            <entry>2217</entry>
+            <entry>2106</entry>
+            <entry/>
+            <entry>1.16</entry>
+          </row>
+          <row>
+            <entry>Si</entry>
+            <entry>E<sub>V</sub>+E<sub>G</sub>/2</entry>
+            <entry>767.6</entry>
+            <entry>729</entry>
+            <entry/>
+            <entry>1.16</entry>
+          </row>
+          <row>
+            <entry>GaAs</entry>
+            <entry>E<sub>V</sub>+E<sub>G</sub>/2</entry>
+            <entry>4890</entry>
+            <entry>4645.5</entry>
+            <entry/>
+            <entry>1.16</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <list id="import-auto-id1172146434618" list-type="enumerated" number-style="arabic">
+      <item>This velocity can be thermal velocity or Pauli Velocity.</item>
+    </list>
+    <para id="import-auto-id1172146434620">
+      <emphasis effect="bold">Answers: Conducting electron is strongly scattering in metallic crystalline lattice but very wekly scattering in Semiconductor as exhibited by short Mean Free Path in metals and by long Mean Free Paths in Semi-conductors.[1/4+1/4=1/2]  </emphasis>
+    </para>
+    <para id="import-auto-id1172146419489">XXV. In the Table given in Question XIV which is Pauli Velocity and which is Thermal Velocity?</para>
+    <para id="import-auto-id1172146434612">
+      <emphasis effect="bold">Answers: Conducting Electron velocities in Metals are Pauli velocities because they arise out of Pauli-Exclusion Principle whereas conducting electron velocities in Semi-conductor are thermal velocities.[1/4+1/4=1/2]</emphasis>
+    </para>
+    <para id="import-auto-id1172146400268">XXVI. In Question XVIII, intrinsic  Ge has the least resistivity and intrinsic  GaAs has the maximum , Why?<emphasis effect="bold">Answers; Ge has the least Band-Gap and GaAs has the widest Band-Gap.[1/4+1/4=1/2]</emphasis></para>
+    <para id="import-auto-id1172146419496">XXVII. <figure id="import-auto-id1172146434623"><media id="import-auto-id1172146434624" alt=""><image mime-type="image/png" src="../../media/graphics7-f230.png" height="35" width="124"/></media></figure> This is what statistics and does it tell. At T= 0 Kelvin what kind of distribution is it?<emphasis effect="bold">Answers: This is Fermi-Dirac Statistics, P(E) gives the probability of occupancy of E by Fermions, and Absolute Zero the distribution is RECTANGULAR.[1/6+1/6+1/6=1/2 Points]</emphasis></para>
+    <para id="import-auto-id1172146400278">XXVIII. <figure id="import-auto-id1172146400280"><media id="import-auto-id1172146400281" alt=""><image mime-type="image/png" src="../../media/graphics8-b031.png" height="29" width="197"/></media></figure> What is this expression ? Define all the terms.<emphasis effect="bold">Answers: N(E)→Density of States per unit energy, (E-E</emphasis><emphasis effect="bold">C</emphasis><emphasis effect="bold">) →kinetic energy of conducting electron in conduction band.[1/4+1/4=1/2]</emphasis></para>
+    <para id="import-auto-id1172146400310">XXIX. If Ultra-Violet light of λ = 0.2μm is incident on a metal then which of the metals listed in the Table below will respond and emit electrons ? <emphasis effect="bold">Answers;UV photon has 6.2eV hence it is powerful enough to cause photo-emission in all the Metals listed in the Table below.All the metals have a work-function less than 6.2eV.[1/2 Poiint]</emphasis></para>
+    <table id="import-auto-id1172146474922" summary="">
+      <tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <thead>
+          <row>
+            <entry>Metal</entry>
+            <entry>Work-function</entry>
+            <entry>Metal</entry>
+            <entry>Work-function</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Na</entry>
+            <entry>2.3eV</entry>
+            <entry>Ca</entry>
+            <entry>3.2eV</entry>
+          </row>
+          <row>
+            <entry>K</entry>
+            <entry>2.2eV</entry>
+            <entry>Ba</entry>
+            <entry>2.5eV</entry>
+          </row>
+          <row>
+            <entry>Cs</entry>
+            <entry>1.8eV</entry>
+            <entry>Pt</entry>
+            <entry>5.3eV</entry>
+          </row>
+          <row>
+            <entry>W</entry>
+            <entry>4.5eV</entry>
+            <entry>Ta</entry>
+            <entry>4.2eV</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id1172146474960">XXX. <figure id="import-auto-id1172146419512"><media id="import-auto-id1172146419500" alt=""><image mime-type="image/png" src="../../media/graphics9-311e.png" height="31" width="413"/></media></figure><emphasis effect="bold">Answers: This expression tells how EXCESS CARRIERS decay with respect to time in Semiconductors with  excess carrier life-time or excess carrier relaxation time defined as τ</emphasis><emphasis effect="bold">n</emphasis><emphasis effect="bold">. Excess carriers exponentially decay with time. If relaxation time is long then excess carriers transient takes a long time to decay.[1/2 points]</emphasis></para>
+    <para id="import-auto-id1172146474952">Question 2.Describe the step for preparing Electronic Grade Poly-crystal Silicon from sand.</para>
+    <para id="import-auto-id1172146419536">[7.5 marks]</para>
+    <para id="import-auto-id1172146419538">
+      <emphasis effect="bold">Answer:</emphasis>
+    </para>
+    <para id="import-auto-id1172146419543">
+      <emphasis effect="bold">Reduction of sand with carbon gives impure polycrystalline Silicon</emphasis>
+    </para>
+    <para id="import-auto-id1172146419548">
+      <emphasis effect="bold">↓</emphasis>
+    </para>
+    <para id="import-auto-id1172146399701">
+      <emphasis effect="bold">Reaction of pulverized raw silicon with HCl gaseous vapour to form TriChloroSilane</emphasis>
+    </para>
+    <para id="import-auto-id1172146399706">
+      <emphasis effect="bold">↓</emphasis>
+    </para>
+    <para id="import-auto-id1172146399712">
+      <emphasis effect="bold">Multiple distillation of TriChloroSilane to obtain purified electronic grade TriChloroSilane</emphasis>
+    </para>
+    <para id="import-auto-id1172146399718">
+      <emphasis effect="bold">↓</emphasis>
+    </para>
+    <para id="import-auto-id1172146399723">
+      <emphasis effect="bold">Thermal decomposition of SiHCl3 at 1000 degree centigrade in Sieman’s reactor to obtain fattened rods of electronic grade Silicon</emphasis>
+    </para>
+    <para id="import-auto-id1172146399730">Question 3. Balmer Series Spectral Lines from Stars are determined to be at 6563A°,4862A°,4341A°,4102A° and 3970A°. Determine these spectral lines theoretically.</para>
+    <para id="import-auto-id1172146399733">[By the Red-Shift of these Balmer Spectral Lines the velocity of the receding Galaxy is detyermined. The recession velocity gives the distance of the Galaxy using Hubble’s relationship][7.5 marks]</para>
+    <para id="import-auto-id1172146399737"><emphasis effect="bold">Answer: λ(μm)=1.24/E</emphasis>
+      <emphasis effect="bold">g</emphasis>
+      <emphasis effect="bold">(eV) here E</emphasis>
+      <emphasis effect="bold">g</emphasis>
+      <emphasis effect="bold"> = (13.6eV/4-13.6/n^</emphasis>
+      <emphasis effect="bold">2</emphasis>
+      <emphasis effect="bold">)eV. Since the answer is to be obtained in Angstrom therefore the final expression is:</emphasis>
+    </para><para id="import-auto-id1172146399772"><emphasis effect="bold">Therefore λ(Angstrom)=( (1.24/(13.6/4-13.6/n^</emphasis>
+      <emphasis effect="bold">2</emphasis>
+      <emphasis effect="bold">))×10^</emphasis>
+      <emphasis effect="bold">4</emphasis>
+      <emphasis effect="bold">)Angstrom.</emphasis>
+    </para><para id="import-auto-id1172146440846">
+      <emphasis effect="bold">For n=3 to n=2, λ=6564.71A°;</emphasis>
+    </para>
+    <para id="import-auto-id1172146440852">
+      <emphasis effect="bold">For n=5 to n=2, λ=4862.75A°;</emphasis>
+    </para>
+    <para id="import-auto-id1172146440857">
+      <emphasis effect="bold">For n=6 to n=2, λ=4341.74A°;</emphasis>
+    </para>
+    <para id="import-auto-id1172146440863">
+      <emphasis effect="bold">For n=7 to n=2, λ=4102.94A°;</emphasis>
+    </para>
+    <para id="import-auto-id1172146440868">
+      <emphasis effect="bold">For n=8 to n=2, λ=3971.24A°;</emphasis>
+    </para>
+    <para id="import-auto-id1172146440874">Question 4.Detrmine the temperature at which E=E<sub>F</sub>+kT will be occupied by electron with P(E)=1%.[7.5 marks]</para>
+    <para id="import-auto-id1172146440876">Answer </para>
+    <para id="import-auto-id1172146440883">This question is wrongly stated. At E=E<sub>F</sub>+kT the Probability of occupancy is 1/(1+e) =0.2689. It can be never 1% irrespective of temperature.</para>
+    <para id="import-auto-id1172146440891">The correct question is: Determine P(E<sub>F</sub> + kT) in Fermi-Dirac Statistics. Determine Temperature T at which P(E<sub>F</sub> + 0.5eV) = 1%.[Answers: 0.27, 1262Kelvin]</para>
+    <para id="import-auto-id1172146440902">You can give either of the answers and fetch full marks.</para>
+  </content>
+</document>

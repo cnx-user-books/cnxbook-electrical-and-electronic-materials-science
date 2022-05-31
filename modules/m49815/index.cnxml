@@ -1,0 +1,411 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chapter 2. Solid State of Matter. Section.2.5. Bohr Model of Hydrogen Atom.</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49815</md:content-id>
+  <md:title>Chapter 2. Solid State of Matter. Section.2.5. Bohr Model of Hydrogen Atom.</md:title>
+  <md:abstract>Chapter 2. Section 2.5 gives the success of Bohr's Model in explaining the orbital radii and energy associated with the ground and excited states of Hydrogen Atom but it has problems dealing with more complex atoms.</md:abstract>
+  <md:uuid>2c1506ed-d6dc-4ccb-afed-72def821eb76</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1168717118229">
+      <emphasis effect="bold">Chapter 2. Solid State of Matter.</emphasis>
+    </para>
+    <para id="import-auto-id1168691988898">
+      <emphasis effect="bold">Section.2.5. Bohr Model of Hydrogen Atom.  </emphasis>
+    </para>
+    <para id="import-auto-id1168712539430">According to Maxwell’s Equation an accelerated electron must give off radiation and lose energy. An electron in an atom in a circular orbit is continuously accelerated towards the center. The acceleration towards the center is:</para>
+    <figure id="import-auto-id1168687646498">
+      <media id="import-auto-id1168703473749" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-f532.png" height="63" width="624"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1168727317804">
+      <media id="import-auto-id1168717112276" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-3cfd.png" height="22" width="541"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168689273998">This centripetal force is supplied by the electrostatic force of attraction by the nucleus of the Atom given by the following expression:</para>
+    <figure id="import-auto-id1168704525780">
+      <media id="import-auto-id1168705392383" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-efd7.png" height="66" width="633"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1168703858158">
+      <media id="import-auto-id1168689139211" alt="">
+        <image mime-type="image/png" src="../../media/graphics4-b8bd.png" height="36" width="582"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1168722134378">
+      <media id="import-auto-id1168721910686" alt="">
+        <image mime-type="image/png" src="../../media/graphics5-e64f.png" height="22" width="527"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168723115892">Therefore:</para>
+    <figure id="import-auto-id1168722129598">
+      <media id="import-auto-id1168712953647" alt="">
+        <image mime-type="image/png" src="../../media/graphics6-9c23.png" height="42" width="550"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168703151419">A circularly orbiting electron is continuously being accelerated towards the center hence it should be giving of SYNCHROTRON Radiation. Synchrotron radiation has the same frequency as the rate at which electron is orbiting the nucleus of the Atom. Infact this principle is being utilized in modern day Synchrotrons and Betatrons. If this is to occur then electron must spiral into the nucleus and atom must collapse. But all around us the atoms are stable. Hence Bohr made the following Postulates:</para>
+    <para id="import-auto-id1168712967462">Postulate 1. Electrons are in Stationary States. There are some discrete energy states in which electrons are permitted to stay.</para>
+    <para id="import-auto-id1168697389479">Postulate 2. In the stationary states:</para>
+    <figure id="import-auto-id1168713076255">
+      <media id="import-auto-id1168700461488" alt="">
+        <image mime-type="image/png" src="../../media/graphics7-a758.png" height="39" width="614"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168723219992">In a few years de Broglie in France gave his hypothesis of matter wave and that:</para>
+    <figure id="import-auto-id1168719465909">
+      <media id="import-auto-id1168717632871" alt="">
+        <image mime-type="image/png" src="../../media/graphics8-e5cf.png" height="43" width="598"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168703731491">Combining Bohr’s Law (2.4) and de Broglie hypothesis (2.5) we get the following:</para>
+    <para id="import-auto-id1168702972101"><figure id="import-auto-id1168723193788"><media id="import-auto-id1168722159097" alt=""><image mime-type="image/png" src="../../media/graphics9-f1fd.png" height="22" width="590"/></media></figure>.</para>
+    <para id="import-auto-id1168695696996">Equation (2.6) implies that only the electrons which form a standing wave along their respective orbital paths as shown in Figure 2.12.  are permitted to stay in stationary orbits. If the electron does not form a standing wave it starts radiating and it spirals in as shown in Figure 2.13.</para>
+    <figure id="import-auto-id1168722141077">
+      <media id="import-auto-id1168695673172" alt="">
+        <image mime-type="image/png" src="../../media/graphics10-8bcb.png" height="568" width="433"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1168722124706">
+      <media id="import-auto-id1168726256441" alt="">
+        <image mime-type="image/png" src="../../media/graphics11-58f8.png" height="337" width="511"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168700492556">From (2.4) squaring both sides we get:</para>
+    <figure id="import-auto-id1168701240272">
+      <media id="import-auto-id1168703960760" alt="">
+        <image mime-type="image/png" src="../../media/graphics12-bed4.png" height="45" width="604"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168712703080">Multiplying both sides by the mass of electron we get:</para>
+    <para id="import-auto-id1168724077902">
+      <figure id="import-auto-id1168712997944">
+        <media id="import-auto-id1168723813947" alt="">
+          <image mime-type="image/png" src="../../media/graphics13-f2a7.png" height="35" width="610"/>
+        </media>
+      </figure>
+    </para>
+    <para id="import-auto-id1168703715578">Both (2.3) and (2.8) give twice the Kinetic Energy of the orbiting electron. In (2.3) the KE has been obtained from Newtonian Mechanics consideration whereas from Bohr’s postulate (2.8) has been obtained. But the two are equal. Based on this equality we obtain:</para>
+    <figure id="import-auto-id1168721268139">
+      <media id="import-auto-id1168726228652" alt="">
+        <image mime-type="image/png" src="../../media/graphics14-74b0.png" height="45" width="573"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168711800688">Rearranging the terms we obtain the radius of the orbits as follows:</para>
+    <figure id="import-auto-id1168723088956">
+      <media id="import-auto-id1168721898448" alt="">
+        <image mime-type="image/png" src="../../media/graphics15-3383.png" height="22" width="462"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1168722141727">
+      <media id="import-auto-id1168696046359" alt="">
+        <image mime-type="image/png" src="../../media/graphics16-fee9.png" height="46" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168694615667">Calculating the Bohr Radius we get : a<sub>0</sub>= 52.9459 picometer(pm).</para>
+    <para id="import-auto-id1168691466228">Here we have taken the Universal Constants and electron charge and mass as follows:</para>
+    <figure id="import-auto-id1168695564858">
+      <media id="import-auto-id1168717841501" alt="">
+        <image mime-type="image/png" src="../../media/graphics17-4de8.png" height="22" width="603"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1168712954047">
+      <media id="import-auto-id1168726432621" alt="">
+        <image mime-type="image/png" src="../../media/graphics18-356a.png" height="39" width="596"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168714256887">According to Quantum Mechanics, the maximum probability density occurs at Bohr Radius but the total probability within a sphere of Bohr Radius is less than 65%.</para>
+    <para id="import-auto-id1168704174916">
+      <emphasis effect="bold">Section 2.5.1. Total Energy of Electron in n</emphasis>
+      <emphasis effect="bold">th </emphasis>
+      <emphasis effect="bold">Orbit of an Atom of Atomic Number Z.</emphasis>
+    </para>
+    <para id="import-auto-id1168714312094">Total Energy TE is given as follows:</para>
+    <figure id="import-auto-id1168699958799">
+      <media id="import-auto-id1168721883345" alt="">
+        <image mime-type="image/png" src="../../media/graphics19-e0a2.png" height="42" width="583"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168700803735">From (2.3) we find that 2×KE = magnitude of PE hence TE simplifies to:</para>
+    <figure id="import-auto-id1168719575564">
+      <media id="import-auto-id1168719243358" alt="">
+        <image mime-type="image/png" src="../../media/graphics20-8f42.png" height="42" width="589"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168712475430">Substituting the nth Orbit Radius (r<sub>n</sub>) as given in (2.10) we get TE as follows:</para>
+    <figure id="import-auto-id1168694664266">
+      <media id="import-auto-id1168688322589" alt="">
+        <image mime-type="image/png" src="../../media/graphics21-a7a2.png" height="61" width="563"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168721918487">From (2.10) and (2.13) gives the orbital radius and the corresponding energy for any atom of Atomic Number Z.</para>
+    <para id="import-auto-id1168706555545">
+      <emphasis effect="bold">Section 2.5.2. Calculation of the orbital radii and Total Energy of different principle Orbits of Hydrogen Atom.</emphasis>
+    </para>
+    <para id="import-auto-id1168705718809">We  use (2.10) and (2.13) to determine the orbital radii and total energy of the discrete energy states of Hydrogen. Here Z=1 is taken since H atom has 1 electron and 1 proton. In (2.13) the results are obtained in Joules. To obtain results in eV we must divide Joules by (qC×1V). The results of calculations is given in Table 2.13.</para>
+    <para id="import-auto-id1168720959503">
+      <emphasis effect="bold">Table 2.13.Radii and total Energy of  Hydrogen Atom Principal electronic Orbits. </emphasis>
+    </para>
+    <table id="import-auto-id1168706788038" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <thead>
+          <row>
+            <entry>(Principal Quantum Number)n</entry>
+            <entry>r<sub>n</sub>(Angstrom)</entry>
+            <entry>Total Energy(eV)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>1</entry>
+            <entry>0.529</entry>
+            <entry>-13.6</entry>
+          </row>
+          <row>
+            <entry>2</entry>
+            <entry>2.12</entry>
+            <entry>-3.4</entry>
+          </row>
+          <row>
+            <entry>3</entry>
+            <entry>4.76</entry>
+            <entry>-1.5</entry>
+          </row>
+          <row>
+            <entry>4</entry>
+            <entry>8.47</entry>
+            <entry>-0.85</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id1168723173559">Based on the above Table a correct theoretical basis of the Spectral Lines of Hydrogen Atom was provided by Neil Bohr as explained in Figure 2.14.</para>
+    <figure id="import-auto-id1168697363204">
+      <media id="import-auto-id1168695705637" alt="">
+        <image mime-type="image/png" src="../../media/graphics22-4b00.png" height="608" width="596"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168721423800">As seen in Figure 2.14:</para>
+    <para id="import-auto-id1168725610829">Transition from higher states to ground state namely n =1 gives Lyman Series.</para>
+    <para id="import-auto-id1168704539919">Transition from higher states to next excited state namely n =2 gives Balmer Series.</para>
+    <para id="import-auto-id1168723602560">Transition from higher states to third excited  state namely n =3 gives Paschen Series.</para>
+    <para id="import-auto-id1168722149303">Transition from higher states to fourth excited state namely n =4 gives Brackett Series.</para>
+    <para id="import-auto-id1168723133193">Transition from higher states to fifth excited state namely n =5 gives Pfund Series.</para>
+    <para id="import-auto-id1168702319066">
+      <emphasis effect="bold">Section 2.5.3. Problems with Bohr Theory.</emphasis>
+    </para>
+    <para id="import-auto-id1168724435660">Bohr’s Model is unable to show that apart from Principal Quantum Numbers(n) there are azimuthial/orbital quantum number ( <emphasis effect="italics">l </emphasis>) , magnetic quantum numbers (m) and spin quantum numbers (s).</para>
+    <para id="import-auto-id1168689304410">In 1925, Erwin Schrodinger proposed Wave Mechanics applicable to matter wave.</para>
+    <para id="import-auto-id1168722160002">His proposition was the following:</para>
+    <figure id="import-auto-id1168701703480">
+      <media id="import-auto-id1168695577382" alt="">
+        <image mime-type="image/png" src="../../media/graphics23-03e7.png" height="22" width="522"/>
+      </media>
+    </figure>
+    <para id="import-auto-id6685796">H is the Hamiltonian Operator which includes KE plus PE operator. The Hamiltonian Operator operating on Matter Wave yields the Eigen Values of Hamiltonian Operation. </para>
+    <para id="import-auto-id1168723088606">This equation was applied to an electron orbiting  a proton in a Hydrogen atom. Since it had spherical symmetry hence Spherical Coordinates or Spherical Frame of Reference was adopted. The solution of Schrodinger Equation yielded the three non-relativistic quantum numbers namely:</para>
+    <para id="import-auto-id1168714820053">Principal Quantum Number ‘n’ which gives the quantization of Energy of Orbital Electrons.</para>
+    <para id="import-auto-id1168726940854">Azimuthial/Orbital Quantum Number ‘<emphasis effect="italics">l</emphasis>’ which gives the quantization of the orbital angular momentum L.</para>
+    <para id="import-auto-id1168722283036">Magnetic Quantum Number ‘m’ which gives the quantization of the orientation of L with a special frame of reference Z axis.</para>
+    <para id="import-auto-id1168723185060">(2.14) is non-relativistic equation hence only non-relativistic Quantum Numbers are predicted.</para>
+    <para id="import-auto-id1168724333576">Relativistic treatment yields the Spin Quantum Numbers.</para>
+    <para id="import-auto-id1168724249411">These four Quantum Number have been explained Section 2.4.</para>
+    <para id="import-auto-id1168726135019">Bohr Theory could not be used to determine energies of atoms with more than one electron. It was unable to explain fine structure observed in H atom spectra. It cannot be used to understand bonding in molecules, nor can it be used to calculate energies of even the simplest molecules. Bohr’s model based on classical mechanics, used a quantization restriction on a classical model.  </para>
+    <para id="import-auto-id1168722341130">
+      <emphasis effect="bold">Section 2.5.3. Calculation of Outermost Orbital  Radii and Total Energy associated with Outermost Electron in Noble Gases He, Ne, Ar, Kr, Xe and Rn.</emphasis>
+    </para>
+    <para id="import-auto-id1168691293403">Equations (2.10) and (2.13) cannot be directly applied to atoms heavier than Hydrogen. This is because in complex atoms while studying the outermost orbit  we have to account  for the screening effect of the intervening electron cloud.</para>
+    <para id="import-auto-id1168699956272">The Inert Gases and their electronic configurations are tabulated in Table 2.3</para>
+    <para id="import-auto-id1168713067352">
+      <emphasis effect="bold">Table 2.3. Shell Structure of Inert Gas Atoms.</emphasis>
+    </para>
+    <table id="import-auto-id1168723102749" summary="">
+      <tgroup cols="8">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <thead>
+          <row>
+            <entry>Gas</entry>
+            <entry>Z</entry>
+            <entry>K-Shell(n=1)</entry>
+            <entry>L-Shell(n=2)</entry>
+            <entry>M-Shell(n=3)</entry>
+            <entry>N-Shell(n=4)</entry>
+            <entry>O-Shell(n=5)</entry>
+            <entry>P-Shell(n=6)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>He</entry>
+            <entry>2</entry>
+            <entry>1s<sup>2</sup></entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Ne</entry>
+            <entry>10</entry>
+            <entry>1s<sup>2</sup></entry>
+            <entry>2s<sup>2</sup> ,2p<sup>6</sup></entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Ar</entry>
+            <entry>18</entry>
+            <entry>1s<sup>2</sup></entry>
+            <entry>2s<sup>2</sup> ,2p<sup>6</sup></entry>
+            <entry>3s<sup>2</sup> ,3p<sup>6</sup></entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Kr</entry>
+            <entry>36</entry>
+            <entry>1s<sup>2</sup></entry>
+            <entry>2s<sup>2</sup> ,2p<sup>6</sup></entry>
+            <entry>3s<sup>2</sup> ,3p<sup>6</sup>,3d<sup>10</sup></entry>
+            <entry>4s<sup>2</sup> ,4p<sup>6</sup></entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Xe</entry>
+            <entry>54</entry>
+            <entry>1s<sup>2</sup></entry>
+            <entry>2s<sup>2</sup> ,2p<sup>6</sup></entry>
+            <entry>3s<sup>2</sup> ,3p<sup>6</sup>,3d<sup>10</sup></entry>
+            <entry>4s<sup>2</sup> ,4p<sup>6</sup>,4d<sup>10</sup></entry>
+            <entry>5s<sup>2</sup> ,5p<sup>6</sup></entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Rn</entry>
+            <entry>86</entry>
+            <entry>1s<sup>2</sup></entry>
+            <entry>2s<sup>2</sup> ,2p<sup>6</sup></entry>
+            <entry>3s<sup>2</sup> ,3p<sup>6</sup>,3d<sup>10</sup></entry>
+            <entry>4s<sup>2</sup> ,4p<sup>6</sup>,4d<sup>10</sup>,4f<sup>14</sup></entry>
+            <entry>5s<sup>2</sup> ,5p<sup>6</sup>,5d<sup>10</sup></entry>
+            <entry>6s<sup>2</sup> ,6p<sup>6</sup></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id1168695962720">From Table 2.3 it is evident that in Neon, K-shell electrons and L Shell s-orbital electrons will have a screening effect to the extent that p-orbital in L-Shell will experience only the pull of (10-4) protons and screening factor (S) is 4.</para>
+    <para id="import-auto-id1168716223790">In Argon, K-shell , L-Shell  and M-Shells s-orbital electrons will have a screening effect to the extent that p-orbital in M-Shell will experience only the pull of (18-12) protons and screening factor (S) is 12.</para>
+    <para id="import-auto-id1168714645035">In Krypton, K- shell, L-Shell, M-Shell and N-Shell s-orbital electrons will have a screening effect to the extent that p-orbital in N-Shell will experience only the pull of (36-30) protons and screening factor (S) is 30.</para>
+    <para id="import-auto-id1168701550915">In Xeon, K-shell, L Shell, M-Shell, N-Shell and O-Shell s-orbital electrons will have a screening effect to the extent that p-orbital in O-Shell will experience only the pull of (54-48) protons and screening factor (S) is 48.</para>
+    <para id="import-auto-id1168713842906">In Radon, K shell, L Shell, M-Shell, N-Shell, O-Shell and P-Shell s-orbital electrons will have a screening effect to the extent that p-orbital in P-Shell will experience only the pull of (86-80) protons and screening factor (S) is 80.</para>
+    <para id="import-auto-id1168702205903">In 1964, J.C.Slater empirically measured the covalent bonds of all the elements and published their outer orbital radii.by the title “Atomic Radii in Crystals” in <emphasis effect="italics">Journal of Chemical Physics, </emphasis>Volume 41, No.10, pp 3199-3205.</para>
+    <para id="import-auto-id1168722135672">I used these empirical values of atomic radii and the modified formula for (2.10) namely:</para>
+    <figure id="import-auto-id1168698779239">
+      <media id="import-auto-id1168722265076" alt="">
+        <image mime-type="image/png" src="../../media/graphics24-3383.png" height="22" width="462"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1168723171267">
+      <media id="import-auto-id1168694820125" alt="">
+        <image mime-type="image/png" src="../../media/graphics25.png" height="46" width="493"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1168697193442">Using the empirical values of the radii and using (2.15) I determined the actual screening effect in each case.</para>
+    <para id="import-auto-id1168722158401">The magnitude of the total energy of the outermost orbital electron directly gives the First Ionization Energy and this has been experimentally measured by .</para>
+    <para id="import-auto-id1168723366144">
+      <emphasis effect="bold">Table 2.4.Empirical Radii(R), Z, calculated S* , experimentally measured First Ionization Energy of the 6 Inert Gases.</emphasis>
+    </para>
+    <table id="import-auto-id1168695154052" summary="">
+      <tgroup cols="6">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <thead>
+          <row>
+            <entry>Inert Gas</entry>
+            <entry>R(pm)</entry>
+            <entry>Z</entry>
+            <entry>S*</entry>
+            <entry>n(P.Q.N of outermost orbit)</entry>
+            <entry>First Ionization Energy(eV)†</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>He</entry>
+            <entry>31</entry>
+            <entry>2</entry>
+            <entry>0.292068</entry>
+            <entry>1</entry>
+            <entry>24.8</entry>
+          </row>
+          <row>
+            <entry>Ne</entry>
+            <entry>38</entry>
+            <entry>10</entry>
+            <entry>4.42675</entry>
+            <entry>2</entry>
+            <entry>21.5</entry>
+          </row>
+          <row>
+            <entry>Ar</entry>
+            <entry>71</entry>
+            <entry>18</entry>
+            <entry>11.2885</entry>
+            <entry>3</entry>
+            <entry>16.0</entry>
+          </row>
+          <row>
+            <entry>Kr</entry>
+            <entry>88</entry>
+            <entry>36</entry>
+            <entry>26.3735</entry>
+            <entry>4</entry>
+            <entry>14.0</entry>
+          </row>
+          <row>
+            <entry>Xe</entry>
+            <entry>108</entry>
+            <entry>54</entry>
+            <entry>41.744</entry>
+            <entry>5</entry>
+            <entry>12.0</entry>
+          </row>
+          <row>
+            <entry>Rn</entry>
+            <entry>120</entry>
+            <entry>86</entry>
+            <entry>70.1162</entry>
+            <entry>6</entry>
+            <entry>11.0</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id1168690838323">S*- calculated value of Screening effect by me.</para>
+    <para id="import-auto-id1168701477949">E*- calculated value of total energy of the outermost orbital electron.</para>
+    <para id="import-auto-id1168719457511">P.Q.N- Principal Quantum Number.</para>
+    <para id="import-auto-id1168697527405">†Experimentally determined by Greenwood(reference not available)</para>
+  </content>
+</document>

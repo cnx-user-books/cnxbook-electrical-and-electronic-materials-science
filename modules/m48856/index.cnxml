@@ -1,0 +1,39 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Syllabus of EC1419A_Electrical and Electronic Materials Science</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m48856</md:content-id>
+  <md:title>Syllabus of EC1419A_Electrical and Electronic Materials Science</md:title>
+  <md:abstract>EC1419A is a 3 credit course in Materials Science with 42 periods per Semester.</md:abstract>
+  <md:uuid>fd0ba861-f6c5-454e-97cb-7c22bf66a33f</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1164037087289">
+      <emphasis effect="bold">
+        <emphasis effect="italics">EC 1x19A Electrical &amp; Electronic Material </emphasis>
+      </emphasis>
+    </para>
+    <para id="import-auto-id1164023837325">
+      <emphasis effect="bold">Revised Syllabus with effect from session 2011-12 </emphasis>
+    </para>
+    <para id="import-auto-id1164021850991">
+      <emphasis effect="bold">L-T-P: 3-0-0 Credit: 3 </emphasis>
+    </para>
+    <para id="import-auto-id1164017050413">1. Band Theory of Solids- Energy Band Diagram, E-k diagram, reduced E-k diagram, insulators, semiconductors and conductors [6 lectures] </para>
+    <para id="import-auto-id1164021717505">2. Dielectric Behaviour of Materials: polarization, dielectric constant at low frequency and high frequency, dielectric loss, piezo electricity and ferro electricity [6 lectures]; </para>
+    <para id="import-auto-id1164021757806">3. Magnetic Behaviour of Materials- diamagnetism, para magnetism, ferromagnetism and ferrimagnetism; soft and hard magnetic materials and their applications [6 lectures] </para>
+    <para id="import-auto-id1164018872497">4. Semiconductor- single crystal, polycrystal and amorphous; Fermi-Dirac Distribution; Hall Effect; Intrinsic and Extrinsic; N-type and P-type; Crystal Growth-(1) preparation of electronic grade polycrystal in Siemen‘s Reactor (2) Czochrarloski Method and Float Zone Method of bulk single crystal ingot preparation(3) mirror finished wafer preparation (4) Epitaxial Film Growth- Chemical Vapour Phase Deposition &amp; Liquid Phase Epitaxy (5) Molecular Beam Epitaxy [12 lectures] </para>
+    <para id="import-auto-id1164027541414">5. Concept of Phonons- quantization of lattice vibration [2 lectures] </para>
+    <para id="import-auto-id1164023522690">6. Special classification of Semiconductor Materials- degenerate (semi-metal) and non-degenerate semiconductor; elemental and compound semiconductor; direct and indirect band gap material [3 lectures] </para>
+    <para id="import-auto-id1164032661696">7. Superconductors- low and high temperature (YBaCuO) superconductors; Meissner Effect, applications [3 lectures] </para>
+    <para id="import-auto-id1164018704304">8. Special Materials: Nano materials (ZnO, TiO2, buckeyball carbon and graphene), semiconducting polymers, flexible electronic materials, meta materials, smart materials. </para>
+    <para id="import-auto-id1164027466739">
+      <emphasis effect="bold">Text Book: </emphasis>
+    </para>
+    <para id="import-auto-id1164020961585">
+      <emphasis effect="bold">References: </emphasis>
+    </para>
+    <para id="import-auto-id1164027809832">1. Principles of Electric Engineering Materials and Devices by S.O. Kasp, McGraw Hill; </para>
+    <para id="import-auto-id1164026765677">2. Structures and Properties of Materials Vol VI, electronic properties by Robert M. Rose, Lawrence A. Shepherd and John Wulf, Wiley Eastern ltd; </para>
+  </content>
+</document>

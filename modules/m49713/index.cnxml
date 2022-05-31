@@ -1,0 +1,385 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chapter 5_Introduction-Nanomaterials.</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49713</md:content-id>
+  <md:title>Chapter 5_Introduction-Nanomaterials.</md:title>
+  <md:abstract>Chapter 5 and its sections give the definition of nano-science and nano material, gives examples of nano-materials and its external manifestation. Subsequently the classification of nano-materials and formation of stable nano-structure.</md:abstract>
+  <md:uuid>2d94a0c4-89b4-4300-9201-c4e3af9c80ce</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1166124820000">
+      <emphasis effect="bold">Chapter 5_Introduction-Nanomaterials.</emphasis>
+    </para>
+    <para id="import-auto-id1166125112382">The Universe ranges from 10<sup>28</sup> cm to 10<sup>-33</sup>cm. The first Length is the distance from our Earth to the observable Event Horizon of the Universe which is 13.8blightyears(ly) = 4.23313 b parsec(pc) = 1.30622×10<sup>26</sup>m. The second length is Planck’s Length:</para>
+    <figure id="import-auto-id1166124774531"><media id="import-auto-id1166111181088" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-fc9f.png" height="60" width="255"/>
+      </media>
+    </figure><para id="import-auto-id1166125196002">Planck’s Length sets the fundamental limit on the accuracy of length measuremment.</para>
+    <para id="import-auto-id1166112611216">As proto-human-society and human society has developed, its capabilities have developed. Its tool materials improved from flint stones to copper to bronze to iron implements to steel to polymers to Silicon and finally to nano-materials. In Table 5.1, we show the development of Proto-human society due to anatomical changes in homo-species. Once modern humans emerged human society has developed both due to the development of relation of production and due to the development of tools of production. </para>
+    <para id="import-auto-id1166124790341">Relation of production has developed from primitive communism to slavery to feudal and to the capitalist society. The modern Capitalist Society is experiencing the labour pains for delivering a Socialistic Society.</para>
+    <para id="import-auto-id1166122374752">The scale of production has evolved from Small Scale Owner Managed Production to Large Scale Corporate Managed Production.</para>
+    <para id="import-auto-id1166124820772">
+      <emphasis effect="bold">Table 5.1. Stages of development in Proto Human Society and Human Society based on anatomical changes, based on relation of production and based on the development of means of production.</emphasis>
+    </para>
+    <table id="import-auto-id1166124879232" summary="">
+      <tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <thead>
+          <row>
+            <entry>Date(ya)<sup>1</sup></entry>
+            <entry>Anatomical<sup>3</sup></entry>
+            <entry>Relation of Production</entry>
+            <entry>Materials used</entry>
+            <entry>Means of Production</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>4M</entry>
+            <entry>AustralopethicusAfarensis</entry>
+            <entry>Savage &amp; Primitive communism</entry>
+            <entry>Primitive tools, no hand grip<sup>2</sup>.</entry>
+            <entry>Roots &amp; fruits gatherer</entry>
+          </row>
+          <row>
+            <entry>2.5M</entry>
+            <entry>Homo-habilis(handy man)</entry>
+            <entry>Savage &amp; Primitive communism</entry>
+            <entry>Choppers &amp;Flakes, Oldwan Style</entry>
+            <entry>Foraging &amp; scavenging</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry>Discovery of fire</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>1.9M</entry>
+            <entry>Homo-erectus(erect man)</entry>
+            <entry>Savage &amp; Primitivecommunism</entry>
+            <entry>Refined, precisionGrip features developed</entry>
+            <entry>hunting</entry>
+          </row>
+          <row>
+            <entry>800,000</entry>
+            <entry>Homo-sapiens(intelligent man)</entry>
+            <entry>Barbarians &amp; Primitivecommuinsm</entry>
+            <entry>Precision Grip matured &amp; tear shaped hand axesDeveloped,so-calledAcheulean style</entry>
+            <entry>hunting</entry>
+          </row>
+          <row>
+            <entry>200,000</entry>
+            <entry>Modern humansEmerge in AFRICA</entry>
+            <entry>Barbarians &amp; Primitivecommuinsm</entry>
+            <entry/>
+            <entry>hunting</entry>
+          </row>
+          <row>
+            <entry>70,000(last ice age begins)</entry>
+            <entry>Migrate out of Africa and replace all primitive homo-species.</entry>
+            <entry>Barbarians &amp; Primitivecommuinsm</entry>
+            <entry><emphasis effect="bold">STONE AGE,</emphasis>, cave-dwelling, refined flint-stone tools</entry>
+            <entry>hunting</entry>
+          </row>
+          <row>
+            <entry>50,000</entry>
+            <entry>Modern Humans reachAustralia and get isolated as Australian Aborigines.</entry>
+            <entry>Barbarians &amp; Primitivecommuinsm</entry>
+            <entry>Stone tools and weapons</entry>
+            <entry>hunting</entry>
+          </row>
+          <row>
+            <entry>50,000To 40,000</entry>
+            <entry>Migration to Asia</entry>
+            <entry>Barbarians &amp; Primitivecommuinsm</entry>
+            <entry>Stone tools and weapons</entry>
+            <entry>hunting</entry>
+          </row>
+          <row>
+            <entry>40,000 to30,000</entry>
+            <entry>In;land migration from Asia to Europe </entry>
+            <entry>Barbarians &amp; Primitivecommuinsm</entry>
+            <entry>Stone tools and weapons</entry>
+            <entry>hunting</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>Modern humans push toCentral Asia and arrived in the grassy steppes of Himalaya</entry>
+            <entry>Barbarians &amp; Primitivecommuinsm</entry>
+            <entry>Stone tools and weapons</entry>
+            <entry>hunting</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>From S.E.Asia and China, migration to Japan &amp; Siberia took place.</entry>
+            <entry>Barbarians &amp; Primitivecommuinsm</entry>
+            <entry>Stone tools and weapons</entry>
+            <entry>hunting</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>North Asians migrated to N.America via  land bridge across Arctic from Siberia</entry>
+            <entry>Barbarians &amp; Primitivecommuinsm</entry>
+            <entry>Stone tools and weapons</entry>
+            <entry>hunting</entry>
+          </row>
+          <row>
+            <entry>10,000</entry>
+            <entry>Great delugeModern Humans</entry>
+            <entry>Barbarians &amp; Civilized Society-Private Property, Monogamous Family, State</entry>
+            <entry>
+              <para id="import-auto-id1166111179003">
+                <emphasis effect="bold">COPPER AGE</emphasis>
+              </para>
+            </entry>
+            <entry>Hunting &amp; agriculture for fodder</entry>
+          </row>
+          <row>
+            <entry>9,000</entry>
+            <entry>Modern Humans</entry>
+            <entry>Slavery</entry>
+            <entry>Native Copper used.Smelted Copper used,</entry>
+            <entry>Mining, Agriculture for grains, artisans</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry>
+              <para id="import-auto-id1166111183149">
+                <emphasis effect="bold">BRONZE AGE</emphasis>
+              </para>
+            </entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>6,000…5,500…5,500…</entry>
+            <entry>Modern Humans</entry>
+            <entry>Feudalism</entry>
+            <entry>Silver,Tin,Bronze.</entry>
+            <entry>Mining, Agriculture, artisans</entry>
+          </row>
+          <row>
+            <entry>3,400 to1800CE</entry>
+            <entry>Modern Humans</entry>
+            <entry/>
+            <entry>
+              <para id="import-auto-id1166112705195">
+                <emphasis effect="bold">IRON AGE</emphasis>
+              </para>
+            </entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>1800CE to 1940CE</entry>
+            <entry>Modern Humans</entry>
+            <entry>Capitalism</entry>
+            <entry>
+              <para id="import-auto-id1166115553717">
+                <emphasis effect="bold">STEEL AGE</emphasis>
+              </para>
+            </entry>
+            <entry>Industrial Revolution &amp; Large Scale Production</entry>
+          </row>
+          <row>
+            <entry>1940-1960CE</entry>
+            <entry>Modern Humans</entry>
+            <entry>Capitalism</entry>
+            <entry>
+              <para id="import-auto-id1166117477123">
+                <emphasis effect="bold">POLYMER AGE</emphasis>
+              </para>
+            </entry>
+            <entry>Factory production</entry>
+          </row>
+          <row>
+            <entry>1960CE to present</entry>
+            <entry>Modern Humans</entry>
+            <entry/>
+            <entry>
+              <para id="import-auto-id1166115566246">
+                <emphasis effect="bold">SILICON AGE</emphasis>
+              </para>
+            </entry>
+            <entry>Computerization, Automation, Robotization  &amp; Miniaturization</entry>
+          </row>
+          <row>
+            <entry>1980 to present</entry>
+            <entry>Modern Humans</entry>
+            <entry/>
+            <entry>
+              <para id="import-auto-id1166122392097">
+                <emphasis effect="bold">NANO AGE</emphasis>
+              </para>
+            </entry>
+            <entry>Miniaturization &amp; System Integration</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <list id="import-auto-id1166124839048" list-type="enumerated" number-style="arabic">
+      <item>Ya = years ago.</item>
+      <item>Hand – grip = hand curves to grip the tool and stiffens at the base of the thumb and in the mid-hands to stabilize the hand and dissipate the force. This complex of traits gives dexterity in tool making and tool handling.</item>
+      <item>“When Early Hominines got a Grip”, Meeting Briefs, American Association of Physical Anthropologists, 9-13 April, 2013, Knoxville Tennese, Science, Vol. 340, 26<sup>th</sup> April 2013, pp 426-427. </item>
+    </list>
+    <para id="import-auto-id1166117761446">
+      <emphasis effect="italics">What is Nano-materials ?</emphasis>
+    </para>
+    <para id="import-auto-id1166122389896">
+      <emphasis effect="bold">Nanoscience = Study of nanoscale materials, properties and phenomena.</emphasis>
+    </para>
+    <para id="import-auto-id1166124754175">
+      <emphasis effect="bold">Nanoscale Materials = Specifically: ≤ A material 100 nm along one dimension (Out of three dimention. </emphasis>
+    </para>
+    <para id="import-auto-id1166112118662">
+      <emphasis effect="bold">Nanotechnology = Applications of nanoscience to industry and commerce.</emphasis>
+    </para>
+    <para id="import-auto-id1166113127675">"Wet" nanotechnology, which is the study of  biological systems that exist primarily in a water environment.</para>
+    <para id="import-auto-id1166112139958">"Dry" nanotechnology, which derives from surface science and physical chemistry, focuses on fabrication of structures in carbon (for example, fullerenes and nanotubes), silicon, and other inorganic materials. </para>
+    <para id="import-auto-id1166117570624">Computational nanotechnology, which permits the modeling and simulation of complex nanometer-scale structures.</para>
+    <para id="import-auto-id1166117506393">
+      <emphasis effect="bold">5.1. Examples of Nanoscience.</emphasis>
+    </para>
+    <para id="import-auto-id1166117750326"> The blue color of the butterfly shown in Figure 5.2 is due to Nature’s remarkable nanotechnology —  the blue color is known as “structural color” (i.e. no pigment) that originates from the nanostructure in the dorsal wing. The structure interferes with certain wavelengths of light to produce an beautiful  . The underside of the wing , on the other hand is brown. Why?</para>
+    <figure id="import-auto-id1166112132245">
+      <media id="import-auto-id1166125742259" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-dc99.png" height="281" width="623"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166124882698">
+      <emphasis effect="bold">Figure 5.2. Butterfly </emphasis>
+      <emphasis effect="bold">
+        <emphasis effect="italics">Morpho peleides limpida </emphasis>
+      </emphasis>
+      <emphasis effect="bold">is an example of nanoscience.</emphasis>
+    </para>
+    <figure id="import-auto-id1166113381643">
+      <media id="import-auto-id1166118707026" alt="">
+        <image mime-type="image/png" src="../../media/Picture 2-adfb.png" height="464" width="623"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166119526653">
+      <emphasis effect="bold">Figure 5.3. Nanostructure in Butterfly’s wings produces the interference fringes.</emphasis>
+    </para>
+    <figure id="import-auto-id1166127848287">
+      <media id="import-auto-id1166123213130" alt="">
+        <image mime-type="image/png" src="../../media/Picture 3-d221.png" height="454" width="623"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166115972989">
+      <emphasis effect="bold">Figure 5.4.The layered structure in Butterfly’s Wings, through alternate constructive  and destructive interference, gives rise to coloured fringes.</emphasis>
+    </para>
+    <para id="import-auto-id1166117336860">In early morning , dew drops curl up to form pearl beads  on the lotus leaf in a pond. This is an example of nanoscience. The micro-nanostructure of the lotus leaf exhibits super-hydrophobicity. Superhydrophobicity means repulsion of Lotus Leaf towards Water Dew Drops. Hence dew drops early in the morning curl up as pearl beads.</para>
+    <figure id="import-auto-id1166115546179">
+      <media id="import-auto-id1166111188197" alt="">
+        <image mime-type="image/png" src="../../media/Picture 4-bcaa.png" height="407" width="623"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166117563293">
+      <emphasis effect="bold">Figure 5.5. The water beads formation on lotus leaf is a beautiful example  of superhyrophobicity.</emphasis>
+    </para>
+    <para id="import-auto-id1166124848065">
+      <emphasis effect="bold">5.1.1.Self cleaning in Morpho Aega.</emphasis>
+    </para>
+    <figure id="import-auto-id1166115566607">
+      <media id="import-auto-id1166120234544" alt="">
+        <image mime-type="image/png" src="../../media/Picture 5-b386.png" height="341" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166111189560">
+      <emphasis effect="bold">Figure 5.6.</emphasis>
+      <emphasis effect="bold"> The attraction to water is higher than the static friction force between the dirty particle( marked in red) and the pointy surface, the dirty particle will be absorbed by the droplet. </emphasis>
+    </para>
+    <para id="import-auto-id1166118282780">Morpho Aega, a species of Butterfly, has the ability to self clean its wings based on nano-sceience. In Figure 5.6, water-droplets are shown in blue. These water drops roll-off the wing in a “radial out” direction from the central axis of the butterfly body due to directional adhesion of the super-hydrophobic wing. The direction of rolling is tuned by controlling the air-flow by the posture of the wings. The water droplets adsorb the dirt particles by electro-static attraction and these droplets carry away the dirt as the droplets roll off.</para>
+    <para id="import-auto-id1166123475210">
+      <emphasis effect="bold">5.2. Classification of Nano-materials.</emphasis>
+    </para>
+    <figure id="import-auto-id1166116052373">
+      <media id="import-auto-id1166125181805" alt="">
+        <image mime-type="image/png" src="../../media/Picture 6-ad30.png" height="171" width="498"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166118436276">Nano-materials are classified in exactly the same manner as Bulk Materials. The crystalline materials have some standard Unit Cells (Cubic Cells, FCC, BCC, Hexagonal Unit Cell, tetrahedral structure) which are repeated in all 3-Dimensions. </para>
+    <para id="import-auto-id1166124950095">A Single Crystal of nanometer size less than 100nm is referred to as nano-crystal. It is a single domain crystal with the diameter of the single domain less than 100nm. In Figure 5.7 the nano-crystals are shown.</para>
+    <figure id="import-auto-id1166118176491">
+      <media id="import-auto-id1166125119253" alt="">
+        <image mime-type="image/png" src="../../media/Picture 7-0acf.png" height="606" width="623"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166112881187">
+      <emphasis effect="bold">Figure 5.7. A single-crystal of 100nm size or less is a single domain crystal. It is Quasicrystal if in pyramid form. It is Crystalline if in cubic form. It is super structure if single domain crystals are arranged in a regular periodic form.</emphasis>
+    </para>
+    <para id="import-auto-id1166124777428">
+      <emphasis effect="bold">5.3. Formation of Stable Nano-structure.</emphasis>
+    </para>
+    <para id="import-auto-id1166116115560"> A stable nano-structure is the minimum energy configuration and a minimum energy configuration is obtained in the following manner:</para>
+    <figure id="import-auto-id1166117801285">
+      <media id="import-auto-id1166116547788" alt="">
+        <image mime-type="image/png" src="../../media/Picture 8-18ca.png" height="438" width="623"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166124777729">
+      <emphasis effect="bold">Figure 5.8. One atom surrounded by 6 atoms gives minimum energy configuration hence stable configuration. So a monolayer is stable when we have 7 atoms.</emphasis>
+    </para>
+    <para id="import-auto-id1166115550683">In bulk-materials, minimum energy configuration is spherical. A sphere is a minimum energy configuration from hydro-static equilibrium condition. But this is not true for nano-materials. </para>
+    <para id="import-auto-id1166111179036">In nano materials first stable configuration has 13 atoms as shown in Figure 5.9.</para>
+    <para id="import-auto-id1166124884708">Through inspection it can be shown that stable configuration is achieved by having;</para>
+    <para id="import-auto-id1166126046024"> M*(K) atoms = (1/3)(10K<sup>3</sup>+15K<sup>2</sup>+11K+3) for K<sup>th</sup>  configuration where K = 1,2,3…..</para>
+    <para id="import-auto-id1166119019259">For K= 1, first stable nano-crystal has 13 atoms.</para>
+    <para id="import-auto-id1166124525974">For K= 2, second stable nano-crystal has 55atoms.</para>
+    <para id="import-auto-id1166124845548">For K= 3, third stable nano-crystal has 147 atoms.</para>
+    <para id="import-auto-id1166111452781">For K= 4, fourth stable nano-crystal has 309 atoms.</para>
+    <para id="import-auto-id1166125134820">For K= 5, fifth stable nano-crystal has 561 atoms.</para>
+    <para id="import-auto-id1166111790300">These configurations are shown in Figure 5.10.</para>
+    <figure id="import-auto-id1166118665887">
+      <media id="import-auto-id1166124885409" alt="">
+        <image mime-type="image/png" src="../../media/Picture 9-eea1.png" height="421" width="623"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166116069336">
+      <emphasis effect="bold">Figure 5.9.A 3-D nanocrystal is stable ewhen there are 6 atoms surrounding the core atom and 3-atoms from the top and 3-atoms from the bottom. Meaning by when we  have 13 balls then we have first stable 3-D nanocrystal structure though it is not a spherical structure. </emphasis>
+    </para>
+    <figure id="import-auto-id1166113244049">
+      <media id="import-auto-id1166111177329" alt="">
+        <image mime-type="image/png" src="../../media/Picture 10-1841.png" height="515" width="623"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166115306558">
+      <emphasis effect="bold">Figure 5.10. Stable nano-configuration corresponding to K = 1,2,3,4 and 5 are shown.</emphasis>
+    </para>
+    <para id="import-auto-id1166124785747">In Figure 5.11. it is shown that the surface atoms dominate the crystal structure as we move from Bulk configuration to nano-particle configuration. Because of this dominance by surface atoms in nano-crystal configuration, material properties of nano-particle is completely different from those of the bulk crystal.</para>
+    <para id="import-auto-id1166117388908">Surface to volume ratio:-A 3 nm iron particle has 50% atoms on the surface</para>
+    <para id="import-auto-id1166112642456">-A 10 nm particle  20% on the surface</para>
+    <para id="import-auto-id1166112140204">-A 30 nm particle  only 5% on the surface</para>
+    <figure id="import-auto-id1166113438187">
+      <media id="import-auto-id1166113424232" alt="">
+        <image mime-type="image/png" src="../../media/Picture 11-e9e6.png" height="478" width="482"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166111320066">
+      <emphasis effect="bold">Figure 5.11. Nano-particle structure for K</emphasis>
+      <emphasis effect="bold">th  </emphasis>
+      <emphasis effect="bold">Stable, Minimum Energy, Configuration for K = 1, 2, 3, 4, 5 and 7. </emphasis>
+    </para>
+    <figure id="import-auto-id1166124919126">
+      <media id="import-auto-id1166115057451" alt="">
+        <image mime-type="image/png" src="../../media/Picture 12-3969.png" height="334" width="315"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166124542480">
+      <emphasis effect="bold">Figure 5.12. Calculated Surface Atoms to Bulk Atoms Ratio for Solid Metal Paricles vs the Size of Particle (nm). [Curtsey: Kenneth J.Klabunde, Jane Stark, Olga Koper, et.al. “Nanocrystal as Stoichiometric Regents with Unique Surface Chemistry”, Journal of Physical Chemistry, Vol.100, pp. 12142-12153,(1996)]</emphasis>
+    </para>
+    <para id="import-auto-id1166120747646">As the particle size changes from Bulk – Size to Nano - Size, the overall structure changes and Valence electrons become de-localized. What does this de-localization mean?</para>
+    <para id="import-auto-id1166115550814">We have seen in Band-Theory of Solids that when atoms are far apart the orbital electrons donot interact and the Energy Difference between two consecutive states is at the maximum. But when they are brought close together they start interacting and band gap between consecutive band reduces. What this means that nano-size particle will have a larger band-gap and as nano-size increases to bulk-size, band-gap asymptotically approaches the bulk band-gap. This leads to different physical and chemical properties continuously graded as size increases from nano to bulk size.</para>
+    <para id="import-auto-id1166123512220">The following properties are affected by nano to bulk-size transition:</para>
+    <para id="import-auto-id1166125148103">Optical properties, Bandgap ,Melting point ,Specific heat, Surface reactivity, Magnetic property</para>
+    <para id="import-auto-id1166112135578">and Electrical conduction.</para>
+  </content>
+</document>

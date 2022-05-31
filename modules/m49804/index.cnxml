@@ -1,0 +1,888 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chapter 2. Solid State of Matter.</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49804</md:content-id>
+  <md:title>Chapter 2. Solid State of Matter.</md:title>
+  <md:abstract>Chapter 2 describes the Solid State of Matter, its four classes namely Metals, Ceramics,Polymers and Composites. The electronic configuration of Inert Gases are described and their applications pointed out.</md:abstract>
+  <md:uuid>be2e2a2f-41bd-41e0-909c-1bb5569129a7</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id8079556">
+      <emphasis effect="bold">Chapter 2. Solid State of Matter.</emphasis>
+    </para>
+    <para id="import-auto-id8208782">
+      <figure id="import-auto-id7958796">
+        <media id="import-auto-id7054666" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-1d64.png" height="198" width="624"/>
+        </media>
+      </figure>
+    </para>
+    <para id="import-auto-id6405925">We were taught in our high school that there are three states of matter:</para>
+    <para id="import-auto-id6808594">Solid- it has a fixed volume and fixed shape.</para>
+    <para id="import-auto-id6189322">Liquid- it has fixed volume but it takes the shape of the vessel it is kept in.</para>
+    <para id="import-auto-id6810840">Gas-it has no fixed volume and no fixed shape. It takes the volume and shape of the vessel it is kept in.</para>
+    <para id="import-auto-id8568577">From this we concluded that in Gaseous State inter-molecular distance is not fixed  and the arrangement of the molecules is not fixed. Whereas in Liquid State inter-molecular distance is  fixed  but the arrangement of the molecules is not fixed. In contrast in Solid State inter-molecular distance is  fixed  and as well as the arrangement of the molecules is  fixed. In fact every elemental or compound solid has a well defined crystalline structure. Every Solid has a characteristic Unit Cell and this is periodically repeated at an spatial distance known as Lattice Parameter.</para>
+    <para id="import-auto-id7695197">The most commonly found  Unit Cell structures are: Cubic Cell, FCC Cell and BCC Cell.</para>
+    <para id="import-auto-id6120416">A large mm range spatial periodicity is called Single Crystal.</para>
+    <para id="import-auto-id7723695">Micron range spatial periodicity is known as Poly-crystal.</para>
+    <para id="import-auto-id8556489">Nanometer range spatial periodicity is known as Amorphous.</para>
+    <para id="import-auto-id6450883">In Figure 2.1. single crystal, poly crystal and amorphous solids are shown .</para>
+    <figure id="import-auto-id8637914">
+      <media id="import-auto-id6396263" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-5bae.png" height="215" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-id6282656">We subsequently learnt that there was a FOURTH  STATE of Matter namely <emphasis effect="bold">PLASMA</emphasis>. Matter above 4000K is in plasma state.  The whole Universe was in a state of plasma up to 380,000 years after the Big-Bang.</para>
+    <para id="import-auto-id6246678">Now we know a FIFTH STATE of matter called <emphasis effect="bold">Bose-Einstein Condensate</emphasis> at a fraction of Kelvin.</para>
+    <para id="import-auto-id8220336">
+      <emphasis effect="bold">Section 2.1. Alloy- Solid Solutions.</emphasis>
+    </para>
+    <para id="import-auto-id8629586">Only a few elements are widely used commercially in their pure form. Generally, other elements are present to produce greater strength, to improve corrosion resistance, or simply as impurities left over from the refining process. The addition of other elements into a metal is called alloying and the resulting metal is called an alloy. Even if the added elements are nonmetals, alloys may still have metallic properties. </para>
+    <para id="import-auto-id7484645">Copper alloys were produced very early in our history. Bronze, an alloy of copper and tin, was the first alloy known. It was easy to produce by simply adding tin to molten copper. Tools and weapons made of this alloy were stronger than pure copper ones. The typical alloying elements in some common metals are presented in the table below.</para>
+    <para id="import-auto-id8454384">Table 2.1. Some Important Alloys and their constituent elements.</para>
+    <table id="import-auto-id8454392" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <thead>
+          <row>
+            <entry>Alloys</entry>
+            <entry>Composition</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Brass</entry>
+            <entry>Copper,Zinc</entry>
+          </row>
+          <row>
+            <entry>Bronze</entry>
+            <entry>Copper, Zinc, Tin</entry>
+          </row>
+          <row>
+            <entry>Pewter</entry>
+            <entry>Tin, Copper, Bismuth,Antimony</entry>
+          </row>
+          <row>
+            <entry>Cast Iron</entry>
+            <entry>Iron, Carbon, Manganese, Silicon</entry>
+          </row>
+          <row>
+            <entry>Steel</entry>
+            <entry>Iron, Carbon(plus other elements)</entry>
+          </row>
+          <row>
+            <entry>Stailess Steel</entry>
+            <entry>Iron, Chromium, Nickel</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id8564247">The properties of alloys can be manipulated by varying composition. For example steel formed from iron and carbon can vary substantially in hardness depending on the amount of carbon added and the way in which it was processed.</para>
+    <para id="import-auto-id8000307">
+      <emphasis effect="bold">Section 2.2. General Material Classification.</emphasis>
+    </para>
+    <para id="import-auto-id7836728">Based on atomic bonding forces, matter is classified in three classes namely: metallic, ceramic and polymeric. These three classes can be further combined together to form composites. In Figure 2.2. we illustrate the three classes and their composites.</para>
+    <figure id="import-auto-id2833557">
+      <media id="import-auto-id8230370" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-a0fb.png" height="429" width="619"/>
+      </media>
+    </figure>
+    <para id="import-auto-id8636714">
+      <emphasis effect="bold">Section 2.2.1. Metals.</emphasis>
+    </para>
+    <para id="import-auto-id8551433">Metals account for about two thirds of all the elements and about 24% of the mass of the planet. Metals have useful properties including strength, ductility, high melting points, thermal and electrical conductivity, and toughness. From the periodic table, it can be seen that a large number of the elements are classified as being a metal. A few of the common metals and their typical uses are presented below.</para>
+    <para id="import-auto-id8574923">Common Metallic Materials:</para>
+    <para id="import-auto-id8541965">(1)Iron/Steel - Steel alloys are used for strength critical applications</para>
+    <para id="import-auto-id8581937">(2)Aluminum - Aluminum and its alloys are used because they are easy to form, readily available, inexpensive, and recyclable.</para>
+    <para id="import-auto-id8622482">(3)Copper - Copper and copper alloys have a number of properties that make them useful, including high electrical and thermal conductivity, high ductility, and good corrosion resistance. </para>
+    <para id="import-auto-id7772814">(4)Titanium - Titanium alloys are used for strength in higher temperature (~1000° F) application, when component weight is a concern, or when good corrosion resistance is required</para>
+    <para id="import-auto-id7874608">(5)Nickel - Nickel alloys are used for still higher temperatures (~1500-2000° F) applications or when good corrosion resistance is required.</para>
+    <para id="import-auto-id5758334">(6)Refractory materials are used for the highest temperature (&gt; 2000° F) applications.</para>
+    <para id="import-auto-id6270701">In metal, the lattice centers are immersed in a sea of conducting electrons. These conducting electrons give metallic bonding which is malleable and ductile. It does not have brittleness. Plus it is conductive.</para>
+    <para id="import-auto-id8447377">
+      <emphasis effect="bold">Section 2.2.2. Ceramics.</emphasis>
+    </para>
+    <para id="import-auto-id8436395">A ceramic has traditionally been defined as “an inorganic, nonmetallic solid that is prepared from powdered materials, is fabricated into products through the application of heat, and displays such characteristic properties as hardness, strength, low electrical conductivity, and brittleness." The word ceramic comes the from Greek word "keramikos", which means "pottery." They are typically crystalline in nature and are compounds formed between metallic and nonmetallic elements such as aluminum and oxygen (alumina-Al<sub>2</sub>O<sub>3</sub>), calcium and oxygen (calcia - CaO), and silicon and nitrogen (silicon nitride-Si<sub>3</sub>N<sub>4</sub>).</para>
+    <para id="import-auto-id6436453">The two most common chemical bonds for ceramic materials are covalent and ionic. Covalent and ionic bonds are much stronger than in metallic bonds and, generally speaking, this is why ceramics are brittle and metals are ductile.</para>
+    <para id="import-auto-id6240966">
+      <emphasis effect="bold">Section 2.2.3. Polymers.</emphasis>
+    </para>
+    <para id="import-auto-id7677990">A polymeric solid can be thought of as a material that contains many chemically bonded parts or units which themselves are bonded together to form a solid. The word polymer literally means "many parts." Two industrially important polymeric materials are plastics and elastomers. Plastics are a large and varied group of synthetic materials which are processed by forming or molding into shape. Just as there are many types of metals such as aluminum and copper, there are many types of plastics, such as polyethylene and nylon. Elastomers or rubbers can be elastically deformed a large amount when a force is applied to them and can return to their original shape (or almost) when the force is released.</para>
+    <para id="import-auto-id7772526">Polymers have many properties that make them attractive to use in certain conditions. Many polymers:</para>
+    <para id="import-auto-id7840331">(1)are less dense than metals or ceramics,</para>
+    <para id="import-auto-id7565456">(2)resist atmospheric and other forms of corrosion,</para>
+    <para id="import-auto-id6361077">(3)offer good compatibility with human tissue, or</para>
+    <para id="import-auto-id6244273">(4)exhibit excellent resistance to the conduction of electrical current.</para>
+    <para id="import-auto-id6128576">The polymer plastics can be divided into two classes, thermoplastics and thermosetting plastics, depending on how they are structurally and chemically bonded. Thermoplastic polymers comprise the four most important commodity materials – polyethylene, polypropylene, polystyrene and polyvinyl chloride. There are also a number of specialized engineering polymers. The term ‘thermoplastic’ indicates that these materials melt on heating and may be processed by a variety of molding and extrusion techniques. Alternately, ‘thermosetting’ polymers can not be melted or remelted. Thermosetting polymers include alkyds, amino and phenolic resins, epoxies, polyurethanes, and unsaturated polyesters.</para>
+    <para id="import-auto-id6484292">Rubber is a natural occurring polymer. However, most polymers are created by engineering the combination of hydrogen and carbon atoms and the arrangement of the chains they form. The polymer molecule is a long chain of covalent-bonded atoms and secondary bonds then hold groups of polymer chains together to form the polymeric material. Polymers are primarily produced from petroleum or natural gas raw products but the use of organic substances is growing. The super-material known as Kevlar is a man-made polymer. Kevlar is used in bullet-proof vests, strong/lightweight frames, and underwater cables that are 20 times stronger than steel.</para>
+    <para id="import-auto-id6788212">
+      <emphasis effect="bold">Section 2.2.4. Composites.</emphasis>
+    </para>
+    <para id="import-auto-id7778808">A composite is commonly defined as a combination of two or more distinct materials, each of which retains its own distinctive properties, to create a new material with properties that cannot be achieved by any of the components acting alone. Using this definition, it can be determined that a wide range of engineering materials fall into this category. For example, concrete is a composite because it is a mixture of Portland cement and aggregate. Fiberglass sheet is a composite since it is made of glass fibers imbedded in a polymer. </para>
+    <para id="import-auto-id7623052">Composite materials are said to have two phases. The reinforcing phase is the fibers, sheets, or particles that are embedded in the matrix phase. The reinforcing material and the matrix material can be metal, ceramic, or polymer. Typically, reinforcing materials are strong with low densities while the matrix is usually a ductile, or tough, material. </para>
+    <para id="import-auto-id7589020">Some of the common classifications of composites are:</para>
+    <list id="import-auto-id6131550" list-type="bulleted">
+      <item>Reinforced plastics</item>
+      <item>Metal-matrix composites</item>
+      <item>Ceramic-matrix composites</item>
+      <item>Sandwich structures</item>
+      <item>Concrete</item>
+    </list>
+    <para id="import-auto-id6082033">Composite materials can take many forms but they can be separated into three categories based on the strengthening mechanism. These categories are dispersion strengthened, particle reinforced and fiber reinforced. Dispersion strengthened composites have a fine distribution of secondary particles in the matrix of the material. These particles impede the mechanisms that allow a material to deform. (These mechanisms include dislocation movement and slip, which will be discussed later). Many metal-matrix composites would fall into the dispersion strengthened composite category. Particle reinforced composites have a large volume fraction of particle dispersed in the matrix and the load is shared by the particles and the matrix. Most commercial ceramics and many filled polymers are particle-reinforced composites. In fiber-reinforced composites, the fiber is the primary load-bearing component. Fiberglass and carbon fiber composites are examples of fiber-reinforced composites. </para>
+    <para id="import-auto-id7057747">If the composite is designed and fabricated correctly, it combines the strength of the reinforcement with the toughness of the matrix to achieve a combination of desirable properties not available in any single conventional material. Some composites also offer the advantage of being tailorable so that properties, such as strength and stiffness, can easily be changed by changing amount or orientation of the reinforcement material. The downside is that such composites are often more expensive than conventional materials. </para>
+    <para id="import-auto-id6375545">
+      <emphasis effect="bold">Section 2.3. The atomic bonding in Matter.</emphasis>
+    </para>
+    <para id="import-auto-id6439261">It should be clear that all matter is made of atoms. From the periodic table, it can be seen that there are only about 100 different kinds of atoms in the entire Universe. These same 100 atoms form thousands of different substances ranging from the air we breathe to the metal used to support tall buildings. Metals behave differently than ceramics, and ceramics behave differently than polymers. The properties of matter depend on which atoms are used and how they are bonded together.</para>
+    <para id="import-auto-id7722414">There are 4 kinds of atomic bonding:</para>
+    <para id="import-auto-id7663727">i.Metallic Bonding.</para>
+    <para id="import-auto-id7639960">ii.Covalent Bonding.</para>
+    <para id="import-auto-id7047549">iii.Ionic Bonding.</para>
+    <para id="import-auto-id6334274">iv.Van-der-Waal Bonding.</para>
+    <para id="import-auto-id8617351">All chemical bonds involve electrons. Atoms will stay close together if they have a shared interest in one or more electrons. Atoms are at their most stable and chemically inert form when they have no partially-filled electron shells such as Inert Gases /Noble Gases/Rare Gases such as He,Ne, Ar, Kr, Xe and Rn . These are odourless, colorless, monoatomic gases with very little reactivity hence they are called Inert Gases.</para>
+    <para id="import-auto-id8256876">In Table 2.2 and Table 2.3. the salient parameters and the electronic shell configurations of the Noble Gases are given.</para>
+    <para id="import-auto-id7716993">
+      <emphasis effect="bold">Table 2.2. The salient parameters of Noble Gases</emphasis>
+    </para>
+    <table id="import-auto-id8658645" summary="">
+      <tgroup cols="6">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <thead>
+          <row>
+            <entry>Gas</entry>
+            <entry>B.P(K)</entry>
+            <entry>M.P.(K)</entry>
+            <entry>Z*</entry>
+            <entry>Atomic radius(pm)</entry>
+            <entry>IonizationEnergy(eV)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>He</entry>
+            <entry>4.4Below 4.4K He exhibitssuperluidity</entry>
+            <entry>0.95Solid He found in the Core of Jupiter.It Behaves like metal</entry>
+            <entry>2</entry>
+            <entry>31</entry>
+            <entry>24.8</entry>
+          </row>
+          <row>
+            <entry>Ne</entry>
+            <entry>27.3</entry>
+            <entry>24.7</entry>
+            <entry>10</entry>
+            <entry>38</entry>
+            <entry>21.5</entry>
+          </row>
+          <row>
+            <entry>Ar</entry>
+            <entry>87.4</entry>
+            <entry>83.6</entry>
+            <entry>18</entry>
+            <entry>71</entry>
+            <entry>16</entry>
+          </row>
+          <row>
+            <entry>Kr</entry>
+            <entry>121.5</entry>
+            <entry>115.8</entry>
+            <entry>36</entry>
+            <entry>88</entry>
+            <entry>14</entry>
+          </row>
+          <row>
+            <entry>Xe</entry>
+            <entry>166.6</entry>
+            <entry>161.7</entry>
+            <entry>54</entry>
+            <entry>108</entry>
+            <entry>12</entry>
+          </row>
+          <row>
+            <entry>Rn</entry>
+            <entry>211.5</entry>
+            <entry>202.2</entry>
+            <entry>86</entry>
+            <entry>120</entry>
+            <entry>11</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id8243479">*Z = Atomic Number.</para>
+    <para id="import-auto-id8348298">
+      <emphasis effect="bold">Table 2.3. Shell Structure of Inert Gas Atoms.</emphasis>
+    </para>
+    <table id="import-auto-id7840169" summary="">
+      <tgroup cols="8">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <thead>
+          <row>
+            <entry>Gas</entry>
+            <entry>Z</entry>
+            <entry>K-Shell(n=1)</entry>
+            <entry>L-Shell(n=2)</entry>
+            <entry>M-Shell(n=3)</entry>
+            <entry>N-Shell(n=4)</entry>
+            <entry>O-Shell(n=5)</entry>
+            <entry>P-Shell(n=6)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>He</entry>
+            <entry>2</entry>
+            <entry>1s<sup>2</sup></entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Ne</entry>
+            <entry>10</entry>
+            <entry>1s<sup>2</sup></entry>
+            <entry>2s<sup>2</sup> ,2p<sup>6</sup></entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Ar</entry>
+            <entry>18</entry>
+            <entry>1s<sup>2</sup></entry>
+            <entry>2s<sup>2</sup> ,2p<sup>6</sup></entry>
+            <entry>3s<sup>2</sup> ,3p<sup>6</sup></entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Kr</entry>
+            <entry>36</entry>
+            <entry>1s<sup>2</sup></entry>
+            <entry>2s<sup>2</sup> ,2p<sup>6</sup></entry>
+            <entry>3s<sup>2</sup> ,3p<sup>6</sup>,3d<sup>10</sup></entry>
+            <entry>4s<sup>2</sup> ,4p<sup>6</sup></entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Xe</entry>
+            <entry>54</entry>
+            <entry>1s<sup>2</sup></entry>
+            <entry>2s<sup>2</sup> ,2p<sup>6</sup></entry>
+            <entry>3s<sup>2</sup> ,3p<sup>6</sup>,3d<sup>10</sup></entry>
+            <entry>4s<sup>2</sup> ,4p<sup>6</sup>,4d<sup>10</sup></entry>
+            <entry>5s<sup>2</sup> ,5p<sup>6</sup></entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Rn</entry>
+            <entry>86</entry>
+            <entry>1s<sup>2</sup></entry>
+            <entry>2s<sup>2</sup> ,2p<sup>6</sup></entry>
+            <entry>3s<sup>2</sup> ,3p<sup>6</sup>,3d<sup>10</sup></entry>
+            <entry>4s<sup>2</sup> ,4p<sup>6</sup>,4d<sup>10</sup>,4f<sup>14</sup></entry>
+            <entry>5s<sup>2</sup> ,5p<sup>6</sup>,5d<sup>10</sup></entry>
+            <entry>6s<sup>2</sup> ,6p<sup>6</sup></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id8541032">
+      <emphasis effect="bold">Table 2.4. Simplified Shell Structure of Inert Gas Atoms.</emphasis>
+    </para>
+    <table id="import-auto-id8248314" summary="">
+      <tgroup cols="6">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <thead>
+          <row>
+            <entry>Gas</entry>
+            <entry>Z</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>He</entry>
+            <entry>2</entry>
+            <entry>1s<sup>2</sup></entry>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Ne</entry>
+            <entry>10</entry>
+            <entry>He</entry>
+            <entry>2s<sup>2</sup> ,2p<sup>6</sup></entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Ar</entry>
+            <entry>18</entry>
+            <entry>Ne</entry>
+            <entry>3s<sup>2</sup> ,3p<sup>6</sup></entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Kr</entry>
+            <entry>36</entry>
+            <entry>Ar</entry>
+            <entry>3d<sup>10</sup></entry>
+            <entry>4s<sup>2</sup> ,4p<sup>6</sup></entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Xe</entry>
+            <entry>54</entry>
+            <entry>Kr</entry>
+            <entry>4d<sup>10</sup></entry>
+            <entry>5s<sup>2</sup> ,5p<sup>6</sup></entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Rn</entry>
+            <entry>86</entry>
+            <entry>Xe</entry>
+            <entry>4f<sup>14</sup></entry>
+            <entry>5d<sup>10</sup></entry>
+            <entry>6s<sup>2</sup> ,6p<sup>6</sup></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id8054861">K, L, M, N, O and P-Shell are major Shells corresponding to the Principal Quantum Number n = 1,2,3,4,5 and 6.</para>
+    <para id="import-auto-id8050234">Within each Shell there are Sub-Shells s, p, d and f.</para>
+    <para id="import-auto-id7964866">Here we will briefly discuss the Periodic Table.</para>
+    <para id="import-auto-id2835111">Principal Quantum Number: n → gives the energy quantization as well as the complete ONE period of elements.</para>
+    <para id="import-auto-id2852611">Azimuthial Quantum Number: <emphasis effect="italics">l</emphasis>→ gives the orbital angular momentum quantization.</para>
+    <para id="import-auto-id7626041">Magnetic Quantum Number: m → <emphasis effect="italics">lħ</emphasis>, (<emphasis effect="italics">l</emphasis>-1)ħ……0,…….-(<emphasis effect="italics">l</emphasis>-1)ħ, -<emphasis effect="italics">lħ</emphasis>. This gives the orientation quantization. When a magnetic field B<sub>external </sub> is applied in Z-axis, Orbital Angular Momentum L will align so as to give an Integral Projection of <emphasis effect="italics">l</emphasis>ħ on Z-axis as shown in Figure 2.2.</para>
+    <figure id="import-auto-id8606755">
+      <media id="import-auto-id7779683" alt="">
+        <image mime-type="image/png" src="../../media/graphics4-1d28.png" height="414" width="555"/>
+      </media>
+    </figure>
+    <para id="import-auto-id8582456">Here for K-Shell, corresponding to Principal Q.N. n=1, <emphasis effect="italics">l can be only 0.There is only s-subshell.</emphasis></para>
+    <para id="import-auto-id7094726">For L- Shell, corresponding to Principal Q.N. n=2, <emphasis effect="italics">l can be  0 and 1.Here there are two subshells namely: s-subshell and p-subshell.</emphasis></para>
+    <para id="import-auto-id5557326">For M- Shell, corresponding to Principal Q.N. n=3, <emphasis effect="italics">l can be  0 ,1and 2. Here there are three subshells namely: s-subshell ,  p-subshell and d-subshell.</emphasis></para>
+    <para id="import-auto-id6245332">For N- Shell, corresponding to Principal Q.N. n=4, <emphasis effect="italics">l can be  0 ,1, 2 and 3. Here there are four subshells namely: s-subshell ,  p-subshell ,  d-subshell and f-subshell.</emphasis></para>
+    <para id="import-auto-id6497822">For O- Shell, corresponding to Principal Q.N. n=5, <emphasis effect="italics">l can be  0 ,1, 2 , 3 and 4. Here there are five subshells namely: s-subshell ,  p-subshell ,  d-subshell ,  f-subshell and g-subshell.</emphasis></para>
+    <para id="import-auto-id8364584">For P- Shell, corresponding to Principal Q.N. n=6, <emphasis effect="italics">l can be  0 ,1, 2 , 3 , 4 and 5. Here there are six subshells namely: s-subshell ,  p-subshell ,  d-subshell ,  f-subshell , g-subshell and h-subshell.</emphasis></para>
+    <para id="import-auto-id5552629">In nut-shell,the above information can be summarized  by Table 2.5.</para>
+    <para id="import-auto-id8272752">Table 2.5. Electron Distribution among the Sub-Shells.</para>
+    <table id="import-auto-id2830340" summary="">
+      <tgroup cols="6">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <thead>
+          <row>
+            <entry>Sub-ShellOr Orbital</entry>
+            <entry>
+              <para id="import-auto-id5549818">
+                <emphasis effect="italics">l</emphasis>
+              </para>
+            </entry>
+            <entry>
+              <emphasis effect="italics">m</emphasis>
+              <emphasis effect="italics">l</emphasis>
+            </entry>
+            <entry>Permissible statesw/o spin</entry>
+            <entry>Orbitalshape</entry>
+            <entry>Name</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>s</entry>
+            <entry>0</entry>
+            <entry>0</entry>
+            <entry>1</entry>
+            <entry>SPHERE</entry>
+            <entry>sharp</entry>
+          </row>
+          <row>
+            <entry>p</entry>
+            <entry>1</entry>
+            <entry>-1,0,+1</entry>
+            <entry>3</entry>
+            <entry>TWODUMB BELLS</entry>
+            <entry>principal</entry>
+          </row>
+          <row>
+            <entry>d</entry>
+            <entry>2</entry>
+            <entry>-2,-1,0,+1,+2</entry>
+            <entry>5</entry>
+            <entry>FOURDUMB BELLS</entry>
+            <entry>diffuse</entry>
+          </row>
+          <row>
+            <entry>f</entry>
+            <entry>3</entry>
+            <entry>-3,-2,-1, 0,+1,+2,+3</entry>
+            <entry>7</entry>
+            <entry>EIGHTDUMB BELLS</entry>
+            <entry>fundamental</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id8638205">The ORBITAL SHAPES of electron cloud for s-orbital, p-orbital, d-orbital and f-orbital are illustrated in Figure 2.3.</para>
+    <figure id="import-auto-id8335995">
+      <media id="import-auto-id5958526" alt="">
+        <image mime-type="image/png" src="../../media/graphics5-6a31.png" height="376" width="531"/>
+      </media>
+    </figure>
+    <para id="import-auto-id5563546">Spin Quantum Number: s = ±(1/2)ħ. This gives the quantization of the spin angular momentum. This Quantum Number ‘s’ has been illustrated in Figure 2.4.</para>
+    <figure id="import-auto-id7985146">
+      <media id="import-auto-id8226539" alt="">
+        <image mime-type="image/png" src="../../media/graphics6-cf1f.png" height="643" width="600"/>
+      </media>
+    </figure>
+    <para id="import-auto-id5558679">For each unique set of (n, L, m) there can be two permissible electronic states:one corresponding to +(1/2)ħ and the second anti-parallel –(1/2)ħ.</para>
+    <para id="import-auto-id8632906">Pauli Exclusion Principle clearly states that no two electrons can have the same four quantum numbers. Atleast one quantum number should differ.</para>
+    <para id="import-auto-id8365832">For n = 1, <emphasis effect="italics">l can only be 0</emphasis> . This marks the First Period. This means spherically symmetrical electron cloud surrounding the nucleus. This means Orbital Angular Momentum will be always ZERO in first period.</para>
+    <para id="import-auto-id5562984">Therefore in First Period, n=1, <emphasis effect="italics">l</emphasis> = 0, m = 0, s = ± (1/2)ħ → this correspond to TWO elements H and He.</para>
+    <para id="import-auto-id8639083">H is the first Group and He is the last Group in First Period. This is illustrated in Table 2.6.</para>
+    <para id="import-auto-id8549219">Table 2.6. Elements of FIRST Period.</para>
+    <table id="import-auto-id6430884" summary="">
+      <tgroup cols="9">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <thead>
+          <row>
+            <entry>FirstPeriod</entry>
+            <entry>1<sup>st</sup> Gr</entry>
+            <entry>2<sup>nd</sup> Gr</entry>
+            <entry>3<sup>rd</sup> Gr</entry>
+            <entry>4<sup>th</sup> Gr</entry>
+            <entry>5<sup>th</sup> Gr</entry>
+            <entry>6<sup>th</sup> Gr</entry>
+            <entry>7<sup>th</sup> Gr</entry>
+            <entry>8<sup>th</sup> Gr</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Elements</entry>
+            <entry>H</entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry>He</entry>
+          </row>
+          <row>
+            <entry>s-orbitalbeing filled</entry>
+            <entry>1s<sup>1</sup></entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry>2s<sup>2</sup></entry>
+          </row>
+          <row>
+            <entry>K-ShellIs being Filled up</entry>
+            <entry>s-subshellin K-Shell</entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry>-</entry>
+            <entry>s-subshellin K-Shellis Full</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id8583199">For n=2, <emphasis effect="italics">l can be 0 and 1.</emphasis> This marks the Second Period.</para>
+    <para id="import-auto-id8608258">Here we have K Shell which is already FULL and corresponds to He configuration and L-Shell is in the process of getting filled as shown in Table 2.7.</para>
+    <para id="import-auto-id7829721">Table 2.7. Elements of SECOND Period.</para><table id="import-auto-id8333525" summary="">
+      <tgroup cols="9">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <thead>
+          <row>
+            <entry>SecondPeriod</entry>
+            <entry>1<sup>st</sup> Gr</entry>
+            <entry>2<sup>nd</sup> Gr</entry>
+            <entry>3<sup>rd</sup> Gr</entry>
+            <entry>4<sup>th</sup> Gr</entry>
+            <entry>5<sup>th</sup> Gr</entry>
+            <entry>6<sup>th</sup> Gr</entry>
+            <entry>7<sup>th</sup> Gr</entry>
+            <entry>8<sup>th</sup> Gr</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Elements</entry>
+            <entry>Li</entry>
+            <entry>Be</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>N</entry>
+            <entry>O</entry>
+            <entry>F</entry>
+            <entry>Ne</entry>
+          </row>
+          <row>
+            <entry>He corresponds to K-Shell</entry>
+            <entry>He2s<sup>1</sup></entry>
+            <entry>He2s<sup>2</sup></entry>
+            <entry>He2s<sup>2</sup>2p<sup>1</sup></entry>
+            <entry>He2s<sup>2</sup>2p<sup>2</sup></entry>
+            <entry>He2s<sup>2</sup>2p<sup>3</sup></entry>
+            <entry>He2s<sup>2</sup>2p<sup>4</sup></entry>
+            <entry>He2s<sup>2</sup>2p<sup>5</sup></entry>
+            <entry>He2s<sup>2</sup>2p<sup>6</sup></entry>
+          </row>
+          <row>
+            <entry>L-Shell Is being filled up.</entry>
+            <entry>s-subshellin L-Shell</entry>
+            <entry>s-subshellin L-Shellis Full</entry>
+            <entry>p-subshellin L-Shell</entry>
+            <entry>p-subshellin L-Shell</entry>
+            <entry>p-subshellin L-Shell</entry>
+            <entry>p-subshellin L-Shell</entry>
+            <entry>p-subshellin L-Shell</entry>
+            <entry>p-subshellin L-Shellis Full</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id8314009">For n=3, <emphasis effect="italics">l can be 0 , 1and 2.</emphasis> This marks the Third Period.</para>
+    <para id="import-auto-id7922755">Here we have K Shell which is already FULL and L-Shell is also filled and this K and L filled Shell corresponds to Neon. M-Shell is in the process of getting filled up as shown in Table 2.8.</para>
+    <para id="import-auto-id8613703">Table 2.8. Elements of THIRD Period.</para>
+    <table id="import-auto-id8575548" summary="">
+      <tgroup cols="9">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <thead>
+          <row>
+            <entry>ThirdPeriod</entry>
+            <entry>1<sup>st</sup> Gr</entry>
+            <entry>2<sup>nd</sup> Gr</entry>
+            <entry>3<sup>rd</sup> Gr</entry>
+            <entry>4<sup>th</sup> Gr</entry>
+            <entry>5<sup>th</sup> Gr</entry>
+            <entry>6<sup>th</sup> Gr</entry>
+            <entry>7<sup>th</sup> Gr</entry>
+            <entry>8<sup>th</sup> Gr</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Elements</entry>
+            <entry>Na</entry>
+            <entry>Mg</entry>
+            <entry>Al</entry>
+            <entry>Si</entry>
+            <entry>P</entry>
+            <entry>S</entry>
+            <entry>Cl</entry>
+            <entry>Ar</entry>
+          </row>
+          <row>
+            <entry>Ne corresponds to K-ShellAnd L-Shell</entry>
+            <entry>Ne3s<sup>1</sup></entry>
+            <entry>Ne3s<sup>2</sup></entry>
+            <entry>Ne3s<sup>2</sup>3p<sup>1</sup></entry>
+            <entry>Ne3s<sup>2</sup>3p<sup>2</sup></entry>
+            <entry>Ne3s<sup>2</sup>3p<sup>3</sup></entry>
+            <entry>Ne3s<sup>2</sup>3p<sup>4</sup></entry>
+            <entry>Ne3s<sup>2</sup>3p<sup>5</sup></entry>
+            <entry>Ne3s<sup>2</sup>3p<sup>6</sup></entry>
+          </row>
+          <row>
+            <entry>M-Shell Is being filled up.</entry>
+            <entry>s-subshellin M-Shell</entry>
+            <entry>s-subshellin M-Shellis Full</entry>
+            <entry>p-subshellin M-Shell</entry>
+            <entry>p-subshellin M-Shell</entry>
+            <entry>p-subshellin M-Shell</entry>
+            <entry>p-subshellin M-Shell</entry>
+            <entry>p-subshellin M-Shell</entry>
+            <entry>p-subshellin M-Shellis Full</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id8667634">For n=4, <emphasis effect="italics">l can be 0 , 1, 2 and 3</emphasis> This marks the Fourth Period.</para>
+    <para id="import-auto-id8617253">Here we have K Shell  and L-Shell are filled up. But  M-Shell is partially filled up. K,L, and M(partially) corresponds to Ar. Partially filed M-Shell and empty N-Shell is in the process of getting filled up as shown in Table 2.9.</para>
+    <para id="import-auto-id8658346">Table 2.9. Elements of FOURTH Period.</para>
+    <table id="import-auto-id8587486" summary="">
+      <tgroup cols="10">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <colspec colnum="10" colname="c10"/>
+        <thead>
+          <row>
+            <entry>FourthPeriod</entry>
+            <entry>1<sup>st</sup> Gr</entry>
+            <entry>2<sup>nd</sup> Gr</entry>
+            <entry>†</entry>
+            <entry>3<sup>rd</sup> Gr</entry>
+            <entry>4<sup>th</sup> Gr</entry>
+            <entry>5<sup>th</sup> Gr</entry>
+            <entry>6<sup>th</sup> Gr</entry>
+            <entry>7<sup>th</sup> Gr</entry>
+            <entry>8<sup>th</sup> Gr</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Elements</entry>
+            <entry>K</entry>
+            <entry>Ca</entry>
+            <entry/>
+            <entry>Ga</entry>
+            <entry>Ge</entry>
+            <entry>As</entry>
+            <entry>Se</entry>
+            <entry>Br</entry>
+            <entry>Kr</entry>
+          </row>
+          <row>
+            <entry>Ar corresponds to K, L-Shell filled upAnd M-Shell partially filled up.</entry>
+            <entry>Ar4s<sup>1</sup></entry>
+            <entry>Ar4s<sup>2</sup></entry>
+            <entry/>
+            <entry>Ar3d<sup>10</sup>4s<sup>2</sup>  4p<sup>1</sup></entry>
+            <entry>Ar3d<sup>10</sup>4s<sup>2</sup>  4p<sup>2</sup></entry>
+            <entry>Ar3d<sup>10</sup>4s<sup>2</sup>  4p<sup>3</sup></entry>
+            <entry>Ar3d<sup>10</sup>4s<sup>2</sup>  4p<sup>4</sup></entry>
+            <entry>Ar3d<sup>10</sup>4s<sup>2</sup>  4p<sup>5</sup></entry>
+            <entry>Ar3d<sup>10</sup>4s<sup>2</sup>  4p<sup>6</sup></entry>
+          </row>
+          <row>
+            <entry>N-Shell, s-orbital is first filled up.†Then M-Shell  d-orbital is filled up.Then N-Shell p-orbital is filled up </entry>
+            <entry>s-subshellin N-Shell getting filled</entry>
+            <entry>s-subshellin N-Shellis Full</entry>
+            <entry/>
+            <entry>d-subshell in M-Shell is fullp-subshellin N-Shell</entry>
+            <entry>d-subshell in M-Shell is full p-subshellin N-Shell</entry>
+            <entry>d-subshell in M-Shell is fullp-subshellin N-Shell</entry>
+            <entry>d-subshell in M-Shell is fullp-subshellin N-Shell</entry>
+            <entry>d-subshell in M-Shell is fullp-subshellin N-Shell</entry>
+            <entry>d-subshell in M-Shell is fullp-subshellin N-Shellis Full</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id6179533">† Sc, Ti,V,Cr,Mn,Fe,Co,Ni,Cu,Zn are the d-Block Transition elements which are there due to belated filling up of d-orbitals in M-Shell which has 10 electron states permissible from 3d<sup>1</sup> to 3d<sup>1</sup> .</para>
+    <para id="import-auto-id5773200">For n=5, <emphasis effect="italics">l can be 0 , 1, 2 , 3 and 4.</emphasis> This marks the Fifth Period.</para>
+    <para id="import-auto-id8647381">Here we have K Shell  , L-Shell and M-Shell are filled up. But  N-Shell is partially filled up. K,L, M and N(partially) corresponds to Kr. Partially filed N-Shell and empty O-Shell is in the process of getting filled up as shown in Table 2.10.</para>
+    <para id="import-auto-id6313599">Table 2.10. Elements of FIFTH Period.</para>
+    <table id="import-auto-id5848812" summary="">
+      <tgroup cols="10">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <colspec colnum="10" colname="c10"/>
+        <thead>
+          <row>
+            <entry>FifthPeriod</entry>
+            <entry>1<sup>st</sup> Gr</entry>
+            <entry>2<sup>nd</sup> Gr</entry>
+            <entry>†</entry>
+            <entry>3<sup>rd</sup> Gr</entry>
+            <entry>4<sup>th</sup> Gr</entry>
+            <entry>5<sup>th</sup> Gr</entry>
+            <entry>6<sup>th</sup> Gr</entry>
+            <entry>7<sup>th</sup> Gr</entry>
+            <entry>8<sup>th</sup> Gr</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Elements</entry>
+            <entry>Rb</entry>
+            <entry>Sr</entry>
+            <entry/>
+            <entry>In</entry>
+            <entry>Sn</entry>
+            <entry>Sb</entry>
+            <entry>Te</entry>
+            <entry>I</entry>
+            <entry>Xe</entry>
+          </row>
+          <row>
+            <entry>Kr corresponds to K, L,M-Shell filled upAnd N-Shell partially filled up.</entry>
+            <entry>Kr5s<sup>1</sup></entry>
+            <entry>Kr5s<sup>2</sup></entry>
+            <entry/>
+            <entry>Kr4d<sup>10</sup>5s<sup>2</sup>  5p<sup>1</sup></entry>
+            <entry>Kr4d<sup>10</sup>5s<sup>2</sup>  5p<sup>2</sup></entry>
+            <entry>Kr4d<sup>10</sup>5s<sup>2</sup>  5p<sup>3</sup></entry>
+            <entry>Kr4d<sup>10</sup>5s<sup>2</sup>  5p<sup>4</sup></entry>
+            <entry>Kr4d<sup>10</sup>5s<sup>2</sup>  5p<sup>5</sup></entry>
+            <entry>Kr4d<sup>10</sup>5s<sup>2</sup>  5p<sup>6</sup></entry>
+          </row>
+          <row>
+            <entry>O-Shell s-orbital Is first  filled.† Then N-Shell is filled up and then O-Shell is being filled up.</entry>
+            <entry>s-subshellin O-Shell getting filled</entry>
+            <entry>s-subshellin O-Shellis Full</entry>
+            <entry/>
+            <entry>d-subshell in N-Shell is fullp-subshellin O-Shell</entry>
+            <entry>d-subshell in N-Shell is full p-subshellin O-Shell</entry>
+            <entry>d-subshell in N-Shell is fullp-subshellin O-Shell</entry>
+            <entry>d-subshell in N-Shell is fullp-subshellin O-Shell</entry>
+            <entry>d-subshell in N-Shell is fullp-subshellin O-Shell</entry>
+            <entry>d-subshell in N-Shell is fullp-subshellin O-Shellis Full</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id8646622">† Y,Zr,Nb,Mo,Tc,Ru,Rh,Pd,Ag,Cd are the d-Block Transition elements which are there due to belated filling up of d-orbitals in N-Shell which has 10 electron states permissible from 4d<sup>1</sup> to 4d<sup>10</sup> .</para>
+    <para id="import-auto-id8550108">For n=6, <emphasis effect="italics">l can be 0 , 1, 2 , 3 , 4 and 5.</emphasis> This marks the Sixth Period.</para>
+    <para id="import-auto-id7620720">Here we have K Shell  , L-Shell , M-Shell are filled up and N-Shell and O-Shell is partially filled up. K,L, M full and N(partially) and O(partially) corresponds to Xe. Partially filled N-Shell and partially filled O-Shell is in the process of getting filled along with empty P-Shell up as shown in Table 2.11.</para>
+    <para id="import-auto-id6088804">Table 2.11. Elements of SIXTH Period.</para>
+    <table id="import-auto-id6388859" summary="">
+      <tgroup cols="10">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <colspec colnum="10" colname="c10"/>
+        <thead>
+          <row>
+            <entry>FifthPeriod</entry>
+            <entry>1<sup>st</sup> Gr</entry>
+            <entry>2<sup>nd</sup> Gr</entry>
+            <entry>†</entry>
+            <entry>3<sup>rd</sup> Gr</entry>
+            <entry>4<sup>th</sup> Gr</entry>
+            <entry>5<sup>th</sup> Gr</entry>
+            <entry>6<sup>th</sup> Gr</entry>
+            <entry>7<sup>th</sup> Gr</entry>
+            <entry>8<sup>th</sup> Gr</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Elements</entry>
+            <entry>Cs</entry>
+            <entry>Ba</entry>
+            <entry/>
+            <entry>Th</entry>
+            <entry>Pb</entry>
+            <entry>Bi</entry>
+            <entry>Po</entry>
+            <entry>At</entry>
+            <entry>Rn</entry>
+          </row>
+          <row>
+            <entry>Xe corresponds to K, L,M-Shell filled up.N-Shell and O-Shell partially filled up.</entry>
+            <entry>Xe6s<sup>1</sup></entry>
+            <entry>Xe6s<sup>2</sup></entry>
+            <entry/>
+            <entry>Xe4f<sup>14</sup>5d<sup>10</sup>6s<sup>2</sup> 6p<sup>1</sup></entry>
+            <entry>Xe4f<sup>14</sup>5d<sup>10</sup>6s<sup>2</sup> 6p<sup>2</sup></entry>
+            <entry>Xe4f<sup>14</sup>5d<sup>10</sup>6s<sup>2</sup> 6p<sup>3</sup></entry>
+            <entry>Xe4f<sup>14</sup>5d<sup>10</sup>6s<sup>2</sup> 6p<sup>4</sup></entry>
+            <entry>Xe4f<sup>14</sup>5d<sup>10</sup>6s<sup>2</sup> 6p<sup>5</sup></entry>
+            <entry>Xe4f<sup>14</sup>5d<sup>10</sup>6s<sup>2</sup> 6p<sup>6</sup></entry>
+          </row>
+          <row>
+            <entry>P-Shell s-orbital Is first  filled.† Then N-Shell is filled up and then O-Shell is being filled up. Then P-Shell p-orbital is filled up.</entry>
+            <entry>s-subshellin P-Shell getting filled</entry>
+            <entry>s-subshellin P-Shellis Full</entry>
+            <entry/>
+            <entry>f-subshell in N-Shell is full. The d-orbital in O-Shell is full andp-orbitalin P-Shell has started filling up</entry>
+            <entry>f-subshell in N-Shell is full. The d-orbital in O-Shell is full andp-orbitalin P-Shell has started filling up</entry>
+            <entry>f-subshell in N-Shell is full. The d-orbital in O-Shell is full andp-orbitalin P-Shell has started filling up</entry>
+            <entry>f-subshell in N-Shell is full. The d-orbital in O-Shell is full andp-orbitalin P-Shell has started filling up</entry>
+            <entry>f-subshell in N-Shell is full. The d-orbital in O-Shell is full andp-orbitalin P-Shell has started filling up</entry>
+            <entry>f-subshell in N-Shell is full. The d-orbital in O-Shell is full andp-orbitalin P-Shell is Full.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id6216961">†La,Hf,Ta,W,Re,Os,Ir,Pt,Au,Hg are the d-Block Transition elements which are there due to belated filling up of d-orbitals in O-Shell which has 10 electron states permissible from 5d<sup>1</sup> to 5d<sup>10</sup> . </para>
+    <para id="import-auto-id7973432">Ce,Pr,Nd,Pm,Sm,Eu,Gd,Tb,Dy,Ho,Er,Tm,Yb,Lu are f-Block Transition elements which are due to belated filling up of N-Shell f-orbital belated fillings from 4f<sup>1</sup> to 4f<sup>14</sup> .</para>
+    <para id="import-auto-id7841941">
+      <emphasis effect="bold">Section 2.3.1.Applications of Noble Gases</emphasis>
+    </para>
+    <para id="import-auto-id5768204">Argon is used in glass chambers to provide inert atmosphere as for instance in Incandescent Lamp and  in Siemen’s Reactor. Helium is used as breather gas. He-O<sub>2</sub> is used as breathing gas for deep-sea divers at a depth of 55m. This prevents oxygen toxemia. This also prevents Nitrogen narcosis. Helium gases have replaced highly inflammable Hydrogen gases in lighter than air applications.</para>
+    <para id="import-auto-id6019730">Noble gases have multiple stable isotopes except Radon which is radio-active. Radon has a half-lifetime of 3.8days. It decays to Helium and Polonium which further decays to lead.</para>
+    <para id="import-auto-id8596373">In each PERIOD of the periodic table, Noble gas has the highest first Ionization Energy and the Group I alkali metal has the lowest Ionization energy. There is only weak Vander Waal’s force acting between Noble gas atoms. Hence they have very low Melting Point and Boiling Point.</para>
+    <para id="import-auto-id6348108">Noble Gases are nearly Ideal Gases and their deviations from Ideal Gas Law give important clues regarding the inter-atomic distances of the gas atoms. </para>
+    <para id="import-auto-id6975195">If an atom has only a under-populated sub-shell, it will tend to lose them to become positively ionized as it happens in alkali metal. When metal atoms bond, a metallic bond occurs. When an atom has a nearly full electron sub-shell, it will try to find electrons from another atom so that it can fill its outer sub-shell and become electro-negative. These elements are usually described as nonmetals. The bond between two nonmetal atoms is usually a covalent bond. Whereas metal and nonmetal atom come together and an ionic bond occurs. There are also other, less common, types of bond but the details are beyond the scope of this material. On the next few pages, the Metallic, Covalent and Ionic bonds will be covered in  detail.</para>
+  </content>
+</document>

@@ -1,0 +1,319 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chapter 4.Light and Matter – Dielectric Behaviour of Matter</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49722</md:content-id>
+  <md:title>Chapter 4.Light and Matter – Dielectric Behaviour of Matter</md:title>
+  <md:abstract>Chapter 4 gives the historical background of Optics and its applications to matter.</md:abstract>
+  <md:uuid>ddefd92f-fbb9-4003-8d9b-be76d93b647d</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1166447366526">
+      <emphasis effect="bold">Chapter 4.Light and Matter – Dielectric Behaviour of Matter [“OPTICS” by Eugene Hecht, IIIrd Edition, Addison-Wesley-Longman Incorporation, Readings, Massachsetts].</emphasis>
+    </para>
+    <para id="import-auto-id1166447371736">
+      <emphasis effect="bold">Section 4.1. Brief History of Scientific and Technological Development in the field of Light.</emphasis>
+    </para>
+    <para id="import-auto-id1166460319313"> Study of Light and its application in Human Society can be traced back to 1200 BCE. In Exodus 38.8 (a chapter in The Bible) we find the mention of “Looking Glass of the Women”. Early mirrors were made of polished copper and bronze. Evidence of the use of mirrors turned up in excavations of the workers’ quarters near the construction site of Pyramid during the ancient Egyptian Civilization. At that time it was made of Speculum – a copper alloy rich in tin. In Roman Civilization we find the use of convex lens as Magnifying Glass as well as Burning Glass.</para>
+    <para id="import-auto-id1166453346603">After 475CE, with the fall of Western Roman Empire, dark ages descended in Europe and the center of Scientific Enquiry shifted to the Arab World. Islamic scholar Abu Ali al-Hassan Ibn al-Haytham (CE. 965-1041), known in the West as Alhazen, began his career as just another Islamic polymath. He was put in House Arrest by Al-Hakim, the Calipha of Cairo, because he failed to regulate the flow of Nile river.  While in House Arrest for 10 years, Alhazen revolutionized the study of optics and laid the foundation for the scientific method. (Move over, Sir Isaac Newton.) Before Alhazen, vision and light were questions of philosophy. Alhazen considered vision and light in terms of mathematics, physics, physiology, and even psychology. In his  <emphasis effect="italics">Book of Optics</emphasis>, he discussed the nature of light and color. He accurately described the mechanism of sight and the anatomy of the eye. He was concerned with reflection and refraction. He experimented with mirrors and lenses. He discovered that rainbows are caused by refraction and calculated the height of earth’s atmosphere. In his spare time, he built the first <emphasis effect="italics">camera obscura</emphasis>.</para>
+    <para id="import-auto-id1166445559060">From 1000 CE to 1600 CE, there was only a modest revival of  Scientific Enquiry and Research in Europe. The science of vision error correction by the use of Eye Glasses were introduced. Looking Glass or Mirror Technology was revived by the use of liquid amalagam of tin and mercury coated on the back of glasses. Use of multiple mirros and use of positive and negative lenses were in vogue in this era.</para>
+    <para id="import-auto-id1166453849659">
+      <emphasis effect="bold">Section 4.1.1. The revival of Scientific Enquiry in 17</emphasis>
+      <emphasis effect="bold">th</emphasis>
+      <emphasis effect="bold"> Century in Europe -The Renessaince Period.</emphasis>
+    </para>
+    <para id="import-auto-id1166460336186">Table 1. Time-line of Scientific Research in Application of Light for Human Good.</para>
+    <table id="import-auto-id1166443387216" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <thead>
+          <row>
+            <entry>Time</entry>
+            <entry>Scientist</entry>
+            <entry>Subject</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>October 2,1608</entry>
+            <entry>Hans Lippersley (1587-1619)Dutch Spectacle Maker</entry>
+            <entry>Applies for a patent for the Refracting Telescope.</entry>
+          </row>
+          <row>
+            <entry>1609</entry>
+            <entry>Galileo Galilei (1564-1642), Padua, Italy.</entry>
+            <entry>Builds his first Telescope for Astronomical Observation.</entry>
+          </row>
+          <row>
+            <entry>1609 onward</entry>
+            <entry>Astronomical Discoveries of Galileo Galilei.</entry>
+            <entry>Four satellites around Jupiter which are Io, Europa, Callisto and Ganymede. Galilie called them Medicean Stars; </entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry>Observed and analyzed the Sun spots;</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry>He discovered the poke marked surface of Moon concluding that it had mountains and craters;</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry>He saw the phases of Venus which lent support to the Copernican World View;</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry>He identified Milky Way as our Home Galaxy. Till then it was mistakenly regarded as nebular cloud;</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry>He observed Neptune but could not identify it as one of our Planets;</entry>
+          </row>
+          <row>
+            <entry>After 1609</entry>
+            <entry>Zacharius Jansenn(1588-1632), Dutchman.</entry>
+            <entry>Invented Compound Microscope.</entry>
+          </row>
+          <row>
+            <entry>After 1609</entry>
+            <entry>Willebrored Snell (1591-1626)</entry>
+            <entry>Discovered the Law of Refraction and measured Refractive Index of many mediums.</entry>
+          </row>
+          <row>
+            <entry>1657</entry>
+            <entry>Pierre de Fermat (1601-1665)</entry>
+            <entry>Rederived the Law of Reflection using the Principle of the Least Time.</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry>
+              <para id="import-auto-id1166442262391">
+                <emphasis effect="bold">Interference and diffraction was observed.</emphasis>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry>
+              <para id="import-auto-id1166441062524">
+                <emphasis effect="bold">But there was no consensus about the nature of light-is it a Wave or is it Corpuscular ? </emphasis>
+              </para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id1166459864777">Within a year  of death of Galileo, Sir Issac Newton(1642-1727) was born in England. He studied the dispersion of light into seven rainbow colours (Violet, Indigo, Blue, Green, Yellow, Orange and Red) but he was unable to reconcile the rectilinear propagation of light with  the spherical wave-front of light from a point source. Hence Newton favoured Corpuscular Theory of Light.</para>
+    <para id="import-auto-id1166460369222">There was a problem of Chromatic Aberration in Refracting Telescope which Newton was unable to correct. So in its place he built Reflecting Telescope in 1668. This was only 6 inches long and 1 inch in diameter but it had a magnification of 30 timesa.</para>
+    <para id="import-auto-id1166452049319">Christian Huygens (1629 – 1695) extended the Wave Theory of Light  and gave the theoretical basis of Reflection, Refraction and Double Refraction. He discovered that there was perpendicular polarized light (perpendicular to the plane of incidence) and parallel polarized light (parallel to the plane of incidence).</para>
+    <para id="import-auto-id1166490101695">Ole Christensen Romer (1644-1710) was the first person to recognize that light was not instantaneous but it had a finite velocity. Based on this reasoning in 1676, Romer predicted that on 9<sup>th</sup> November Io, a moon of Jupiter, would emerge from Jupiter’s shadow 10 minutes later than what would be expected from the yearly average motion. This what happened and this led to the conclusion that light took 22 minutes to cover a distance equal the orbital diameter of Earth around Sun i.e. a distance of 2 Astronomical Unit (A.U.) where 1 A.U. = 1.49598×10<sup>11</sup>m. Using this data we arrive At c = 2.2664×10<sup>8</sup>m/s but the correct value is c = 3×10<sup>8</sup>m/s. This error occurred due to underestimation in Jupiter’s Orbit size.</para>
+    <para id="import-auto-id1166441109118">Huygen and Newton based on the same reasoning arrived at c = 2.3×10<sup>8</sup>m/s  and c = 2.4×10<sup>8</sup>m/s respectively.</para>
+    <para id="import-auto-id1166442730235">
+      <emphasis effect="bold">Section 4.1.2. 19</emphasis>
+      <emphasis effect="bold">th</emphasis>
+      <emphasis effect="bold"> Century – the emergence of Wave Theory of Light.</emphasis>
+    </para>
+    <para id="import-auto-id1166457592250">Dr. Thomas Young (1773-1829) in England presented a series of papers on Wave Theory of Light in 1801, 1802 and 1803 before the Royal Society of London. He added a new dimension to the existing Wave theory by illustrating the Principle of Interference. He explained the coloured fringes in thin films and determined the wave-length of the seven colours of light.</para>
+    <para id="import-auto-id1166442290122">Augustine Jean Fresnel (1788-1827) in France independently explained the diffraction pattern arising from various obstacles and apertures and he also accounted the rectilinear propagation of Light based on Wave Theory.</para>
+    <para id="import-auto-id1166442974428">In 1725, James Bradley (1693-1762) attempted to measure the distance to star by triangulation method by observing a given star at six months  time period. During this experiment he observed Stellar Aberration.  This is different from Parallex Error.</para>
+    <para id="import-auto-id1166455548606">The problem of perpendicular and parallel polarization led Young to revise the mode of propagation of Light. Initially it was assumed to be longitudinal  much as the sound waves. But detection of polarization forced Young to postulate that Light had Transverse Mode of propagation.</para>
+    <para id="import-auto-id1166442988602">By 1825, Wave Theory of Light  was established.</para>
+    <para id="import-auto-id1166441575424">In 1849, Armand Hippolyte Louis Fizeau (1819-1896) did the first terrestrial determination of the speed of light in air. It came to be 315,300 km/s.</para>
+    <para id="import-auto-id1166442341426">Subsequently Focault measured the velocity of light in water. It turned out to be less than ‘c’. This was interoperated as some kind of drag effect by the water medium. This also contradicted Newton’s Corpuscular Theory of Light. </para>
+    <para id="import-auto-id1166452136918">In 1845, Michael Faraday (1791-1867) established that a strong magnetic field could change the Polarization of Light Beam.</para>
+    <para id="import-auto-id1166440687141">In 1861 and 1862, James Clerk Maxwell (1831-1879) synthesized the empirical knowledge of Gauss’s Divergence Theorem, Faraday Induction Law and Ampere’s Circuital Law into four differential equations and he established that Light was Electro-Magnetic Field propagating in all pervading aether as a transverse wave at a velocity c in vacuum:</para>
+    <figure id="import-auto-id1166444108765">
+      <media id="import-auto-id1166445453891" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-1a72.png" height="47" width="581"/>
+      </media>
+    </figure>
+    <para id="import-auto-id7959350">In a dielectric medium the velocity of propagation (v) is:</para>
+    <figure id="import-auto-id1166441651227">
+      <media id="import-auto-id1166441435847" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-c5f9.png" height="47" width="575"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166460273325">Where n = refractive index of the material.</para>
+    <para id="import-auto-id1166439602488">From (1a) it is evident that n = refractive index = √ε<sub>r</sub> .</para>
+    <para id="import-auto-id1166460271956">From Maxwell equations it was clear that Light was an Electro-Magnetic disturbance propagating out of a point source with the velocity of light with a spherical wave-front.</para>
+    <para id="import-auto-id1166442926897">The Four Maxwell Equations in differential form are:</para>
+    <figure id="import-auto-id1166449963931">
+      <media id="import-auto-id1166460360103" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-def8.png" height="61" width="624"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1166440927794">
+      <media id="import-auto-id1166448300024" alt="">
+        <image mime-type="image/png" src="../../media/graphics4-e06a.png" height="22" width="378"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1166450224286">
+      <media id="import-auto-id1166444014358" alt="">
+        <image mime-type="image/png" src="../../media/graphics5-655b.png" height="22" width="554"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1166442763432">
+      <media id="import-auto-id1166463767645" alt="">
+        <image mime-type="image/png" src="../../media/graphics6-ec38.png" height="39" width="524"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1166440740449">
+      <media id="import-auto-id1166440372933" alt="">
+        <image mime-type="image/png" src="../../media/graphics7-67e6.png" height="22" width="481"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166441043229">
+      <figure id="import-auto-id1166449467805">
+        <media id="import-auto-id1166441055185" alt="">
+          <image mime-type="image/png" src="../../media/graphics8-7b0b.png" height="22" width="607"/>
+        </media>
+      </figure>
+    </para>
+    <figure id="import-auto-id1166441039273">
+      <media id="import-auto-id1166440573556" alt="">
+        <image mime-type="image/png" src="../../media/graphics9-e933.png" height="31" width="502"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1166440481797">
+      <media id="import-auto-id1166447372884" alt="">
+        <image mime-type="image/png" src="../../media/graphics10-0063.png" height="22" width="602"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1166445834632">
+      <media id="import-auto-id1166460686247" alt="">
+        <image mime-type="image/png" src="../../media/graphics11-ee07.png" height="22" width="564"/>
+      </media>
+    </figure>
+    <figure id="import-auto-id1166459869181">
+      <media id="import-auto-id1166452293257" alt="">
+        <image mime-type="image/png" src="../../media/graphics12-a14d.png" height="22" width="557"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166441876084">From (2), (3), (4) and (5) it is evident that:</para>
+    <list id="import-auto-id1166441744063" list-type="enumerated" number-style="lower-roman">
+      <item>There is a general perpendicularity of E and H;</item>
+      <item>The Maxwell Equations are symmetrical;</item>
+      <item>E and H are interdependent.</item>
+    </list>
+    <para id="import-auto-id1166442504321">Time varying E field through (4) produces H field which is perpendicular to the direction of change of E and time varying H field through (3) produces E field which is perpendicular to the direction of change of H. So as an Electro-Magnetic disturbance is produced self sustaining transverse Electro-Magnetic Field travels out from the source of disturbance as shown in Figure 4.1. E and H are coupled in form of a pulse. E generates H farther out and H generates E still farther out. Thus E-M wave travels out in self sustained fashion and there is no need of aether. Still Maxwell assumed that there was an all pervading luminiferous aether which helped the propagation of E-M waves.</para>
+    <figure id="import-auto-id1166445442537">
+      <media id="import-auto-id1166456399592" alt="">
+        <image mime-type="image/png" src="../../media/Picture 2-2573.png" height="521" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166446789459">If a charge is accelerated in positive X-direction as  shown in Figure 4.1. then a kink is produced in the Electric Field at (c.dt). This kink travels out at ‘c’. It has a radial as well as transverse component. Radial Component(electro-static component) diminishes as the square of r while Transverse Component(radiative component) diminishes as ‘r’. Hence after  some distance r, only Transverse Component remains which detaches from the electric dipole and travels out as self-supporting E-M Radiative Field.</para>
+    <para id="import-auto-id1166450343225">In 1888, Heinrich Rudolf Hertz(1857-1894) generated long E-M waves and published the results in the Philosophical Transactions of Royal Society of London.</para>
+    <para id="import-auto-id1166486250856">In 1881, Michelson-Morley completed the measurement of velocity of light in different frames of reference but could detect no change in the standard value of ‘c’. Light velocity seemed to be invariant of the source of emission velocity. </para>
+    <para id="import-auto-id1166440839735">
+      <emphasis effect="bold">Section 4.1.3. The Conceptual Paradigm Shift at the turn of 19</emphasis>
+      <emphasis effect="bold">th</emphasis>
+      <emphasis effect="bold"> and 20</emphasis>
+      <emphasis effect="bold">th</emphasis>
+      <emphasis effect="bold"> Century.</emphasis>
+    </para>
+    <para id="import-auto-id1166460320994">The invariance of the velocity of light to the Frame of Reference necessitated a paradigm shift in the theoretical framework given by Newtonian Relativity. Jules Henri Poicare(1854-1912) was the first to grasp this invariance and he expressed an alternative view point:</para>
+    <para id="import-auto-id1166445442176">“Our aether – does it really exist ? I donot believe that more precise observations could ever reveal more than relative displacement.”</para>
+    <para id="import-auto-id1166450498183">In 1905, Albert Einstein introduced his special theory of Relativity in which he showed that,</para>
+    <para id="import-auto-id1166450056506">“the introduction of ‘Luminiferous Aether’ will prove superfluous in as much as the view here to be developed will not require an absolutely stationary space.” E-M wave was now envisaged as a self supporting and self-sustaining process without the need of a sub-stratum.</para>
+    <para id="import-auto-id1166447404212">
+      <emphasis effect="bold">4.1.3.1. Special Theory of Relativity.</emphasis>
+    </para>
+    <para id="import-auto-id1166440703250">Newtonian Mechanics fails the test of invariance of the speed of light from frame to frame. Einstein resolved this failure of Newtonian Mechanics.</para>
+    <para id="import-auto-id1166452768474">Time measured by a clock in a given frame of reference is called PROPER TIME.</para>
+    <para id="import-auto-id1166453738495">In moving frame, time measured by a clock placed in the same frame of reference is:</para>
+    <para id="import-auto-id1166440408879">
+      <figure id="import-auto-id1166440664986">
+        <media id="import-auto-id1166440746662" alt="">
+          <image mime-type="image/png" src="../../media/graphics13-54b8.png" height="42" width="277"/>
+        </media>
+      </figure>
+    </para>
+    <para id="import-auto-id1166450319526">Therefore <figure id="import-auto-id1166450311782"><media id="import-auto-id1166439971368" alt=""><image mime-type="image/png" src="../../media/graphics14-bf8f.png" height="47" width="537"/></media></figure></para>
+    <para id="import-auto-id1166467534473">Equation (6) implies that time slows down in moving frame as observed from rest frame. That is a person in a moving frame will be seen to age slowly when observed from the rest frame </para>
+    <para id="import-auto-id1166442079413">Some examples of Time Dilation:</para>
+    <para id="import-auto-id1166445035503"><emphasis effect="italics">Example 1.</emphasis> This experiment was carried out in CERN.</para>
+    <para id="import-auto-id1166449609562">Positive Kaons have a rest lifetime of τ<sub>K</sub> = 0.1273μs.</para>
+    <para id="import-auto-id1166482683357">In the lab, it is generated at a velocity of 0.927c.</para>
+    <para id="import-auto-id1166453293514">At this Relativistic Speed its observed life-time = 0.879357μs.</para>
+    <para id="import-auto-id1166443844933">This is the result of Time Dilation.</para>
+    <para id="import-auto-id1166443626779">Distance travelled in the Lab before it decays is = 0.927c×0.879357μs = 244m</para>
+    <para id="import-auto-id1166444143754"><emphasis effect="italics">Example 2</emphasis>.</para>
+    <para id="import-auto-id1166444854397">Cosmic Rays are continuously bombarding our atmosphere. Cosmic Rays consist of PROTONS.</para>
+    <para id="import-auto-id7049524">Protons collide with Nitrogen Molecule to form to form Pions. Pions decay to Muons. This occurs at a height of 45Km. Muons belong to Leptons. Electron and Tau-lepton belong to the same group of the particles.</para>
+    <para id="import-auto-id1166460774567">Velocity of Muons = 99.9943% of c.</para>
+    <para id="import-auto-id1166440040658">Its rest lifetime = τ<sub>μ0</sub> = 2.2μs. That is in rest frame the lifetime is 2.2μs.</para>
+    <para id="import-auto-id1166450488668">If it was travel at 99.9943% of c for its rest lifetime of 2.2μs it would travel only 659.5m and it could never be detected on the ground detectors.</para>
+    <para id="import-auto-id1166446423851">But it is detected.</para>
+    <para id="import-auto-id1166444643949">This is because its observed lifetime from Ground is 0.0192988s and it is travelling at 99.9943% of c. Hence distance travelled as observed from the ground = 5785.3Km. Muon has been generated 45Km above the Ground. Hence it easily reaches our Ground and is readily detected. </para>
+    <figure id="import-auto-id1166441112430">
+      <media id="import-auto-id1166440932870" alt="">
+        <image mime-type="image/png" src="../../media/graphics15-45ad.png" height="103" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166450938942">In a moving frame transverse dimensions remain unchanged.</para>
+    <para id="import-auto-id1166444775660">Let v<sub>x</sub> , v<sub>y</sub> , v<sub>z</sub>  be the velocities of a body in rest frame.</para>
+    <para id="import-auto-id1166460282348">Let v<sub>x</sub><sup>’</sup> , v<sub>y</sub><sup>’</sup> , v<sub>z</sub><sup>’</sup>  be the velocities of a body in a moving frame. The moving Frame is moving with velocity V in (+)ve x-direction.</para>
+    <para id="import-auto-id1166440674069">Transformation of Velocities from Moving Frame to Rest Frame is given as follows:</para>
+    <figure id="import-auto-id1166446425540">
+      <media id="import-auto-id1166482180455" alt="">
+        <image mime-type="image/png" src="../../media/graphics16-d428.png" height="76" width="563"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166484633768">If the observation is instantaneous then  velocity of light ‘c’→ infinity and (8) reduces to:</para>
+    <figure id="import-auto-id1166454457797">
+      <media id="import-auto-id1166463831615" alt="">
+        <image mime-type="image/png" src="../../media/graphics17-59ce.png" height="23" width="554"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166441958163">While sitting in a moving train, moving in (+)ve X direction with velocity V, if we measure the velocity of Wind which in rest frame is moving in (+)ve X direction at a velocity v<sub>x</sub> then in moving frame the observed or measured value of the velocity of Wind is:</para>
+    <figure id="import-auto-id1166446308286">
+      <media id="import-auto-id1166441423528" alt="">
+        <image mime-type="image/png" src="../../media/graphics18-6ff9.png" height="23" width="536"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166450736705">But velocity of light is not infinity hence measured value of the velocity of Wind from the moving frame is given by equation (8).</para>
+    <para id="import-auto-id1166453854972">
+      <emphasis effect="bold">4.3.1.2.Michelson-Morley Experiment and the invariance of the velocity of light.</emphasis>
+    </para>
+    <para id="import-auto-id1166440652608">Velocity of PHOTON from a moving train is given by Equation (8).</para>
+    <figure id="import-auto-id1166439994620">
+      <media id="import-auto-id1166440912454" alt="">
+        <image mime-type="image/png" src="../../media/graphics19-ea1f.png" height="56" width="527"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166440467606">Rearranging the terms we get:</para>
+    <figure id="import-auto-id1166451337560">
+      <media id="import-auto-id1166439997382" alt="">
+        <image mime-type="image/png" src="../../media/graphics20-6cf5.png" height="46" width="509"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166460665746">Open the bracket in (12);</para>
+    <figure id="import-auto-id1166460275140">
+      <media id="import-auto-id1166443063312" alt="">
+        <image mime-type="image/png" src="../../media/graphics21-7ce3.png" height="46" width="498"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166441618300">Put dashed terms on LHS and undashed terms on RHS:</para>
+    <figure id="import-auto-id1166457363746">
+      <media id="import-auto-id1166452730993" alt="">
+        <image mime-type="image/png" src="../../media/graphics22-6ff7.png" height="56" width="618"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166446475764">But in Rest Frame v<sub>x</sub> = c for a photon therefore measured in a moving frame:</para>
+    <figure id="import-auto-id1166457253090">
+      <media id="import-auto-id1166452830650" alt="">
+        <image mime-type="image/png" src="../../media/graphics23-cb3a.png" height="56" width="490"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166458818230">The set of transformations achieved by Equation (8) has to be postulated in order to arrive at the invariance of velocity of light as demonstrated by Michelson-Morley.</para>
+  </content>
+</document>

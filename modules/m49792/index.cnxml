@@ -1,0 +1,102 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Section 4.5. Piezo-electricity and Ferro-electricity.</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49792</md:content-id>
+  <md:title>Section 4.5. Piezo-electricity and Ferro-electricity.</md:title>
+  <md:abstract>Section 4.5. describes ferro-electric materials and its characteristic parameters.</md:abstract>
+  <md:uuid>4b44b533-50a2-4f05-854b-353025302c6d</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1166656119537">
+      <emphasis effect="bold">Section 4.5. Piezo-electricity and Ferro-electricity.</emphasis>
+    </para>
+    <para id="import-auto-id1166656144696">Piezo-electric effect was discovered by Jacques and Pierri Curie in 1880. They discovered that certain materials like quartz, Rochelle Salt, tourmaline and Sodium Potassium Tartarate exhibited polarization on the application of mechanical stress as shown in Figure 4.6.</para>
+    <figure id="import-auto-id1166656128935">
+      <media id="import-auto-id1166663644210" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-22d1.png" height="330" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166667384933">Application of electrical field causes mechanical deformation. This is called Inverse Piezo-electric Effect. Using Inverse Piezo-electric Effect, Ultra-sonic transducers can be built. Alternating Electric field applied in the frequency range 20kHz to 100MHz will set the piezo-crystal in mechanical vibration at the same frequency as long as the frequency  happens to be the natural frequency of resonance as determined by the physical dimensions. If the applied alternating electric field is off-resonance then very weak mechanical vibrations will be set.</para>
+    <para id="import-auto-id1166658446020">As seen in Figure 4.6, there is no polarization under zero strain. When tensile or compressive strain is applied to such a crystal, it alters the separation between (+)ve and (-)ve charges in each elementary cell. This leads to a net polarization in each unit cell at the crystal surface. The Polarization is proportional to the applied Stress and its polarity is direction dependent. In the Figure 4.6, Elongation or tensile strain causes positive polarization and Compressive strain causes negative polarization.</para>
+    <para id="import-auto-id7519666">Stress creates Electric Field and  Electric Field creates Elastic Strain causing the physical dimension to alter in accordance with the electric field.</para>
+    <para id="import-auto-id1166654407553">Besides Quartz, Rochelle Salts, Tourmaline, Sodium Potassium Tartarate we have piezoelectric ceramics. PZT is an example of piezo-electric ceramics. PZT is polycrystalline ferroelectric material with PEROVSKITE crystal structure.</para>
+    <para id="import-auto-id1166656042049">Perovskite has Tetragonal/Rhombohedral structure very close to Cubic Structure. They have a general formula as follows:</para>
+    <para id="import-auto-id1166668429555">
+      <figure id="import-auto-id1166656404929">
+        <media id="import-auto-id1166660518130" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-6d83.png" height="22" width="177"/>
+        </media>
+      </figure>
+    </para>
+    <para id="import-auto-id1166660882711">Here A is trivalent metal ion such as La.</para>
+    <para id="import-auto-id1166660451592">B is trivalent metal ion such as Al.</para>
+    <para id="import-auto-id1166656844478">Rhombohedral Perovskite is LaAlO<sub>3</sub>.</para>
+    <para id="import-auto-id1166657729495">PZT is a mass of minute crystallites. Above Curie Temperature it exhibits simple cubic structure with (+)ve charge center and (-)ve charge center being coincident as shown in Figure 4.7.a. Hence the crystal is centro-symmetric with no permanent dipoles. It is found to exhibit paraelectric behavior.  Ability for undergoing electronic polarization as discussed in Physics of Dielectric Chapter.</para>
+    <para id="import-auto-id1166658750552">Paraelectricity is the ability of many materials (specifically ceramic crystals) to become polarized under an applied electric field. Unlike Ferroelectricity; this can happen even if there is no permanent electric dipole that exists in the material, and removal of the fields results in the polarization in the material returning to zero. The mechanisms which give rise to paraelectric behaviour are the distortion of individual ions (displacement of the electron cloud from the nucleus) and the polarization of molecules or combinations of ions or defects. </para>
+    <para id="import-auto-id1166654873203">Paraelectricity occurs in crystal phases in which electric dipoles are unaligned (i.e. unordered domains that are electrically charged) and thus have the potential to align in an external electric field and strengthen it. In comparison to the ferroelectric phase, the domains are unordered and the internal field is weak. </para>
+    <para id="import-auto-id1166661122486">The LiNbO3 crystal is ferroelectric below 1430 K, and above this temperature it turns to paraelectric phase. Other perovskites similarly exhibit paraelectricity at high temperatures. Paraelectricity may provide an alternative to the traditional heat pump. A current applied to a paraelectric material will cause it to cool down - which could be useful for refrigeration or for cooling computer chips.</para>
+    <figure id="import-auto-id1166654420331">
+      <media id="import-auto-id1166654866928" alt="">
+        <image mime-type="image/png" src="../../media/Picture 2-1772.png" height="676" width="623"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166663657870">As shown in Figure 4.7.b. below Curie Temperature it takes tetragonal symmetry. Each Unit Cell has built-in electric dipole which may be reversed by the application of electric field. These electric dipoles may be re-oriented in any desired direction by the application of appropriately directed electric field. This is analogous to Ferro-magnetism hence it is called Ferro-electricity.</para>
+    <para id="import-auto-id1166654352538">In PZT, below Curie Temperature , there are domains of polarization known as WEISS DOMAINS as shown in Figure 4.8.a. Within WEISS DOMAIN, the dipoles are self-aligned hence WEISS DOMAINS has a net polarization measured by dipole moment per unit volume. But WEISS DOMAINS  in PZT are randomly oriented as shown in the Figure 4.8.a.Overall polarization or Piezoelectric effect is zero. But this mass of minute crystallites in PZT containing randomly oriented WEISS DOMAINS can be induced to have net polarization by the application of strong electric field. This is called Electric Poling and has been illustrated in Figure 4.8.b.</para>
+    <para id="import-auto-id4003856">
+      <figure id="import-auto-id1166654661327">
+        <media id="import-auto-id1166654638548" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-c71a.png" height="358" width="620"/>
+        </media>
+      </figure>
+    </para>
+    <para id="import-auto-id1166654905021">As seen in Figure 4.8.b. after Electric Poling all Weiss Domains are forced to be oriented in a given direction by the application of Electric Field in the desired direction below Curie Temperature. The domains most nearly aligned with the applied electric field grow at the expnse of the other domains. Even after field is removed the alignment remains locked in the desired direction, giving PZT a remnant electric polarization and a permanent deformation making the material anisotropic. In anisotropic materials the material property depends on the direction of measurement.  This is exactly as in Ferro-magnetic Materials. Just as we have B-H Hysteresis Loop in Ferro-Magnet we have Polarization-E Hysteresis Loop in Ferro-electric Materials as shown in Figure 4.9. D closely follows Polarization-E curve. </para>
+    <para id="import-auto-id1166654648020">Remnent Polarization for soft PZT is P<sub>r</sub> = 0.3 [(C-m)/m<sup>3</sup>]= 0.3C/m<sup>2</sup>=Dipole Moment per unit Volume.</para>
+    <para id="import-auto-id1166654664298">In piezo-electric materials we have Mechanical Deformation versus Applied Electric Field curve. This also shows a hysteresis loop showing plasticity and plasticity loss.</para>
+    <figure id="import-auto-id1166654353775">
+      <media id="import-auto-id1166654669625" alt="">
+        <image mime-type="image/png" src="../../media/Picture 4-b922.png" height="317" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-id1166654456899"> In Table 4.5.1. the main electric parameters of standard Piezo-electric materials are given.</para>
+    <para id="import-auto-id1166655016412">
+      <emphasis effect="bold">Table 4.5.1. Dielectric Constant and Q-Factor of Quartz, PZT 5A and PZT 4A.</emphasis>
+    </para>
+    <table id="import-auto-id1166655104840" summary="">
+      <tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <thead>
+          <row>
+            <entry>Materials</entry>
+            <entry>Quartz</entry>
+            <entry>PZT 5A(NAVY II)</entry>
+            <entry>PZT 4A(NAVY II)</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Dielectric Constant</entry>
+            <entry>4.5</entry>
+            <entry>1800</entry>
+            <entry>1300</entry>
+          </row>
+          <row>
+            <entry>Q-factor</entry>
+            <entry>10<sup>4</sup> - 10<sup>6</sup></entry>
+            <entry>80</entry>
+            <entry>600</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="import-auto-id1166659836609">
+      <emphasis effect="bold">Section 4.5.1.Applications of Piezo-electric and Ferro-electric Materials. </emphasis>
+    </para>
+    <para id="import-auto-id1166654292790">Quartz are used as high Q, high precision Mechanical Resonators and find wide applications as generating stable electric oscillations for Watches, Clock Waveforms in Computers and for generating Carrier Waves in Radio Broadcast Stations.</para>
+    <para id="import-auto-id1166664973772">To date Quartz Crystal Oscillators (Xtal Oscillator) is the stab lest Frequency Generators. The Frequency of Xtal Oscillator does not drift with temperature , aging or with varying load. The Resonance Frequencies or Natural Frequencies are well defined by the physical dimensions of the crystal and oscillation occurs at natural frequencies. Quartz Xtal Oscillators are very small. It consists of a thin piece of Cut Quartz Wafer with two parallel surfaces metalized to make required electrical connections. The physical dimensions of the crystal are critical in faithfully producing a given frequency.  </para>
+    <para id="import-auto-id1166656669805">PZT are generally used as actuating systems in which they operate they operate below natural resonance frequencies and in which the ability to generate high forces and high spatial displacements is more important e.g. in high performance Ultra-sonic Transducers. PZT  can be shaped in any fashion and it can be polarized in  any direction.</para>
+  </content>
+</document>
