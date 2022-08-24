@@ -1,144 +1,37 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Bijay_Kumar Sharma">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11615</md:content-id>
-  <md:title>Electrical and Electronic Materials Science</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>04851ca5-6fc7-4e58-ac9b-db092962acff</md:uuid>
-<md:slug>electrical-and-electronic-materials-science</md:slug>
-</metadata>
-
+    <md:content-id>col11615</md:content-id>
+    <md:title>Electrical and Electronic Materials Science</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>04851ca5-6fc7-4e58-ac9b-db092962acff</md:uuid>
+    <md:slug>electrical-and-electronic-materials-science</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m34199"/>
-        
-      
-    
-    
-      <col:module document="m34200"/>
-        
-      
-    
-    
-      <col:module document="m34202"/>
-        
-      
-    
-    
-      <col:module document="m34203"/>
-        
-      
-    
-    
-      <col:module document="m48918"/>
-        
-      
-    
-    
-      <col:module document="m48856"/>
-        
-      
-    
-    
-      <col:module document="m49804"/>
-        
-      
-    
-    
-      <col:module document="m49811"/>
-        
-      
-    
-    
-      <col:module document="m49815"/>
-        
-      
-    
-    
-      <col:module document="m49555"/>
-        
-      
-    
-    
-      <col:module document="m34450"/>
-        
-      
-    
-    
-      <col:module document="m34343"/>
-        
-      
-    
-    
-      <col:module document="m49543"/>
-        
-      
-    
-    
-      <col:module document="m49722"/>
-        
-      
-    
-    
-      <col:module document="m49723"/>
-        
-      
-    
-    
-      <col:module document="m49782"/>
-        
-      
-    
-    
-      <col:module document="m49792"/>
-        
-      
-    
-    
-      <col:module document="m49713"/>
-        
-      
-    
-    
-      <col:module document="m49719"/>
-        
-      
-    
-    
-      <col:module document="m49733"/>
-        
-      
-    
-    
-      <col:module document="m49939"/>
-        
-      
-    
-    
-      <col:module document="m49953"/>
-        
-      
-    
-    
-      <col:module document="m49954"/>
-        
-      
-    
-    
-      <col:module document="m49955"/>
-        
-      
-    
+    <col:module document="m34199"/>
+    <col:module document="m34200"/>
+    <col:module document="m34202"/>
+    <col:module document="m34203"/>
+    <col:module document="m48918"/>
+    <col:module document="m48856"/>
+    <col:module document="m49804"/>
+    <col:module document="m49811"/>
+    <col:module document="m49815"/>
+    <col:module document="m49555"/>
+    <col:module document="m34450"/>
+    <col:module document="m34343"/>
+    <col:module document="m49543"/>
+    <col:module document="m49722"/>
+    <col:module document="m49723"/>
+    <col:module document="m49782"/>
+    <col:module document="m49792"/>
+    <col:module document="m49713"/>
+    <col:module document="m49719"/>
+    <col:module document="m49733"/>
+    <col:module document="m49939"/>
+    <col:module document="m49953"/>
+    <col:module document="m49954"/>
+    <col:module document="m49955"/>
   </col:content>
 </col:collection>
